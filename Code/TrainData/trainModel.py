@@ -2,8 +2,8 @@ import pandas as pd
 import torch
 import duckdb as db
 
-from createDataModel.createHeteroData2Edges import HeteroData2EdgesProcessor
-from createDataModel.createHeteroData1Edge1Feature import HeteroData1Edge1FeatureProcessor
+from createDataModel.createHeteroData.createHeteroData2Edges import HeteroData2EdgesProcessor
+from createDataModel.createHeteroData.createHeteroData1Edge1Feature import HeteroData1Edge1FeatureProcessor
 from visualize.visualizeHeteroData import HeteroDataVisualizer
 
 # Possible datasets
@@ -42,7 +42,7 @@ df_combined.drop(columns=["Keyphrases"], inplace=True)
 processor = HeteroData1Edge1FeatureProcessor()
 
 # To reduce the number of rows for testing
-df_combined = df_combined.sample(n=80)
+# df_combined = df_combined.sample(n=80)
 
 processor.load_data(df_combined)
 data = processor.get_data()

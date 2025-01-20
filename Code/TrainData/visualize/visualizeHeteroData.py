@@ -66,4 +66,4 @@ class HeteroDataVisualizer:
 
 # IMPORTANT Information:
 # it gets really slow when the number of nodes is high
-# I advice using df.sample(n=500) to reduce the number of nodes for testing
+# I advice using df.sample(n=200) to reduce the number of nodes for testing
