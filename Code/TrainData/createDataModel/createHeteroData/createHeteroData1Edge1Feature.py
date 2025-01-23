@@ -22,13 +22,16 @@ class HeteroData1Edge1FeatureProcessor:
 
         # Add category as a feature to patents
         patent_categories = torch.zeros((len(patent_mapping), len(category_mapping)))
+        patent_labels = torch.zeros(len(patent_mapping), dtype=torch.long)
         for _, row in df_combined.iterrows():
             patent_id = patent_mapping[row["Lens ID"]]
             category_id = category_mapping[row["Category"]]
             patent_categories[patent_id, category_id] = 1
+            patent_labels[patent_id] = category_id
 
         self.data['patents'].x = patent_categories
-        print("Added category features to patents")
+        self.data['patents'].y = patent_labels
+        print("Added category features and labels to patents")
 
         # Create edges based on classifications
         classification_edges = {}
@@ -73,7 +76,7 @@ class HeteroData1Edge1FeatureProcessor:
         return self.data
     
 # Example usage:
-# processor = HeteroDataProcessor("example_table")
+# processor = HeteroData1Edge1FeatureProcessor()
 # processor.load_data(df_combined)
 # train_data, val_data, test_data = processor.split_data()
 # data = processor.get_data()
