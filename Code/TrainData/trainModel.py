@@ -22,16 +22,16 @@ class ModelTrainer:
         self.optimizer = optimizer
         self.criterion = criterion
     
-    def trian_model(self, epochs):
+    def train_model(self, epochs):
         losses = []
         
         for epoch in range(1, epochs + 1):
-            loss = self.train(self.model, self.data, self.optimizer, self.criterion)
+            loss = train(self.model, self.data, self.optimizer, self.criterion)
             losses.append(loss)
             if epoch % 10 == 0:
                 print(f'Epoch: {epoch:03d}, Loss: {loss:.4f}')
                 
     def test_model(self):
-        test_acc = self.test(self.model, self.data)
+        test_acc = test(self.model, self.data)
         print(f'***** Evaluating the test dataset *****')
         print(f'Test Accuracy: {test_acc:.4f}')

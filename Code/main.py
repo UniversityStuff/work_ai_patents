@@ -1,7 +1,7 @@
 import torch
 from TrainData.createDataModel.createHeteroData.createHeteroData1Edge1Feature import HeteroData1Edge1FeatureProcessor
 from TrainData.createDataModel.createInMemoryDataset.createInMemoryDataset import PatentsInMemoryDataset
-from TrainData.models import HeteroGCN
+from TrainData.models.HeteroGCN import HeteroGCN
 from PrepareData.prepareDataForDB import prepare_data_for_db
 import duckdb as db
 
@@ -17,7 +17,7 @@ con = db.connect("Data/textile_patents.duckdb")
 # file_names = ["Anti-Seed-3k","Set-Mineral-Textile-Without-Metal", "Set-Metal-Textiles", "Set-Natural-Textiles", "Set-Synthetic-Textiles"]
 # # The table names in the database
 # # Different because these will be the labels for the classification later
-# table_names = ["antiSeed", "mineralTextiles", "metalTextiles", "naturalTextiles", "syntheticTextiles"]
+table_names = ["antiSeed", "mineralTextiles", "metalTextiles", "naturalTextiles", "syntheticTextiles"]
 
 # prepare_data_for_db(file_names, table_names, con)
 
@@ -27,7 +27,7 @@ con = db.connect("Data/textile_patents.duckdb")
 # preprocessor = HeteroData2EdgesProcessor()
 preprocessor = HeteroData1Edge1FeatureProcessor()
 
-training_data = TrainingData(preprocessor)
+training_data = TrainingData(con=con, tables=table_names, data_model_preprocessor=preprocessor)
 
 training_data.create_combined_tables()
 training_data.create_balanced_data()

@@ -1,5 +1,5 @@
 import torch
-from Code.TrainData.visualize.visualizeHeteroData import HeteroDataVisualizer
+from .visualize.visualizeHeteroData import HeteroDataVisualizer
 
 
 class TrainingData:
@@ -60,7 +60,7 @@ class TrainingData:
             self.df_combined = df_combined
         
         self.data_model_preprocessor.load_data(self.df_combined)
-        data = self.preprocessor.get_data()
+        data = self.data_model_preprocessor.get_data()
         self.hetero_data = data
         torch.save(data, "Data/TextilePatents/raw/data.pt")
     

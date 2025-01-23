@@ -1,5 +1,5 @@
-from keyphraseExtractors.keyphraseExtractionKbirInspec import get_keyphrases
-from cleanData import clean_data_and_inser_into_db
+from .keyphraseExtractors.keyphraseExtractionKbirInspec import get_keyphrases
+from .cleanData import clean_data_and_inser_into_db
 
 
 def add_keyphrases_to_db(con, table_names):
