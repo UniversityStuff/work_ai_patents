@@ -1,5 +1,6 @@
 import torch
-from TrainData.createDataModel.createHeteroData.createHeteroData1Edge1Feature import HeteroData1Edge1FeatureProcessor
+from TrainData.createDataModel.createHeteroData.createHeteroData1Edge import HeteroData1Edge
+from TrainData.createDataModel.createHeteroData.createHeteroData2Edge import HeteroData2Edge
 from TrainData.createDataModel.createInMemoryDataset.createInMemoryDataset import PatentsInMemoryDataset
 from TrainData.models.HeteroGCN import HeteroGCN
 from PrepareData.prepareDataForDB import prepare_data_for_db
@@ -24,16 +25,18 @@ table_names = ["antiSeed", "mineralTextiles", "metalTextiles", "naturalTextiles"
 
 # --------------------------------- Prepare Data for Training --------------------------------- #
 
-# preprocessor = HeteroData2EdgesProcessor()
-preprocessor = HeteroData1Edge1FeatureProcessor()
+# preprocessor = HeteroData1Edge()
+preprocessor = HeteroData2Edge()
 
 training_data = TrainingData(con=con, tables=table_names, data_model_preprocessor=preprocessor)
 
+training_data.clean_processed_folder()
+training_data.clean_raw_folder()
 training_data.create_combined_tables()
-training_data.create_balanced_data()
+training_data.create_balanced_split_data(balanced=True)
 training_data.create_hetero_data()
 
-# Manually remove training_data from memory because it is very inefficient
+# Manually remove training_data from memory
 del training_data
 
 # --------------------------------- TRAIN MODEL --------------------------------- #
@@ -55,6 +58,7 @@ print(data['patents'].y.shape)
 print(data['patents', 'same_classification', 'patents'].edge_index.shape)
 print(data['patents'].train_mask.shape)
 
+# Define parameters
 hidden_channels = 16
 learning_rate = 0.01
 decay = 5e-4

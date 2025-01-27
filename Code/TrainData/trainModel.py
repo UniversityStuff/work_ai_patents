@@ -1,3 +1,6 @@
+import torch
+
+
 def train(model, data, optimizer, criterion):
     model.train()
     optimizer.zero_grad()
@@ -35,3 +38,7 @@ class ModelTrainer:
         test_acc = test(self.model, self.data)
         print(f'***** Evaluating the test dataset *****')
         print(f'Test Accuracy: {test_acc:.4f}')
+    
+    def save_model(self, file_path):
+        torch.save(self.model.state_dict(), file_path)
+        print(f'Model saved to {file_path}')

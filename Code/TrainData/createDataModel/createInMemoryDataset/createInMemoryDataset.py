@@ -36,27 +36,32 @@ class PatentsInMemoryDataset(InMemoryDataset):
         data_list = []
         data = torch.load(self.raw_paths[0])
         
-        # Create train_mask and test_mask
-        num_nodes = data['patents'].num_nodes
-        train_size = int(0.8 * num_nodes)
-        # val_size = int(0.1 * num_nodes)
-        val_size = 0
-        test_size = num_nodes - train_size - val_size
-
-        train_mask = torch.zeros(num_nodes, dtype=torch.bool)
-        val_mask = torch.zeros(num_nodes, dtype=torch.bool)
-        test_mask = torch.zeros(num_nodes, dtype=torch.bool)
         
-        print(f"Train size: {train_size}, Val size: {val_size}, Test size: {test_size}")
+        try: 
+            data['patents'].train_mask
+        except AttributeError:
+            print("Adding masks to data based on nothing")
+            # Create train_mask and test_mask
+            num_nodes = data['patents'].num_nodes
+            train_size = int(0.8 * num_nodes)
+            # val_size = int(0.1 * num_nodes)
+            val_size = 0
+            test_size = num_nodes - train_size - val_size
 
-        train_mask[:train_size] = True
-        val_mask[train_size:train_size + val_size] = True
-        test_mask[train_size + val_size:] = True
-        
-        # Add masks to data
-        data['patents'].train_mask = train_mask
-        data['patents'].val_mask = val_mask
-        data['patents'].test_mask = test_mask
+            train_mask = torch.zeros(num_nodes, dtype=torch.bool)
+            val_mask = torch.zeros(num_nodes, dtype=torch.bool)
+            test_mask = torch.zeros(num_nodes, dtype=torch.bool)
+            
+            print(f"Train size: {train_size}, Val size: {val_size}, Test size: {test_size}")
+
+            train_mask[:train_size] = True
+            val_mask[train_size:train_size + val_size] = True
+            test_mask[train_size + val_size:] = True
+            
+            # Add masks to data
+            data['patents'].train_mask = train_mask
+            data['patents'].val_mask = val_mask
+            data['patents'].test_mask = test_mask
         
         data_list.append(data)
         
