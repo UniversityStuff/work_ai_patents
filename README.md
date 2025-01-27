@@ -1,51 +1,26 @@
-# Ideas
-- train keyphrase extractor with cpc classes
-- Multilevel Graph (the CPC classes are related to each other as well in a tree structure)
-- use chatgbt as classifier
+# Using Graph Neural Networks to predict the CPC labels of patents
 
-# Known Issues
+This is an example f how to use Graph Neural Networks to predict the CPC labels of patents. The data is from the [Lens](https://www.lens.org/) database. The data is preprocessed and stored in a duckDB database. The data is stored in the `Data` folder. The data is stored in the following tables:
+
+Handselected:
+- antiSeed
+- metalTextiles
+- naturalTextiles
+- mineralTextiles
+- syntheticTextiles
+
+10000 samples filtered by CPC classes and keywords, but not manually checked:
+mineralTextilesTestSet (From the mineralTextiles)
+
+## Known Issues
 - We have Empty CPC classes, we need to remove them (E.g. "CPC Class: """ --> This makes it very akward to work with the data, but in theory it should work)     
+- The keyphrase Extractor has limited capabilities and has been made for another usecase. See more in the [keyphraseExtractors](../keyphraseExtractors) folder.
 
-# Information about the datasets
-
-- "Set Synthetic Textile" --> Highest proportion of foud by CPC classes
-
-# Doing
-
-
-# DBs
-antiSeed
-metalTextiles
-naturalTextiles
-mineralTextiles
-syntheticTextiles
+## How to run
+1. Install the requirements (Currently not fully documented)
+- torch
+- duckDB
+2. Run the `main.py` file
 
 
-# Results
-Datamodel:
-- HeteroData1Edge1Feature.py
-
-Variables:
-- hidden_channels = 16
-- learning_rate = 0.01
-- decay = 5e-4
-- epochs = 200
-
-Test Accuracy internal Test:
-Without balancing:
-- 0.0468
-With balancing and balance_limit = 1000:
-- 0.2838
-
-Datamodel:
-- HeteroData1Edge1FeatureEnhanced1.py
-
-Variables:
-- hidden_channels = 16
-- learning_rate = 0.01
-- decay = 5e-4
-- epochs = 200
-
-Test Accuracy internal Test (with balancing):
-- 0.3003
-
+There is a lot of commented code in the different files for activation different features. The code is not cleaned up, but it should be easy to follow.

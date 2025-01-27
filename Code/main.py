@@ -81,3 +81,4 @@ model_trainer = ModelTrainer(model, data, optimizer, criterion)
 
 model_trainer.train_model(epochs)
 model_trainer.test_model()
+model_trainer.save_model("Data/TextilePatents/model.pt")
