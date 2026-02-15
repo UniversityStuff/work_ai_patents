@@ -1,0 +1,20 @@
+id,prompt_template
+0,"You are an expert patent classifier. Your task is to classify the following patent into exactly one of these categories: {categories}
+
+Patent text:
+{text}
+
+Analyze the patent content and respond with a JSON object in this exact format:
+{{
+    ""predicted_label"": ""<the most appropriate category from the list>"",
+    ""confidence"": <a number between 0 and 1 indicating your confidence>,
+    ""scores"": {{
+        ""<category1>"": <score between 0 and 1>,
+        ""<category2>"": <score between 0 and 1>
+    }}
+}}
+
+Important:
+- The predicted_label MUST be exactly one of the categories provided
+- All scores should sum to approximately 1.0
+- Respond ONLY with the JSON object, no additional text"

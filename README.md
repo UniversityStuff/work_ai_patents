@@ -24,3 +24,9 @@ mineralTextilesTestSet (From the mineralTextiles)
 
 
 There is a lot of commented code in the different files for activation different features. The code is not cleaned up, but it should be easy to follow.
+
+
+## Zero Shot Classification
+
+See more in the [ZeroShotClassification](../ZeroShotClassification) folder.
+Read the [README.md](../ZeroShotClassification/README.md) file for more information.

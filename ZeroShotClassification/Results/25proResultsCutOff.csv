@@ -1,0 +1,1453 @@
+LensID,Title,true_category,predicted_one,confidence_one,predicted_two,confidence_two
+069-650-255-660-210,METALLIC YARN,Metal Textiles,Metal Textiles,0.95,Synthetic Textiles,0.04
+079-371-609-369-49X,GLOVE AND GLOVE MANUFACTURING METHOD USING TUNGSTEN YARN,Metal Textiles,Metal Textiles,0.9,Synthetic Textiles,0.08
+069-690-063-792-127,"MESH STRUCTURE AND METHOD FOR MANUFACTURING SAME, ANTENNA REFLECTION MIRROR, ELECTROMAGNETIC SHIELDING MATERIAL, AND WAVEGUIDE TUBE",Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.01
+072-233-647-840-326,"Conductive fabric,method of manufacturing a conductive fabric and apparatus therefor",Metal Textiles,Metal Textiles,0.9,Synthetic Textiles,0.05
+073-506-111-387-532,A METHOD OF MAKING A SYNTHETIC RESIN STRUCTURE,Metal Textiles,Metal Textiles,0.95,Synthetic Textiles,0.03
+081-046-358-303-017,STRIP-SHAPED STEEL CORD,Metal Textiles,Metal Textiles,0.99,Other,0.01
+065-528-931-353-44X,"Steel wire mesh made of steel wires having hexagonal rings, production device and production method",Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.005
+079-373-952-634-085,"WIRES INCORPORATING A HELICAL COMPONENT, ASSEMBLIES THEREOF, AND USE OF SAID ASSEMBLIES AS CATALYSER AND/OR TO RECOVER PRECIOUS METALS.",Metal Textiles,Metal Textiles,0.97,Other,0.015
+070-081-798-029-335,Heterogeneous fabric for quenching ring,Metal Textiles,Mineral Textiles,0.8,Metal Textiles,0.15
+055-198-091-295-280,Safety belt and method for producing a safety belt,Metal Textiles,Other,0.6,Synthetic Textiles,0.2
+085-517-310-214-617,"Multi-purpose filter for e.g. food, pharmaceutical filtration has hard woven structure retaining small particles",Metal Textiles,Synthetic Textiles,0.9,Natural Textiles,0.05
+092-036-004-141-321,Cushion paper,Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.01
+067-530-851-292-005,Textile with integrated illumination feature,Metal Textiles,Other,0.8,Metal Textiles,0.15
+065-773-873-561-572,"METHOD FOR MANUFACTURING GOLD THREAD WITH NO DRAWING-INDUCED INCONSISTENCY, AND GOLD THREAD MANUFACTURED BY SAME",Metal Textiles,ERROR,0.0,ERROR,0.0
+117-137-817-106-628,High temperature dynamic sealing material and preparation method thereof,Metal Textiles,ERROR,0.0,ERROR,0.0
+114-576-938-093-54X,OVEN GASKET ATTACHMENT CLIPS,Metal Textiles,Mineral Textiles,0.6,Metal Textiles,0.35
+093-089-709-185-207,"MATERIAL CAPABLE OF PRODUCING BARRIER EFFECT TOWARDS MAGNETIC AND ELECTROMAGNETIC FIELDS AND/OR THERAPEUTIC EFFECT, CLOTHING OR THE COMPONENT OF CLOTHING, SANITARY CLOTHING, FOOTWEAR OR THE COMPONENT OF FOOTWEAR, ELEMENT OF INTERIOR DECORATION, COVERING OF ELEMENTS OF INTERIOR DECORATION AND COMPONENT OF BED LINEN",Metal Textiles,Metal Textiles,0.94,Other,0.03
+106-916-348-975-882,TWISTED REINFORCEMENT FIBERS AND METHOD OF MAKING,Metal Textiles,Metal Textiles,0.98,Synthetic Textiles,0.01
+116-603-974-365-825,Conductive heating fiber fabric with incision and connection structure thereof,Metal Textiles,Metal Textiles,0.9,Synthetic Textiles,0.07
+118-058-162-160-092,Controllable surface area fabric,Metal Textiles,Metal Textiles,0.95,Synthetic Textiles,0.03
+107-387-871-310-645,"Silver yarn, plied yarn silver yarn, functional fabric using same, and method for producing same",Metal Textiles,Metal Textiles,0.98,Natural Textiles,0.01
+116-637-444-674-570,COMPOSITE FIBER,Metal Textiles,Metal Textiles,0.5,Mineral Textiles,0.45
+124-299-060-002-493,"A Protective Wire Net, A Protective Structure Constructed With the Net, and the Use of the Protective Wire Net for the Construction of A Protective Structure",Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.01
+105-960-545-134-312,Improvements in the Manufacture of Metallic Fabrics.,Metal Textiles,Metal Textiles,0.99,Other,0.01
+109-529-650-815-109,Flexible structures for sensors and electronics,Metal Textiles,Other,0.85,Synthetic Textiles,0.1
+128-303-643-318-232,Woven or knitted fabric prepared from a concave-convex patterned metal fiber yarn,Metal Textiles,Metal Textiles,1.0,Natural Textiles,0.0
+115-002-645-412-539,THREE-DIMENSIONAL NETS FROM NOBLE METALS FOR PERFORMING CATALYTIC REACTIONS OF GASES,Metal Textiles,Metal Textiles,0.98,Mineral Textiles,0.01
+123-155-387-974-228,Microfiber cleaner mixed with metallic yarn,Metal Textiles,Metal Textiles,0.65,Synthetic Textiles,0.3
+132-904-217-324-857,TEXTILE FABRIC COMPRISING BUNDLES OF MACHINED METAL FILAMENTS,Metal Textiles,Metal Textiles,0.99,Synthetic Textiles,0.005
+150-896-535-165-893,"STEEL WIRE MESH MADE OF STEEL WIRES HAVING HEXAGONAL LOOPS, PRODUCTION DEVICE, AND PRODUCTION METHOD.",Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.01
+117-555-772-690-999,Fabric-Based Items Having Strands With Embedded Components,Metal Textiles,Synthetic Textiles,0.7,Other,0.2
+136-423-147-157-376,METAL FABRICS,Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.01
+147-158-751-976-743,STEEL CORD,Metal Textiles,Metal Textiles,1.0,Natural Textiles,0.0
+134-477-324-045-473,Manufacturing technology of high-tenacity string,Metal Textiles,Metal Textiles,0.75,Synthetic Textiles,0.2
+151-480-427-016-492,Composite termite barrier,Metal Textiles,Metal Textiles,0.95,Other,0.02
+159-005-756-825-061,METAL ALLOY KNIT FABRIC FOR HIGH TEMPERATURE INSULATING MATERIALS,Metal Textiles,Metal Textiles,0.99,Synthetic Textiles,0.005
+161-556-864-262-473,"WOVEN OR KNITTED FABRIC, DIAPHRAGM FOR SPEAKER, AND SPEAKER",Metal Textiles,Metal Textiles,0.9,Synthetic Textiles,0.05
+144-346-264-182-769,"Yarn, yarn forming process, protective textile and knitting method and device",Metal Textiles,Metal Textiles,0.99,Other,0.01
+161-627-272-376-392,METAL OXIDE NANOFIBER ELECTRODE AND METHOD,Metal Textiles,Metal Textiles,0.95,Mineral Textiles,0.03
+167-715-017-158-863,"FABRIC, PARTICULARLY FOR JEWELRY, CLOTHING, AND TECHNICAL OR RESEARCH PURPOSES",Metal Textiles,Other,0.65,Metal Textiles,0.1
+165-416-145-064-463,"Weaving process to manufacture a thermoelectric label, e.g. for powering hidden microphones, alternately inserting weft threads of electrically conducting material",Metal Textiles,Metal Textiles,0.95,Synthetic Textiles,0.02
+154-523-220-092-072,PRODUCTS COMPRISING REINFORCING FIBRES AND SHAPE MEMORY ALLOY WIRES AND METHODS OF MAKING THEREOF,Metal Textiles,Metal Textiles,0.9,Synthetic Textiles,0.05
+155-970-630-328-528,"WIRES INCORPORATING A HELICAL COMPONENT, ASSEMBLIES THEREOF, AND USE OF SAID ASSEMBLIES AS CATALYSER AND/OR TO RECOVER PRECIOUS METALS",Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.005
+169-259-364-478-075,CONDUCTIVE FABRIC AND METHOD AND APPARATUS FOR MANUFACTURING SAME,Metal Textiles,Metal Textiles,0.95,Synthetic Textiles,0.02
+171-026-675-907-919,METAL-CARBON NANOFIBER AND PRODUCTION METHOD THEREOF,Metal Textiles,Metal Textiles,0.95,Synthetic Textiles,0.02
+159-968-773-316-519,Hysteresis in textile sensor,Metal Textiles,Metal Textiles,0.5,Synthetic Textiles,0.3
+158-328-913-994-740,AN ELECTRICALLY CONDUCTIVE TEXTILE,Metal Textiles,Metal Textiles,0.85,Synthetic Textiles,0.08
+168-450-832-252-325,VIBRATORY SCREEN,Metal Textiles,Metal Textiles,0.95,Synthetic Textiles,0.04
+168-674-114-922-374,Composite fiber,Metal Textiles,Metal Textiles,0.55,Mineral Textiles,0.4
+172-983-230-815-764,HOLLOW METAL FIBER FOR ABSORBING ELECTROMAGNETIC WAVE AND ITS MANUFACTURING METHOD,Metal Textiles,Metal Textiles,0.99,Synthetic Textiles,0.01
+162-353-091-803-923,Tessuto conduttivo ad elevata versatilità di impiego.,Metal Textiles,Metal Textiles,0.95,Synthetic Textiles,0.02
+182-272-021-129-698,SEMICONDUCTING MATERIALS WITH SURROUNDING RADIAL P-N DIODES,Metal Textiles,Metal Textiles,0.85,Synthetic Textiles,0.1
+190-965-337-718-052,Knitted metal wire catalysts for exhaust gas conversion,Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.01
+184-493-906-786-056,Garment with unit coil intermeshing electric power storage function,Metal Textiles,Metal Textiles,0.98,Synthetic Textiles,0.01
+190-134-529-002-465,Alloy wire and preparation method and application thereof,Metal Textiles,Metal Textiles,0.95,Synthetic Textiles,0.02
+194-574-311-905-527,Cut resistant rope,Metal Textiles,Metal Textiles,0.98,Synthetic Textiles,0.01
+188-519-074-310-933,"Infrared wall surface heater for use in home and operating hall, has electric conductors lying transverse to carbon threads at both ends of heating element that is electrically protected by layers of electrically insulating films",Metal Textiles,Mineral Textiles,0.85,Metal Textiles,0.1
+193-764-393-063-829,METALLIC FIBER NON-WOVEN FABRIC AND ITS PRODUCTION METHOD.,Metal Textiles,Metal Textiles,0.98,Synthetic Textiles,0.01
+197-965-080-906-203,Tungsten filament yarn and textile thereof,Metal Textiles,Metal Textiles,0.98,Natural Textiles,0.01
+007-980-200-890-417,FABRIC STRUCTURE COMPRISING SILVER-GERMANIUM-COPPER ALLOY,Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.01
+002-201-040-412-776,MANUFACTURING METHOD OF METAL FIBER IMMOBILIZED BY PHOTOCATALYST.NANOSILVER,Metal Textiles,Metal Textiles,0.98,Synthetic Textiles,0.01
+196-827-992-259-81X,PRESS PAD FOR USE IN SINGLE- OR MULTI-DAYLIGHT HOT PRESSES,Metal Textiles,Metal Textiles,0.85,Synthetic Textiles,0.1
+005-272-528-894-884,Alloy wire rod and preparation method and application thereof,Metal Textiles,Metal Textiles,0.95,Mineral Textiles,0.04
+002-310-147-686-745,"Verfahren zur Herstellung eines Kalkfängergestricks, Kalkfängereinrichtung, Verfahren zum Filtern von Kalk sowie Verwendung hierzu",Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.01
+000-497-575-062-103,CATALYSTS AND GETTER SYSTEMS,Metal Textiles,Other,0.99,Metal Textiles,0.01
+016-218-172-568-819,"A protective metal netting with interwoven wires, and a machine and a method for its manufacture",Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.005
+003-725-830-034-056,ELECTROMAGNETICALLY SHIELDING MATERIAL,Metal Textiles,Metal Textiles,0.99,Synthetic Textiles,0.005
+018-400-715-086-255,ELECTROMAGNETIC WAVE SHIELDING FABRIC,Metal Textiles,Metal Textiles,0.99,Other,0.005
+013-526-318-040-503,PROTECTIVE MESH IN PARTICULAR FOR ROCKFALL PROTECTION OR FOR SLOPE STABILISATION,Metal Textiles,Metal Textiles,0.95,Synthetic Textiles,0.04
+022-583-688-805-865,Gewebe mit durch eine Drehverbindung gebundenen metallischen Elementen,Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.005
+018-657-038-051-701,METHOD FOR THE PRODUCTION OF A FIBROUS METAL STRUCTURE BY WEAVING,Metal Textiles,Metal Textiles,0.99,Other,0.01
+016-475-557-553-957,Recyclable medical stent and preparation method thereof,Metal Textiles,Metal Textiles,0.9,Synthetic Textiles,0.07
+019-176-961-268-92X,Manufacturing technology of flame-retardant fireproof roller shutter surface,Metal Textiles,Mineral Textiles,0.75,Metal Textiles,0.2
+012-702-188-468-07X,Smart Mask,Metal Textiles,Metal Textiles,0.75,Other,0.14
+018-995-339-187-487,FABRICATION METHOD OF SILVER NANO FIBER PREPARED BY 3-STEPS HEATING,Metal Textiles,Metal Textiles,0.98,Synthetic Textiles,0.01
+031-073-202-204-434,TUBE FOR INTRODUCTION TO OBJECT,Metal Textiles,Metal Textiles,0.9,Synthetic Textiles,0.05
+034-713-366-088-304,ELECTRICALLY CONDUCTIVE PAD AND MANUFACTURING METHOD THEREOF,Metal Textiles,Metal Textiles,0.9,Synthetic Textiles,0.05
+042-216-152-613-217,WIRING BOARD AND METHOD FOR MANUFACTURING THE SAME,Metal Textiles,Metal Textiles,0.98,Synthetic Textiles,0.01
+036-966-544-123-466,Protective mesh in particular for rockfall protection or for slope stabilisation,Metal Textiles,Metal Textiles,0.95,Synthetic Textiles,0.04
+035-399-839-504-982,"STEEL WIRE MESH MADE OF STEEL WIRES HAVING HEXAGONAL LOOPS, PRODUCTION DEVICE, AND PRODUCTION METHOD",Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.01
+057-210-684-451-834,CONDUCTIVE FABRIC AND METHOD AND APPARATUS FOR MANUFACTURING SAME,Metal Textiles,Metal Textiles,0.95,Synthetic Textiles,0.02
+024-611-272-946-152,Glove and Glove manufacturing method using tungsten yarn,Metal Textiles,Metal Textiles,0.95,Synthetic Textiles,0.04
+048-710-739-808-170,COMPLEX SHEET FOR ABSORBING/EXTINGUISHING AND SHIELDING ELECTROMAGNETIC WAVES AND HIGHLY DISSIPATING HEAT FROM ELECTRONIC DEVICE AND MANUFACTURING METHOD THEREFOR,Metal Textiles,Metal Textiles,0.85,Synthetic Textiles,0.05
+048-403-807-261-999,Cutting-resistant twisted metal yarn,Metal Textiles,Metal Textiles,0.6,Mineral Textiles,0.3
+070-823-860-875-146,Burner membrane comprising machined metal fiber bundles,Metal Textiles,Metal Textiles,1.0,Natural Textiles,0.0
+054-677-533-480-574,Metal fabrics,Metal Textiles,Metal Textiles,0.99,Synthetic Textiles,0.005
+059-865-973-909-995,Thin textile fabric comprising bundles of metal filaments,Metal Textiles,Metal Textiles,0.99,Synthetic Textiles,0.005
+061-277-664-358-326,"Metal mesh, arrangement of a metal mesh and method for illumination",Metal Textiles,Metal Textiles,0.99,Other,0.01
+076-881-889-116-681,"A protective metal netting with interwoven wires, and a machine and a method for its manufacture",Metal Textiles,Metal Textiles,0.99,Other,0.005
+059-371-596-862-879,VERFAHREN ZUR HERSTELLUNG VON GASDURCHLAESSIGEN NETZEN AUS EDELMETALLEN FUER KATALYTISCHE PROZESSE.,Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.01
+073-806-190-511-54X,Interlocking stitches-on seams of knitted stockings,Metal Textiles,Other,0.7,Metal Textiles,0.2
+073-765-663-207-049,A PROTECTIVE METAL NETTING AND A MACHINE AND A METHOD FOR ITS MANUFACTURE,Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.01
+075-352-383-081-266,COPPER FIBER NONWOVEN FABRIC,Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.01
+063-145-697-085-764,ANTI-VANDAL FABRIC WITH METALLIC YARNS,Metal Textiles,Metal Textiles,0.95,Natural Textiles,0.02
+075-137-460-278-168,"METHOD OF PRODUCING FIBERS, THREADS, WOVEN FABRICS, OR NON-WOVEN FABRICS IMPARTED WITH METALLIC PROPERTIES",Metal Textiles,Metal Textiles,0.98,Natural Textiles,0.005
+066-747-831-378-11X,Textile pressure sensor,Metal Textiles,Metal Textiles,0.45,Synthetic Textiles,0.35
+068-350-779-962-892,"STEEL WIRE MESH MADE OF STEEL WIRES HAVING HEXAGONAL LOOPS, PRODUCTION DEVICE, AND PRODUCTION METHOD",Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.01
+072-873-704-468-184,PROCESS AND APPARATUS FOR MANUFACTURING A METALLIC REINFORCING CORD FOR TYRES FOR VEHICLE WHEELS,Metal Textiles,Metal Textiles,0.98,Other,0.01
+101-893-633-290-38X,Nonwoven copper fabric and process for producing nonwoven copper fabric,Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.01
+096-533-897-325-349,Metal fabric and method of making a metal fabric,Metal Textiles,Metal Textiles,0.99,Synthetic Textiles,0.01
+081-989-847-431-929,Halbzeug aus Metallgewebe,Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.01
+099-933-806-648-006,COMBUSTION MEMBRANE FOR A GAS BURNER,Metal Textiles,Metal Textiles,0.99,Synthetic Textiles,0.005
+115-868-063-489-111,Items with conductive yarn,Metal Textiles,Metal Textiles,0.95,Synthetic Textiles,0.02
+085-271-716-013-041,"Improved Metallic Fabrics for Clothing, Upholstering an other Purposes.",Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.01
+113-304-834-849-028,FABRIC SUITABLE TO PROVIDE A BARRIER EFFECT AGAINST MAGNETIC AND ELECTROMAGNETIC FIELDS AND/OR METALLOTHERAPY EFFECTS,Metal Textiles,Metal Textiles,0.98,Natural Textiles,0.005
+103-895-041-457-889,"SCHUTZNETZ AUS DRAHT, SCHUTZEINRICHTUNG MIT EINEM SOLCHEN SCHUTZNETZ UND VERWENDUNG EINES SOLCHEN SCHUTZNETZES ZUM AUFBAU DER SCHUTZEINRICHTUNG",Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.01
+075-685-047-563-739,ROOFING ACCESSORIES WITH RADIOFREQUENCY RADIATION SHIELDING CAPABILITIES AND METHODS OF MAKING AND USE THEREOF,Metal Textiles,Metal Textiles,0.9,Synthetic Textiles,0.07
+114-363-022-301-864,FABRIC STRUCTURE,Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.005
+117-156-000-807-458,"Metal fabric, sheet set, decoration, stationery, container and method of manufacturing container",Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.01
+122-140-803-138-918,"POWER-GENERATING INSOLE, POWER-GENERATING BLANKET AND POWER-GENERATING SOCK",Metal Textiles,Metal Textiles,0.9,Synthetic Textiles,0.04
+135-062-915-310-007,CONDUCTIVE MONOFILAMENT AND FABRIC,Metal Textiles,Metal Textiles,0.9,Synthetic Textiles,0.07
+139-653-944-716-575,Apparatus for supplying metallic yarn,Metal Textiles,Metal Textiles,0.99,Other,0.01
+137-663-135-714-621,COPPER YARN,Metal Textiles,Metal Textiles,0.98,Natural Textiles,0.02
+137-652-088-489-076,WOVEN FABRIC HAVING WEFT WIRES AND ITS USE AND METHOD FOR INSTALLING A HANGING FOR A BUILDING,Metal Textiles,Metal Textiles,0.98,Synthetic Textiles,0.01
+128-200-944-916-277,CONDUCTIVE MONOFILAMENT AND FABRIC.,Metal Textiles,Metal Textiles,0.85,Synthetic Textiles,0.12
+140-417-214-613-532,TEXTILE DIGITAL BAND AND FABRITICATING METHOD THEREOF,Metal Textiles,Metal Textiles,0.85,Synthetic Textiles,0.1
+125-232-825-684-087,Drahtgewebe,Metal Textiles,Metal Textiles,0.9,Other,0.1
+136-495-962-270-909,Chinstrap sock with metal-containing yarn,Metal Textiles,Metal Textiles,0.99,Synthetic Textiles,0.005
+140-365-372-469-968,"Method for detecting and remotely managing sensors and/or devices for feeding textile and/or metallic yarns installed on one or more textile machines, and system thereof",Metal Textiles,Other,0.95,Metal Textiles,0.05
+145-611-054-127-201,Metallic network garment capable of charging mobile phone,Metal Textiles,Metal Textiles,1.0,Natural Textiles,0.0
+151-879-899-588-346,An electrically conductive textile,Metal Textiles,Metal Textiles,0.85,Synthetic Textiles,0.1
+142-278-260-434-59X,"""AN ELECTRICALLY CONDUCTIVE TEXTILE""",Metal Textiles,Metal Textiles,0.9,Synthetic Textiles,0.05
+150-940-433-215-533,"Stromleitende, Nässe haltende Struktur",Metal Textiles,Metal Textiles,0.95,Synthetic Textiles,0.02
+157-213-908-904-652,METALLISIERTE GEWEBE- ODER GEWIRKBAHN.,Metal Textiles,Metal Textiles,0.99,Synthetic Textiles,0.005
+149-697-652-612-501,"A STRUCTURE FOR THE REINFORCEMENT OF PAVEMENTS COMPRISING ASSEMBLIES OF GROUPED METAL FILAMENTS IN A PARALLEL POSITION, METHOD OF MANUFACTURE AND INSTALLATION",Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.005
+167-933-384-655-242,DEVICE FOR DIRECT AND REVERSIBLE CONVERSION OF THERMAL ENERGY INTO ELECTRICAL ENERGY,Metal Textiles,Metal Textiles,0.9,Synthetic Textiles,0.04
+157-522-977-516-265,A MASONRY REINFORCEMENT STRUCTURE COMPRISING PARALLEL ASSEMBLIES OF GROUPED METAL FILAMENTS AND A POLYMER COATING.,Metal Textiles,Metal Textiles,0.95,Synthetic Textiles,0.04
+150-487-161-082-817,HEAT-SHRUNK TEXTILE SLEEVE WITH EXTENDED ELECTRO-FUNCTIONAL YARN AND METHOD OF CONSTRUCTION THEREOF,Metal Textiles,Metal Textiles,0.7,Synthetic Textiles,0.25
+153-972-241-349-532,"Verfahren zum Herstellen einer strukturierten Materialbahn aus gewirkten, gestrickten oder gewebten Fäden und Verwendung derselben",Metal Textiles,Other,0.9,Synthetic Textiles,0.04
+162-238-841-098-490,Reinforcing structure for stiff composite articles,Metal Textiles,Metal Textiles,0.95,Other,0.03
+170-212-202-778-566,Health care scarf used for clearing and activating the channels and collaterals and relieving fatigue of neck muscle strains,Metal Textiles,Other,0.7,Natural Textiles,0.1
+163-147-526-265-052,Knitting of precious metal networks and a method using same,Metal Textiles,Metal Textiles,0.98,Synthetic Textiles,0.01
+164-343-841-954-047,FIBROUS STRUCTURE FOR REINFORCING COMPONENTS MADE OF COMPOSITE MATERIAL WITH A GREAT VARIATION IN THICKNESS,Metal Textiles,Other,0.6,Synthetic Textiles,0.2
+198-928-097-099-923,TEMPERATURE CONTROLLABLE TEXTILE AND WEARABLE ASSEMBLY THEREOF,Metal Textiles,Metal Textiles,0.98,Synthetic Textiles,0.01
+143-269-324-304-949,SCALABLE METHOD OF PRODUCING POLYMER-METAL NANOCOMPOSITE MATERIALS,Metal Textiles,Synthetic Textiles,0.7,Metal Textiles,0.2
+171-853-600-986-500,Press pad,Metal Textiles,Metal Textiles,0.95,Other,0.05
+051-005-543-570-863,Metallic flat clothing,Metal Textiles,Metal Textiles,0.99,Synthetic Textiles,0.01
+135-317-755-085-673,Gewebtes flexibles Heizgewebe und Verfahren zur Herstellung eines solchen Heizgewebes,Metal Textiles,Metal Textiles,0.95,Synthetic Textiles,0.02
+160-899-128-360-778,Adjustable belt tensioning utilizing active material actuation,Metal Textiles,Other,0.7,Metal Textiles,0.15
+176-636-760-569-934,High-strength metallic yarn and fabric,Metal Textiles,Metal Textiles,0.9,Natural Textiles,0.05
+131-731-665-952-997,"Textile surface and textile material for absorbing electromagnetic waves, and protective device comprising a textile surface or textile material",Metal Textiles,Metal Textiles,0.9,Synthetic Textiles,0.08
+149-860-845-364-185,"Textile product comprising metal cords and non-metallic fibers, and a semifinished sheet comprising such textile product",Metal Textiles,Metal Textiles,0.95,Other,0.02
+188-027-207-364-089,"Composite yarn, intermediate fabric product and method of producing a metallic fabric",Metal Textiles,Metal Textiles,0.98,Synthetic Textiles,0.02
+186-994-113-748-883,METHOD FOR PRODUCING METALLISED TEXTILE SURFACES USING ELECTRICITY-GENERATING OR ELECTRICITY-CONSUMING ELEMENTS,Metal Textiles,Metal Textiles,0.98,Other,0.01
+055-495-299-010-396,Method for producing metallised textile surfaces using electricity-generating or electricity-consuming elements,Metal Textiles,Metal Textiles,0.99,Other,0.005
+162-302-922-854-159,TEXTILE WIRES WITH ELASTICITY,Metal Textiles,Metal Textiles,0.85,Synthetic Textiles,0.1
+129-047-415-652-956,Solid-wood metallic fabric composite soundboard,Metal Textiles,Metal Textiles,0.95,Natural Textiles,0.03
+078-239-261-651-923,"Metallic fiber nonwoven fabric manufacturing apparatus, its manufacturing method and laminated aluminum material manufacturing method",Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.01
+056-463-084-689-477,"FLAT STRUCTURE, PARTICULARLY TEXTILE, CONTAINING PRECIOUS METAL WIRE",Metal Textiles,Metal Textiles,0.99,Natural Textiles,0.0025
+036-586-417-498-48X,METALLIC FIBER FABRIC FOR PARABOLIC ANTENNA AND MANUFACTURE THEREOF,Metal Textiles,Metal Textiles,0.99,Synthetic Textiles,0.003
+012-773-107-247-100,METALLIC FIBER NONWOVEN FABRIC-IMMOBILIZED MESOSTRUCTURE,Metal Textiles,Metal Textiles,0.98,Mineral Textiles,0.01
+021-586-769-534-726,Antimicrobial coated textiles and method of preparation thereof,Metal Textiles,Mineral Textiles,0.9,Metal Textiles,0.05
+148-707-341-200-470,Composite fabric deformable and extendable in all directions and including metallic elements,Metal Textiles,Metal Textiles,0.98,Synthetic Textiles,0.01
+172-738-746-580-418,ELECTRICALLY CONDUCTIVE TEXTILE ELEMENT AND METHOD OF PRODUCING SAME,Metal Textiles,Metal Textiles,0.95,Natural Textiles,0.02
+153-807-744-836-456,An electrically conductive textile,Metal Textiles,Metal Textiles,0.9,Synthetic Textiles,0.05
+157-718-357-965-187,Production process of metallic yarn weft elastic forging fabric,Metal Textiles,Metal Textiles,0.99,Synthetic Textiles,0.01
+089-672-046-322-445,"NOVEL METAL POLYOXIDE, AND FUNCTIONAL FIBER OR TEXTILE PREPARED USING METAL POLYOXIDE",Metal Textiles,Metal Textiles,0.85,Mineral Textiles,0.06
+175-955-516-829-222,APPARATUS AND METHOD FOR THE VACUUM METALLIZATION OF TEXTILE MATERIALS AND THE LIKE,Metal Textiles,Metal Textiles,0.95,Other,0.02
+081-538-060-172-019,A METAL ELEMENT BASED TEXTILE PRODUCT AND A METHOD FOR FABRICATING,Metal Textiles,Metal Textiles,0.98,Mineral Textiles,0.01
+195-872-495-884-493,Metallized breathable composite textile,Metal Textiles,Metal Textiles,0.85,Synthetic Textiles,0.12
+002-441-976-575-022,"Item including a laminated, metallized textile layer, in particular for sun protection, and method for grafting a metal layer in order to obtain said item",Metal Textiles,Metal Textiles,0.9,Synthetic Textiles,0.07
+101-586-968-881-851,Thermoelectric textile transducers,Metal Textiles,Metal Textiles,0.85,Other,0.1
+190-024-956-872-994,RESIN FINISHED SILVER YARN TEXTILES AND COMBINATION/CONNECTION-TREATED SILVER YARN TEXTILES IN IT'S SILVER YARN TEXTILES,Metal Textiles,Metal Textiles,0.99,Synthetic Textiles,0.005
+099-768-636-039-366,"TEXTILE SURFACE AND TEXTILE MATERIAL FOR ABSORBING ELECTROMAGNETIC WAVES, AND PROTECTIVE DEVICE COMPRISING A TEXTILE SURFACE OR TEXTILE MATERIAL",Metal Textiles,Metal Textiles,0.95,Synthetic Textiles,0.04
+021-244-690-808-122,"Textile coating formulations comprising crosslinkable liquid silicones, metal alkoxides and functional coreactants",Metal Textiles,Other,0.98,Metal Textiles,0.005
+006-611-389-748-405,Techniques for incorporating stretchable conductive textile traces and textile-based sensors into knit structures,Metal Textiles,Metal Textiles,0.95,Other,0.03
+196-258-638-959-656,Electronic textiles with electronic devices on ribbons,Metal Textiles,Other,0.95,Metal Textiles,0.02
+026-760-039-152-104,"FUNCTIONAL TEXTILE, METHOD FOR FORMING A FUNCTIONAL TEXTILE, AND USE OF A FUNCTIONAL TEXTILE",Metal Textiles,Metal Textiles,0.95,Synthetic Textiles,0.02
+138-346-418-332-372,"Metallic fiber nonwoven fabric manufacturing apparatus, its manufacturing method and laminated aluminum material manufacturing method",Metal Textiles,Metal Textiles,1.0,Natural Textiles,0.0
+111-322-162-463-080,METALLIC FIBER NON-WOVEN FABRIC AND ITS PRODUCTION METHOD,Metal Textiles,Metal Textiles,0.99,Synthetic Textiles,0.005
+167-950-525-044-053,Spacer textile and use thereof,Metal Textiles,Metal Textiles,0.98,Synthetic Textiles,0.01
+186-895-010-460-605,BREATHABLE TEXTILE FOR AWNING,Metal Textiles,Metal Textiles,0.95,Synthetic Textiles,0.04
+029-387-455-906-741,High-antibacterial metallic yarn interwoven fabric,Metal Textiles,Metal Textiles,0.95,Synthetic Textiles,0.02
+164-342-933-096-065,FUNCTIONAL TEXTILES,Metal Textiles,Metal Textiles,0.95,Synthetic Textiles,0.03
+084-913-610-635-040,ELECTRICALLY CONDUCTIVE FABRIC AND METALLIC FABRIC,Metal Textiles,Metal Textiles,0.95,Synthetic Textiles,0.04
+039-132-341-214-972,Intelligent textile technology based on flexible semiconductor skins,Metal Textiles,Other,0.9,Synthetic Textiles,0.06
+044-915-438-510-307,Stab Resistant Insert for Protective Textile Product,Metal Textiles,Metal Textiles,0.99,Synthetic Textiles,0.005
+100-587-396-311-826,"METHOD OF PRODUCING SINTERED BODIES OF METALLIC FIBER, AND METALLIC NONWOVEN FABRIC SINTERED SHEET",Metal Textiles,Metal Textiles,0.99,Synthetic Textiles,0.005
+133-885-484-951-877,"Method for Producing Planar Metallised Textile Structures, Planar Metallised Textile Structure and Use of the Thus Produced Planar Metallised Textile Structure",Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.005
+141-032-301-236-05X,TEXTILE PRODUCT AND METAL FIBER,Metal Textiles,Metal Textiles,0.98,Synthetic Textiles,0.01
+017-831-697-919-337,Process for electroless metallization of sheetlike textile substrates,Metal Textiles,Metal Textiles,0.98,Natural Textiles,0.005
+000-272-647-193-093,Fabric cabable of reflecting radar waves - has metallic component incorporated in it,Metal Textiles,Metal Textiles,0.85,Synthetic Textiles,0.13
+129-948-213-858-583,ACTIVE TEXTILES,Metal Textiles,Other,0.8,Metal Textiles,0.15
+140-171-759-409-147,BURNER MEMBRANE COMPRISING MACHINED METAL FIBER BUNDLES,Metal Textiles,Metal Textiles,0.99,Mineral Textiles,0.01
+029-532-429-087-322,Textile product particularly for the goldsmiths ware and clothing sectors and relative manufacturing method,Metal Textiles,Metal Textiles,0.85,Synthetic Textiles,0.1
+148-070-119-579-840,Intelligent textile technology based on flexible semiconductor skins,Metal Textiles,Other,0.65,Synthetic Textiles,0.2
+029-524-899-197-841,Use of a textile pile material,Metal Textiles,Other,0.7,Natural Textiles,0.1
+027-646-091-243-051,A METAL ELEMENT BASED TEXTILE PRODUCT WITH IMPROVED WIDTHWISE STABILITY,Metal Textiles,Metal Textiles,0.99,Synthetic Textiles,0.005
+166-728-973-131-747,A TEXTILE STRUCTURE FOR THE REINFORCEMENT OF A POLYMER MATERIAL,Metal Textiles,Metal Textiles,0.99,Synthetic Textiles,0.005
+059-731-245-832-973,A TEXTILE FABRIC OF METAL-COATED FIBERS FOR ELECTROMAGNETIC SHIELDING AND A METHOD FOR PREPARING THE SAME,Metal Textiles,Metal Textiles,0.99,Synthetic Textiles,0.003
+036-308-167-271-61X,METALLIZED BREATHABLE COMPOSITE TEXTILE AND METHOD OF FABRICATING SAME,Metal Textiles,Metal Textiles,0.85,Synthetic Textiles,0.14
+182-154-987-558-928,Electronic Textiles with Electronic Devices on Ribbons,Metal Textiles,Other,0.95,Metal Textiles,0.03
+042-465-840-773-553,CONDUCTIVE MATERIALS AND THEIR METHODS OF PREPARATION BY METALLIZATION WITH METAL COMPLEX CONDUCTIVE INK COMPOSITIONS,Metal Textiles,Metal Textiles,0.95,Other,0.02
+037-155-582-940-886,Textile fabric structure,Metal Textiles,Other,0.85,Metal Textiles,0.12
+093-620-656-078-363,Use of metallized sheet-form textile materials as reflection and polarization control media for microwaves,Metal Textiles,Metal Textiles,0.95,Natural Textiles,0.02
+055-773-895-405-332,NON-LEACHING ANTI-MICROBIAL TEXTILE,Metal Textiles,Metal Textiles,0.9,Mineral Textiles,0.05
+037-481-097-929-986,Water resistant textile coating and method of using the same,Metal Textiles,Other,0.95,Mineral Textiles,0.02
+141-032-512-537-418,"METHOD FOR PRODUCING METALIZED TEXTILE FABRIC, METALIZED TEXTILE FABRIC, AND USE OF THE METALIZED TEXTILE FABRIC THUS PRODUCED",Metal Textiles,Metal Textiles,0.99,Other,0.005
+050-042-991-028-863,TEXTILE STRUCTURE,Metal Textiles,Other,0.85,Synthetic Textiles,0.1
+070-044-151-300-881,Antibacterial textile finishes utilizing zironyl acetate complexes of inorganic peroxides,Metal Textiles,Natural Textiles,0.85,Other,0.1
+118-142-350-652-934,BLENDED WOVEN FABRIC USING TWISTED METALLIC YARN,Metal Textiles,Metal Textiles,0.98,Natural Textiles,0.005
+175-385-729-694-42X,"Method for producing metal nanofibers, yarns and textiles",Metal Textiles,Metal Textiles,0.98,Synthetic Textiles,0.01
+015-620-233-691-87X,NATURAL SILK MADE FROM SUNFLOWER FIBRES,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.005
+023-908-832-136-432,Shrink-proof anti-wrinkle all-cotton textile fabric,Natural Textiles,Natural Textiles,0.98,Synthetic Textiles,0.01
+023-226-348-485-413,Bamboo filament underwear knitted fabric,Natural Textiles,Natural Textiles,0.85,Synthetic Textiles,0.1
+026-787-858-248-521,CLEANING CLOTH,Natural Textiles,Synthetic Textiles,0.6,Natural Textiles,0.25
+011-289-808-425-861,Rayon structure,Natural Textiles,Synthetic Textiles,0.9,Natural Textiles,0.05
+013-415-974-758-490,BIODEGRADABLE DISPOSABLE SCRUBBER AND METHOD FOR MAKING THE SCRUBBER,Natural Textiles,Natural Textiles,0.98,Synthetic Textiles,0.01
+037-200-533-346-768,Flame resistant fabrics having cellulosic filament yarns,Natural Textiles,Natural Textiles,0.9,Synthetic Textiles,0.05
+006-871-513-754-919,"Yarns, high wear resistance fabrics and objects made therefrom",Natural Textiles,Synthetic Textiles,0.7,Mineral Textiles,0.14
+030-361-226-191-56X,Anti-mosquito fabric capable of permanently releasing large number of anions,Natural Textiles,Synthetic Textiles,0.85,Other,0.07
+016-916-010-019-268,METHOD FOR PRODUCING BAMBOO BOARD,Natural Textiles,Natural Textiles,0.8,Other,0.2
+040-071-409-533-216,Wear-resistant bamboo fiber textile fabric,Natural Textiles,Natural Textiles,0.98,Other,0.02
+052-537-615-048-542,Textile fabric with good breathable effect,Natural Textiles,Synthetic Textiles,0.8,Natural Textiles,0.15
+087-875-708-278-082,Textile bag,Natural Textiles,Natural Textiles,0.99,Other,0.01
+068-755-367-742-573,Preparation of stretchable wool textiles,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.01
+079-455-339-538-481,Process for flame-proofing treatment of textile sheet materials and products treated by such process,Natural Textiles,Other,0.85,Natural Textiles,0.05
+071-317-891-936-356,Health-care bamboo fiber textile fabric,Natural Textiles,Natural Textiles,0.8,Synthetic Textiles,0.1
+066-537-410-049-259,Chitin fibre silk fibre blending facial mask,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.01
+119-529-777-863-389,"Compound black reactive dye composition, and applications thereof and fiber or fiber textile made thereby",Natural Textiles,Other,0.9,Natural Textiles,0.04
+092-829-375-033-995,Smooth rabbit wool textile,Natural Textiles,Natural Textiles,0.75,Synthetic Textiles,0.23
+114-391-123-860-903,A METHOD OF PRODUCING PAPER FROM KENAF,Natural Textiles,Natural Textiles,0.99,Other,0.01
+112-806-627-480-583,Improvements in or relating to yarns or textiles made from such yarns which are manufactured of rabbit's hair,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.005
+138-773-023-677-305,Banana technical fiber and flax blended sofa fabric,Natural Textiles,Natural Textiles,0.99,Other,0.01
+142-522-502-667-41X,MANUFACTURING METHOD FOR COIR NET,Natural Textiles,Natural Textiles,1.0,Metal Textiles,0.0
+155-459-733-164-281,"Ramie textile finishing agent, finishing method and application",Natural Textiles,Natural Textiles,1.0,Metal Textiles,0.0
+135-459-197-742-31X,Hemp textile,Natural Textiles,Natural Textiles,0.9,Synthetic Textiles,0.08
+131-233-479-546-109,Catamenial tampon - with rayon fibres projection through crepe paper layer,Natural Textiles,Synthetic Textiles,0.9,Natural Textiles,0.07
+030-530-070-052-831,Process for the treatment of raw vegetable fibres,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.005
+137-428-375-535-147,Bamboo fiber and modal four-side elastic fabric and weaving technology thereof,Natural Textiles,Natural Textiles,0.85,Synthetic Textiles,0.15
+042-909-978-655-714,FLAME RETARDANT TREATMENT OF POLYAMIDE FIBRE MATERIAL,Natural Textiles,Other,0.8,Natural Textiles,0.1
+073-937-277-311-612,"A method for preparing a product of angora fibre, a product made of angora fibre, and the use of a product made of angora fibre",Natural Textiles,Natural Textiles,0.99,Other,0.01
+196-274-050-199-457,Mosquito-repelling textile composite fabric,Natural Textiles,Natural Textiles,0.7,Other,0.25
+018-025-829-649-771,Anti-fracture textile yarn,Natural Textiles,Other,0.6,Synthetic Textiles,0.25
+110-714-099-536-457,Vinyl acetate-ethylene-copolymer dispersions and textile web material treated therewith,Natural Textiles,Synthetic Textiles,0.95,Natural Textiles,0.02
+095-968-305-263-962,Flashy bamboo charcoal textile fabric and preparation method thereof,Natural Textiles,Synthetic Textiles,0.85,Natural Textiles,0.1
+132-887-594-932-557,Ultra-light organic cotton textile fabric and preparation method thereof,Natural Textiles,Natural Textiles,0.6,Synthetic Textiles,0.35
+099-915-591-660-032,Waterproof textile,Natural Textiles,Other,0.7,Synthetic Textiles,0.2
+102-801-274-692-090,Ramie fibers processing machine,Natural Textiles,Natural Textiles,0.95,Other,0.05
+128-104-069-507-335,TECHNOLOGY FOR RECLAIMING SILK FIBRE FROM BISU WASTE,Natural Textiles,Natural Textiles,0.99,Other,0.01
+094-555-638-850-469,Improvements relating to felted fabrics and to hat bodies made therefrom,Natural Textiles,Synthetic Textiles,0.7,Natural Textiles,0.3
+110-923-411-162-818,Antibacterial high-tensile textile fabric,Natural Textiles,Synthetic Textiles,0.7,Natural Textiles,0.2
+122-331-226-896-234,Double-layer leno-selvage device,Natural Textiles,Other,0.95,Natural Textiles,0.02
+124-771-047-808-448,Dyeing and finishing method for flax corrosion-resistant and radiation-resistant fabric,Natural Textiles,Natural Textiles,0.5,Synthetic Textiles,0.45
+027-429-449-890-560,Biologically degradable string for tying plants - comprises natural fibres e.g. cotton twisted together with degradable artificial one e.g. rayon or viscose-rayon,Natural Textiles,Other,0.7,Natural Textiles,0.25
+042-610-431-812-791,Durable natural fiber textile and preparation method thereof,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.01
+060-945-422-354-255,Natural Fibre Material,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.01
+137-172-189-743-480,Light wt. textile floor covering,Natural Textiles,Other,0.6,Natural Textiles,0.2
+073-148-533-592-803,Weft-elastic antibacterial environment-friendly comfortable stretch yarn and flax woven fabric and production process,Natural Textiles,Other,0.6,Natural Textiles,0.2
+015-958-954-599-684,Bamboo fiber textile fabric breathable work clothes,Natural Textiles,Other,0.5,Natural Textiles,0.25
+059-719-124-549-889,High-strength bamboo tencel home textile fabric and production method thereof,Natural Textiles,Natural Textiles,0.85,Synthetic Textiles,0.15
+063-008-720-434-483,Radiation-proof textile fabric,Natural Textiles,Metal Textiles,0.75,Natural Textiles,0.2
+163-420-857-564-326,Odor-resistant textile,Natural Textiles,Other,0.5,Natural Textiles,0.25
+146-486-905-133-869,Method of Manufacturinng the Strechable Wool Textile and the Strechable Wool Textile Produced Thereby,Natural Textiles,Natural Textiles,0.95,Synthetic Textiles,0.04
+147-542-332-757-69X,Improvements in or relating to the sizing of viscose rayon fibres and yarns,Natural Textiles,Synthetic Textiles,0.95,Natural Textiles,0.04
+069-373-850-178-098,Textile fabric with high comfort,Natural Textiles,Synthetic Textiles,0.75,Natural Textiles,0.15
+137-402-250-917-795,Antibacterial hydrophobic linen rayon interwoven fabric,Natural Textiles,Other,0.7,Natural Textiles,0.15
+155-196-028-048-902,Process for finishing keratinous fibre fabrics,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.01
+127-374-941-197-290,Cool and comfortable rayon Roman cloth,Natural Textiles,Synthetic Textiles,0.85,Natural Textiles,0.1
+179-476-245-836-902,Polyamide fibre rayon bamboo joint latitude bullet,Natural Textiles,Synthetic Textiles,0.98,Natural Textiles,0.01
+163-017-936-737-088,Novel composite fiber textile material with good breathability and anti-radiation effect,Natural Textiles,Other,0.7,Natural Textiles,0.15
+189-024-617-738-808,Kenaf core/resin composite oil-absorption material and preparation method thereof,Natural Textiles,Natural Textiles,0.7,Synthetic Textiles,0.15
+191-539-452-846-409,"Water jet-consolidated textile covering is for use in e.g. floor or wall coverings and made of dicotyl bast fibres (flax, hemp, jute etc) or monocotyl leaf fibres (sisal, manila etc) and/or animal hair",Natural Textiles,Natural Textiles,1.0,Metal Textiles,0.0
+055-000-704-316-042,Antistatic finishing method for wool textiles,Natural Textiles,Natural Textiles,0.98,Synthetic Textiles,0.01
+020-664-978-426-822,Very fine mixed angora wool/synthetic fibre yarn - has fineness of from 60 to 250 nanometres,Natural Textiles,Other,0.6,Natural Textiles,0.2
+023-419-867-586-129,Durable antibacterial textile fabric and preparation method thereof,Natural Textiles,Natural Textiles,0.85,Synthetic Textiles,0.1
+187-333-957-044-403,Modal fabric,Natural Textiles,Synthetic Textiles,0.85,Natural Textiles,0.1
+080-249-141-200-352,Oil-resistant and water-repellent cotton textile fabric,Natural Textiles,Natural Textiles,0.95,Synthetic Textiles,0.04
+062-222-104-158-615,Process for the production of cashmere yarns,Natural Textiles,Natural Textiles,0.99,Metal Textiles,0.0025
+107-274-364-166-879,Method for improving thermal insulation performance of kapok fiber,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.01
+067-611-275-190-864,Technique for processing regenerated keratin functional fibre,Natural Textiles,Natural Textiles,0.7,Synthetic Textiles,0.25
+027-355-159-504-300,Alkali-resistant textile fabric,Natural Textiles,Other,0.6,Synthetic Textiles,0.3
+139-199-801-294-662,SILK-BASED FIBRE,Natural Textiles,Natural Textiles,0.9,Synthetic Textiles,0.07
+134-446-500-485-821,Hyaluronic acid/silk fibroin nano-fibre and preparation method thereof,Natural Textiles,Natural Textiles,0.9,Synthetic Textiles,0.08
+134-524-004-856-065,Device of many wool cashmere fibre image consecutive collection discernments,Natural Textiles,Natural Textiles,0.9,Other,0.05
+120-585-322-521-835,"Wool, pearl fibre, modal, viscose blended yarn and method of processing the same",Natural Textiles,Synthetic Textiles,0.7,Natural Textiles,0.2
+178-066-872-771-636,Fabric based on lyocell and production process,Natural Textiles,Synthetic Textiles,0.95,Natural Textiles,0.04
+111-327-088-807-668,Modal sleeping bag,Natural Textiles,Synthetic Textiles,0.6,Natural Textiles,0.4
+182-615-149-828-852,Moisture-absorbing wear-resistant pilling-resistant flame-retardant fabric,Natural Textiles,Synthetic Textiles,0.7,Natural Textiles,0.15
+098-120-410-424-386,POLYVINYL ACETATE EMULSION AND TEXTILE SIZE HAVING ANTIREDEPOSITION EFFECT,Natural Textiles,Synthetic Textiles,0.75,Other,0.15
+187-316-382-204-589,Production technology of nano titanium cotton bamboo fiber anti-electromagnetic textile yarns,Natural Textiles,Metal Textiles,0.7,Natural Textiles,0.25
+052-331-545-599-512,Bamboo fiber textile fabric clothes capable of preserving heat of food,Natural Textiles,Natural Textiles,0.95,Synthetic Textiles,0.03
+013-140-979-404-405,Acid modified polyvinyl acetate textile sizes,Natural Textiles,Synthetic Textiles,0.98,Natural Textiles,0.01
+196-713-185-051-312,ACETATE TEXTILE FABRIC AND ITS PRODUCTION,Natural Textiles,Synthetic Textiles,0.95,Natural Textiles,0.04
+017-722-842-022-022,Spun silk fiber blending cotton fabric for home textiles,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.005
+068-965-899-292-281,Non-static acetate fiber textile line with uniform dyeing and avoidance of color loss,Natural Textiles,Synthetic Textiles,0.98,Metal Textiles,0.005
+083-871-233-533-874,Worsted high count yarn technological method for blended spinning cashmere fibre and natural silk fibre,Natural Textiles,Natural Textiles,0.99,Other,0.01
+069-888-422-714-045,Preparation method of kapok viscose fiber,Natural Textiles,Synthetic Textiles,0.9,Natural Textiles,0.05
+139-808-552-554-611,Fibrillation of natural fibres,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.01
+129-546-598-584-138,Improvements relating to textiles containing artificial fibres of protein,Natural Textiles,Synthetic Textiles,0.95,Natural Textiles,0.04
+113-272-147-513-65X,Processing method of acarus-killing antibacterial textile fabric,Natural Textiles,Other,0.95,Mineral Textiles,0.02
+154-041-678-766-348,Manufacture of yarns from hard fibres,Natural Textiles,Natural Textiles,0.99,Other,0.01
+170-408-711-049-729,Ramie aramid fibre scribbled and its finishing process,Natural Textiles,Other,0.8,Natural Textiles,0.1
+100-302-444-047-467,Kenaf aramid fiber synthetic fiber/ aramid fiber filament composite yarn based on sirofil and processing method thereof,Natural Textiles,Other,0.8,Natural Textiles,0.1
+153-256-128-574-482,RAYON FIBER,Natural Textiles,Synthetic Textiles,0.95,Natural Textiles,0.04
+151-052-167-772-687,METHOD FOR MAKING A FIBRE COMPRISING NATURAL FIBRE NANOPARTICLES,Natural Textiles,Natural Textiles,0.98,Synthetic Textiles,0.02
+138-509-104-884-768,Novel waterproof and breathable composite fiber textile material,Natural Textiles,Other,0.7,Natural Textiles,0.2
+178-805-666-321-606,Silk compound fabric with it is cold -proof frivolous,Natural Textiles,Natural Textiles,0.7,Mineral Textiles,0.23
+033-189-081-661-459,Ecological textile material,Natural Textiles,Natural Textiles,0.95,Synthetic Textiles,0.04
+008-080-019-414-195,Down jacket fabric with nanometer self-cleaning function,Natural Textiles,Other,0.6,Natural Textiles,0.2
+025-925-477-755-956,Textile fabric,Natural Textiles,Other,0.6,Natural Textiles,0.2
+071-623-840-976-548,PRODUCTION OF WOOL FIBER HAVING EXCELLENT DIMENSIONAL STABILITY,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.01
+055-831-042-219-178,Production process of banana fiber/tencel/viscose blended yarn home textile fabric,Natural Textiles,Natural Textiles,0.75,Synthetic Textiles,0.2
+063-346-673-738-186,Bamboo fiber textile fabric children garment with high safety,Natural Textiles,Other,0.8,Natural Textiles,0.1
+074-838-689-620-289,Stretch -proofing textile bamboo joint yarn,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.01
+094-511-533-491-303,METHOD OF PRODUCING FIBRE OF KENAF BAST,Natural Textiles,Natural Textiles,0.99,Other,0.01
+030-940-994-875-733,Wound textile waterproofing fabric,Natural Textiles,Other,0.6,Natural Textiles,0.2
+096-622-835-330-657,Healthy yarn of tea napkin silk fibre,Natural Textiles,Natural Textiles,0.95,Synthetic Textiles,0.03
+083-680-705-941-824,Preparation process of organic cotton and wool blended fabric,Natural Textiles,Natural Textiles,0.99,Other,0.01
+102-930-550-334-363,Production technology of antibacterial wool textile,Natural Textiles,Natural Textiles,0.98,Synthetic Textiles,0.01
+112-263-883-364-321,Plant fibre mat and method of making a plant fibre mat,Natural Textiles,Natural Textiles,0.95,Synthetic Textiles,0.04
+101-776-381-872-240,Environment-friendly rayon crepe,Natural Textiles,Synthetic Textiles,0.9,Natural Textiles,0.05
+109-027-805-409-579,Novel composite high-strength textile material and manufacturing method,Natural Textiles,Other,0.9,Synthetic Textiles,0.05
+105-633-427-680-322,Textile method of antioxidant material,Natural Textiles,Other,0.85,Natural Textiles,0.06
+161-780-864-647-724,Production process system of Lyocell spun-laced invisible nonwoven fabric,Natural Textiles,Synthetic Textiles,0.95,Natural Textiles,0.04
+169-757-558-696-523,Antibiotic fire -retardant coarse cotton cloth that draws,Natural Textiles,Other,0.7,Metal Textiles,0.1
+157-307-090-540-860,Far infrared modal fiber home textile fabric,Natural Textiles,Synthetic Textiles,0.85,Natural Textiles,0.05
+161-967-328-663-771,A WOVEN TEXTILE FABRIC,Natural Textiles,Synthetic Textiles,0.95,Natural Textiles,0.03
+141-527-108-357-743,Light breathable rayon fabric,Natural Textiles,Synthetic Textiles,0.9,Natural Textiles,0.04
+154-048-565-758-263,Manufacturing process of moisture-absorbing and sweat-releasing cotton textile applicable to sportswear,Natural Textiles,Other,0.6,Natural Textiles,0.25
+004-605-371-901-308,Crease-resistant textile fabric,Natural Textiles,Other,0.75,Synthetic Textiles,0.2
+006-409-046-833-588,NATURAL FIBRE MATERIAL,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.005
+038-929-288-793-603,Natural fibre modifying method and modified fibre,Natural Textiles,Natural Textiles,0.98,Synthetic Textiles,0.01
+079-257-993-133-860,Novel crease-resistant knitted fabric,Natural Textiles,Natural Textiles,0.9,Synthetic Textiles,0.05
+048-648-890-247-359,Processing technology of decomposable environment-friendly textile,Natural Textiles,Natural Textiles,0.95,Synthetic Textiles,0.03
+052-741-934-098-692,Preparation method of banana nanocellulose aerogel for pH-responsive oil-water separation,Natural Textiles,Natural Textiles,0.98,Synthetic Textiles,0.01
+073-477-158-849-183,MULTIFUNCTIONAL FABRIC MADE OF NATURAL FIBRES OF ROMANIAN ANGORA MOHAIR IN ADMIXTURE WITH WOOL,Natural Textiles,Natural Textiles,0.99,Other,0.01
+024-382-919-069-001,Ultraviolet-proof health-care textile fabric,Natural Textiles,Other,0.85,Synthetic Textiles,0.1
+045-264-223-710-328,Wear resistant textile fabric of anti -tear,Natural Textiles,Synthetic Textiles,0.8,Natural Textiles,0.15
+088-359-525-798-208,Double-layer flame-retardant textile fabric and manufacturing method thereof,Natural Textiles,Other,0.6,Metal Textiles,0.2
+102-118-220-331-277,JUTE HEMP PROCESSED YARN AND ITS PRODUCTION,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.01
+106-372-678-742-245,Bamboo fiber textile fabric garment capable of charging battery,Natural Textiles,Natural Textiles,0.98,Metal Textiles,0.01
+119-080-073-314-94X,Ramie-yarn processing technology,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.003
+142-276-160-033-298,Refined jute-kenaf fibres and application thereof,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.005
+093-554-425-685-112,Waterproof antibacterial composite functional textile fabric,Natural Textiles,Other,0.75,Metal Textiles,0.1
+141-779-081-120-789,Cashmere bamboo fibre mischgewebe,Natural Textiles,Other,0.6,Natural Textiles,0.2
+105-595-521-507-521,ANTIBACTERIAL TEXTILE FINISHES UTILIZING ZIRCONYL ACETATE COMPLEXES OF INORGANIC PEROXIDES,Natural Textiles,Natural Textiles,0.8,Other,0.1
+105-131-604-811-718,Preparation method for negative ion bamboo carbon fiber textile fabric,Natural Textiles,Synthetic Textiles,0.9,Natural Textiles,0.08
+189-684-784-344-607,Modal fiber and real silk interlaced home textile fabric,Natural Textiles,Other,0.7,Natural Textiles,0.2
+192-372-590-378-134,Ramie net bundling device of ramie textile gill drawing frame,Natural Textiles,Natural Textiles,0.98,Metal Textiles,0.01
+196-298-162-258-219,Shirt surface fabric that environmental protection was disinfected,Natural Textiles,Natural Textiles,0.99,Other,0.01
+025-187-509-935-758,Bamboo fibre and ramie fibre mixed spinning fabric and method for production thereof,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.005
+008-143-466-532-092,Processing method for improving quality of jute fibers,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.01
+032-332-824-357-478,Antibioticly prevent that static imitates rabbit hair surface fabric,Natural Textiles,Synthetic Textiles,0.85,Metal Textiles,0.1
+068-748-390-403-064,Ramie-doped asbestos-free organic radical passenger car brake block and preparation process thereof,Natural Textiles,Natural Textiles,0.7,Metal Textiles,0.1
+097-432-059-330-783,TEXTILE SHEET MATERIAL,Natural Textiles,Other,0.7,Synthetic Textiles,0.2
+024-185-644-544-359,Antistatic rayon fabric,Natural Textiles,Synthetic Textiles,0.9,Natural Textiles,0.05
+098-883-593-708-482,Far infrared kapok fiber home textile fabric,Natural Textiles,Synthetic Textiles,0.65,Natural Textiles,0.3
+098-048-546-709-483,Raffia yarn dyed damask surface fabric,Natural Textiles,Natural Textiles,0.85,Synthetic Textiles,0.1
+121-161-273-860-327,ANTIBACTERIAL TEXTILE FINISHES UTILIZING ZINC ACETATE AND HYDROGEN PEROXIDE,Natural Textiles,Other,0.95,Natural Textiles,0.02
+088-951-687-651-471,KIDNEY STONE SILK TEXTILE AND MANUFACTURING METHOD THEREOF,Natural Textiles,Natural Textiles,0.6,Mineral Textiles,0.3
+127-370-525-338-500,SEWN PRODUCT MADE OF ANIMAL HAIR FIBER,Natural Textiles,Natural Textiles,0.99,Other,0.01
+140-081-967-199-771,Production process of soft and washing-resistant purely-spun industrial hemp fabric,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.005
+137-267-966-139-280,Natural ultraviolet-resistance internal decoration textile of automobile,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.005
+176-050-250-132-443,"New or improved treatment of textile fibres, yarns or fabrics",Natural Textiles,Other,0.8,Natural Textiles,0.1
+123-487-175-384-833,Home textile fabric with blending of bamboo fibre and Modal and interweaving of cotton fibre,Natural Textiles,Synthetic Textiles,0.55,Natural Textiles,0.4
+182-937-697-042-692,Cotton cylinder for textile machine,Natural Textiles,Other,0.9,Natural Textiles,0.08
+181-375-035-982-441,ANTIMICROBIAL FUNCTIONALIZED TEXTILES,Natural Textiles,Natural Textiles,0.9,Synthetic Textiles,0.05
+030-737-188-349-751,Waterproof wool textile,Natural Textiles,Other,0.6,Natural Textiles,0.3
+058-632-775-071-155,"Pineapple fiber, banana fiber and cotton blended home textile fabric",Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.005
+013-012-030-428-105,Recycled textile fibre products for thermal insulation,Natural Textiles,Other,0.75,Natural Textiles,0.2
+014-604-047-099-307,Camel hair fiber and bamboo fiber textile fabric,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.01
+192-984-030-394-280,Antistatic-property wool sweater textile fabric,Natural Textiles,Natural Textiles,0.8,Synthetic Textiles,0.2
+070-075-144-627-538,Method for improving adhesive property of ramie fibre-thermoplastic resin interface,Natural Textiles,Natural Textiles,0.98,Synthetic Textiles,0.01
+066-347-287-273-265,Process for the manufacture of a pure cashmere textile article,Natural Textiles,Natural Textiles,0.95,Synthetic Textiles,0.04
+098-816-609-976-685,PROCESS FOR MAKING FIBRES FROM ANIMAL HAIR,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.01
+111-894-151-520-557,Fibrillation of natural fibres,Natural Textiles,Natural Textiles,0.99,Metal Textiles,0.0025
+141-891-346-856-311,Cellulose acetate grafted polyacrylonitrile fiber applied home textile fabric,Natural Textiles,Synthetic Textiles,0.9,Natural Textiles,0.05
+144-134-887-707-483,Recycling method of waste cotton textiles,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.01
+133-639-733-916-447,TEXTILE PRODUCT CONTAINING BAMBOO FIBER,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.01
+124-613-818-458-500,Antibacterial home textile fabric,Natural Textiles,Metal Textiles,0.6,Natural Textiles,0.25
+150-644-888-451-624,Improvements relating to resilient cushioning materials,Natural Textiles,Natural Textiles,0.9,Synthetic Textiles,0.08
+150-830-312-439-023,Cotton textile tensile test equipment,Natural Textiles,Other,0.9,Natural Textiles,0.1
+117-058-085-868-620,Warm-keeping knitted fabric,Natural Textiles,Synthetic Textiles,0.7,Natural Textiles,0.2
+157-755-280-135-208,METHOD OF MAKING YARNS FROM ANGORA RABBIT'S WOOL,Natural Textiles,Natural Textiles,0.9,Synthetic Textiles,0.06
+164-814-606-755-361,Linen blended yarn and fabric with shrink proof function and textile process thereof,Natural Textiles,Natural Textiles,0.85,Synthetic Textiles,0.1
+199-299-124-935-729,Super-flexible textile vamp,Natural Textiles,Other,0.7,Natural Textiles,0.15
+178-030-021-119-266,Health jute carpet,Natural Textiles,Natural Textiles,0.99,Other,0.01
+196-569-632-927-969,Ramie knitted fabric,Natural Textiles,Natural Textiles,0.6,Synthetic Textiles,0.38
+174-504-220-729-039,Composite textile fibre based on angora rabbit fur for articles of clothing and underclothing.,Natural Textiles,Other,0.7,Natural Textiles,0.15
+029-483-754-477-465,Hemostatic Textile,Natural Textiles,Mineral Textiles,0.85,Natural Textiles,0.05
+006-294-704-931-407,Antibiotic waterproof antistatic imitative rabbit hair circle loop yarn,Natural Textiles,Synthetic Textiles,0.95,Natural Textiles,0.02
+193-570-652-447-574,Gel-containing home textile and clothing filler,Natural Textiles,Other,0.7,Natural Textiles,0.15
+178-079-342-133-787,Nano silver bioactivity composite fibre fabric,Natural Textiles,Other,0.5,Natural Textiles,0.3
+071-531-781-356-788,Method and apparatus for doffing and drafting textile fibers,Natural Textiles,Other,0.95,Mineral Textiles,0.02
+006-757-692-666-412,Moldproof and deodorant regenerated cotton yarn textile material containing kapok fiber and used for towel and preparing method thereof,Natural Textiles,Natural Textiles,0.85,Synthetic Textiles,0.1
+025-717-704-953-295,Anti-pilling flax blended fabric,Natural Textiles,Natural Textiles,0.75,Metal Textiles,0.15
+085-499-765-174-256,Preparation method of nano anion kapok fiber fabric and applications of nano anion kapok fiber fabric in home textile product,Natural Textiles,Natural Textiles,0.98,Synthetic Textiles,0.01
+053-905-497-587-141,Textile fabric with flame-retardant and antibacterial functions,Natural Textiles,Other,0.9,Synthetic Textiles,0.05
+111-623-222-730-654,Double -layer cashmere fabric,Natural Textiles,Natural Textiles,0.95,Synthetic Textiles,0.03
+140-433-218-141-587,Mildew-proof and antibacterial textile fabric,Natural Textiles,Synthetic Textiles,0.6,Other,0.2
+099-622-726-581-202,Skin-friendly antibacterial composite textile fabric and processing method thereof,Natural Textiles,Natural Textiles,0.7,Other,0.25
+132-532-256-296-452,Preparation method of comfortable air-permeable fiber down,Natural Textiles,Natural Textiles,0.98,Synthetic Textiles,0.01
+188-015-079-551-091,Antibacterial and anti-mite home textile fabric,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.005
+001-320-658-617-787,Technology for producing clothing surface fabric with yak hair,Natural Textiles,Natural Textiles,0.99,Other,0.01
+132-733-557-632-879,Rayon knitted fabric scouring and dyeing one bath process dyeing,Natural Textiles,Synthetic Textiles,0.9,Natural Textiles,0.05
+159-155-231-450-176,Novel textile fabric,Natural Textiles,Other,0.6,Natural Textiles,0.2
+189-808-966-240-923,Bamboo fiber textile fabric garment capable of rapidly calling traffic police,Natural Textiles,Natural Textiles,0.9,Synthetic Textiles,0.05
+199-282-140-792-851,Far infrared banana fiber home textile fabric,Natural Textiles,Other,0.7,Natural Textiles,0.15
+002-592-183-001-692,Yak fine hair (hair) pillow and preparation method thereof,Natural Textiles,Natural Textiles,0.95,Synthetic Textiles,0.04
+008-326-366-987-913,Alkali-soluble cellulose acetate textile material and process for producing same,Natural Textiles,Synthetic Textiles,0.95,Natural Textiles,0.04
+149-023-537-647-791,Woven textile fabric,Natural Textiles,Synthetic Textiles,0.9,Natural Textiles,0.05
+006-137-267-131-866,Sisal processing method and sisal scraping device thereof,Natural Textiles,Natural Textiles,0.99,Other,0.01
+010-394-749-640-040,"Blended yarn of milk protein fibres, natural bamboo fibres and cotton fibres",Natural Textiles,Natural Textiles,0.9,Synthetic Textiles,0.05
+040-271-415-778-144,Mark-resistant ramie textile fabric coated by aid of air knives,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.01
+024-805-831-471-233,Stitchbonded inherently flame resistant fabrics,Natural Textiles,Other,0.6,Natural Textiles,0.2
+020-939-199-042-942,Modal spandex knitted undershirt cloth,Natural Textiles,Synthetic Textiles,0.95,Other,0.03
+085-574-206-270-337,Rabbit hair-camel hair fabric and its productive technology,Natural Textiles,Natural Textiles,0.99,Other,0.01
+091-660-731-370-991,Special textile fabric drying equipment with adjusting function,Natural Textiles,Other,0.9,Natural Textiles,0.1
+124-525-381-191-89X,"Mat for the cultivation of vegetation, at embankments or sound barrier walls, has a layered structure containing the seeds and growth substrate between layers of plastics nets/grids and geo-textile for ground protection",Natural Textiles,Other,0.6,Natural Textiles,0.2
+125-625-256-143-340,Ten-hole dehaired angora winter quilt,Natural Textiles,Natural Textiles,0.75,Synthetic Textiles,0.2
+037-555-967-373-600,Simpler faster manufacture of mouldings with pleasing fabric surfaces,Natural Textiles,Other,0.7,Synthetic Textiles,0.25
+142-045-578-088-124,Cashmere fibre and Aupudimu fibre blended fabric,Natural Textiles,Natural Textiles,0.99,Other,0.01
+122-420-889-384-250,Textile material and preparation method thereof,Natural Textiles,Natural Textiles,0.94,Synthetic Textiles,0.04
+136-671-355-863-470,Prepn of grafted antibacterial sisal fiber,Natural Textiles,Natural Textiles,0.92,Synthetic Textiles,0.05
+137-795-257-868-519,Bamboo charcoal fiber home textile fabric,Natural Textiles,Other,0.7,Natural Textiles,0.15
+178-051-160-547-87X,Bamboo fiber textile antifouling work clothes,Natural Textiles,Natural Textiles,0.75,Synthetic Textiles,0.2
+139-884-635-023-933,Kapok fiber processing technology,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.005
+184-212-740-139-874,Sweat-absorbent bamboo fiber textile fabric,Natural Textiles,Natural Textiles,0.8,Synthetic Textiles,0.15
+199-854-975-466-57X,Production process of anti-wrinkle textile fabric,Natural Textiles,Natural Textiles,0.85,Synthetic Textiles,0.1
+176-324-454-892-140,Method for manufacturing natural antibacterial warming knitted fabric with kapok bamboo charcoal,Natural Textiles,Natural Textiles,0.75,Synthetic Textiles,0.2
+186-354-870-787-278,Clothes comprising carded wool inside as an insulation layer,Natural Textiles,Natural Textiles,0.95,Synthetic Textiles,0.04
+193-707-731-110-421,Hemostatic Textile,Natural Textiles,Mineral Textiles,0.85,Natural Textiles,0.05
+005-750-431-490-043,Anti-pilling real silk textile fabric,Natural Textiles,Natural Textiles,0.95,Metal Textiles,0.03
+007-765-346-339-327,Super cold -proof anti balling -up rabbit hair cotton fiber ties up mixed yarn,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.01
+008-606-008-510-871,Soybean protein fiber textile,Natural Textiles,Natural Textiles,0.9,Synthetic Textiles,0.08
+011-445-729-932-576,WOOL TEXTILE STRUCTURE,Natural Textiles,Natural Textiles,0.95,Synthetic Textiles,0.04
+011-936-818-440-246,Washing-resisting bamboo fiber textile product and preparation method thereof,Natural Textiles,Natural Textiles,0.9,Synthetic Textiles,0.08
+042-897-454-963-569,Bamboo fiber textile fabric electric arc protective clothing,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.01
+031-416-518-929-134,Improvements in or relating to the shrinkproofing of animal fibres,Natural Textiles,Natural Textiles,0.99,Other,0.01
+037-951-690-513-248,High-elastic crease-resistant suede fabric,Natural Textiles,Synthetic Textiles,0.85,Natural Textiles,0.1
+076-422-356-743-735,"Insulating material for building components, consists of lambs wool or at least 10wt% lambs wool, as well as other fibres",Natural Textiles,Natural Textiles,0.9,Mineral Textiles,0.08
+084-574-828-817-273,Finishing technology for aromatic anti-bacteria cotton textile,Natural Textiles,Natural Textiles,0.99,Other,0.01
+127-544-808-567-167,Blended fibres - esp for sacks etc,Natural Textiles,Other,0.85,Natural Textiles,0.06
+126-625-781-816-853,Cotton textile fabric,Natural Textiles,Natural Textiles,0.85,Synthetic Textiles,0.14
+105-019-277-478-937,Ramie cotton shoe,Natural Textiles,Natural Textiles,0.9,Synthetic Textiles,0.1
+073-478-884-136-326,FLOOR STRUCTURES AND CONSTRUCTION METHOD USING HEMP AND OCHER,Natural Textiles,Other,0.65,Natural Textiles,0.25
+120-972-697-217-784,Bamboo charcoal-cashmere blended yarn,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.01
+081-712-063-822-68X,"SPUN-DYED MODAL FIBRES, USE THEREOF AND PROCESS FOR PRODUCTION THEREOF",Natural Textiles,Synthetic Textiles,0.9,Natural Textiles,0.1
+137-231-935-861-313,Tencel textile fabric,Natural Textiles,Other,0.9,Natural Textiles,0.05
+001-779-799-252-485,Bamboo carbon fiber-cotton blended yarn-dyed home textile fabric,Natural Textiles,Natural Textiles,0.7,Synthetic Textiles,0.25
+152-188-174-220-142,Method of and apparatus for the treatment of textile fibres,Natural Textiles,Synthetic Textiles,0.95,Other,0.03
+184-529-101-191-049,PROCESS FOR PRODUCTION OF ENVIRONMENT FRIENDLY FABRIC AND/OR TEXTILE PRODUCTS,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.005
+185-036-088-276-70X,Method for cleanly and efficiently preparing cotton pulp from waste cotton textiles,Natural Textiles,Natural Textiles,0.99,Other,0.01
+018-671-235-445-188,"Dusters and the like Made of Vegetable Fibres, especially of Raffia.",Natural Textiles,Natural Textiles,0.99,Other,0.01
+010-813-440-427-405,Shrink-proof treatment method for cashmere fibres,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.005
+011-395-784-379-301,Waterproof antistatic imitative cashmere circle loop yarn,Natural Textiles,Synthetic Textiles,0.95,Natural Textiles,0.02
+006-129-029-448-366,VERFAHREN ZUR HERSTELLUNG VON PLATTEN ODER FORMTEILEN.,Natural Textiles,Other,0.95,Natural Textiles,0.02
+169-367-836-155-791,Textile fabric with good wear resistance,Natural Textiles,Other,0.8,Natural Textiles,0.1
+013-139-954-149-040,Sanitary towel of no collodion silk fibre preparation based on silk,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.005
+030-578-763-477-608,Use of bamboo pulp synthesized acetyl cellulose in producing acetate silk for textile,Natural Textiles,Synthetic Textiles,0.95,Natural Textiles,0.04
+138-050-847-959-12X,PRINTING OF TEXTILE PRODUCT CONTAINING ACETATE AND CELLULOSE,Natural Textiles,Synthetic Textiles,0.7,Natural Textiles,0.2
+071-565-989-858-424,Flameproofing wool textiles,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.005
+097-090-437-235-453,Textile products incorporating banana or raffia fiber and methods of fabricating the same,Natural Textiles,Natural Textiles,0.99,Other,0.01
+112-259-185-287-208,Fragrant bamboo fiber textile fabric with warmth-keeping effect,Natural Textiles,Natural Textiles,0.95,Other,0.03
+070-971-876-492-857,Rabbit hair knitted fabric,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.003
+105-783-162-452-597,Novel antibacterial bamboo charcoal fiber textile fabric and production process thereof,Natural Textiles,Natural Textiles,0.65,Synthetic Textiles,0.3
+127-562-685-470-347,Processing method for producing ultraviolet-proof breathable textile material by utilizing regenerated cotton,Natural Textiles,Natural Textiles,0.95,Synthetic Textiles,0.03
+117-379-459-018-08X,Bamboo fiber textile fabric garment capable of isolating bromhidrosis,Natural Textiles,Natural Textiles,0.97,Synthetic Textiles,0.02
+112-445-474-850-019,Production process of nano titanium jute fiber anti-electromagnetic textile yarns,Natural Textiles,Natural Textiles,0.75,Metal Textiles,0.2
+169-264-005-626-845,Nano antibacterial textile fabric and preparation method thereof,Natural Textiles,Synthetic Textiles,0.85,Natural Textiles,0.1
+192-784-210-050-120,Fabric woven by rayon vortex spinning machine and preparation method thereof,Natural Textiles,Synthetic Textiles,0.9,Natural Textiles,0.05
+024-144-695-229-120,Combined degumming technological method for jute or kenaf,Natural Textiles,Natural Textiles,0.99,Other,0.01
+175-587-754-749-491,Warm keeping and skin caring type textile fabric,Natural Textiles,Other,0.8,Natural Textiles,0.1
+006-542-750-494-965,Improvements in the colouration of cellulose acetate textile yarns and fabrics,Natural Textiles,Synthetic Textiles,0.95,Natural Textiles,0.03
+004-935-534-975-013,Preparation method of rabbit manure forage,Natural Textiles,Other,1.0,Metal Textiles,0.0
+053-213-941-530-487,Antibacterial bamboo-cotton product,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.01
+000-225-683-838-31X,Antifungal anti-mite textile material and preparation method thereof,Natural Textiles,Other,0.7,Natural Textiles,0.15
+068-402-002-446-241,MANUFACTURING METHOD OF TEXTILE MIXED WITH COIR,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.005
+063-270-405-389-946,Rayon rayon jacquard fabric,Natural Textiles,Synthetic Textiles,0.9,Natural Textiles,0.05
+037-280-372-234-089,Outdoor sweater,Natural Textiles,Other,0.8,Natural Textiles,0.15
+089-664-544-150-05X,A method of making cellulose acetate fibre,Natural Textiles,Synthetic Textiles,0.95,Natural Textiles,0.04
+111-858-331-039-463,Preparation process of soft antistatic textile fabric,Natural Textiles,Synthetic Textiles,0.85,Natural Textiles,0.1
+084-491-326-186-025,PRODUCTION OF MODIFIED ACETATE TEXTILE FABRIC,Natural Textiles,Synthetic Textiles,0.95,Natural Textiles,0.05
+087-618-236-224-862,Add and play chemical fibre silk,Natural Textiles,Synthetic Textiles,0.75,Natural Textiles,0.2
+073-617-525-546-339,Novel antibacterial anti-mite wool textile and manufacturing method thereof,Natural Textiles,Natural Textiles,0.95,Metal Textiles,0.04
+080-301-693-727-959,Antibiotic ventilative underwear,Natural Textiles,Metal Textiles,0.65,Natural Textiles,0.2
+070-990-175-588-77X,A METHOD OF PRODUCING FIBRE REINFORCED POLYMER BIOCOMPOSITE,Natural Textiles,Natural Textiles,0.6,Synthetic Textiles,0.35
+138-964-246-984-590,REINFORCED BIODEGRADABLE POLYMER,Natural Textiles,Natural Textiles,0.98,Synthetic Textiles,0.01
+108-992-113-434-392,Textile fibre separation by gravity and electrostatic forces,Natural Textiles,Natural Textiles,0.95,Other,0.04
+046-614-063-566-083,Antibiotic health care quilt top facing of cotton -flax silk material,Natural Textiles,Natural Textiles,0.95,Synthetic Textiles,0.02
+182-920-076-922-733,Process for modifying the characteristics of structures containing keratin fibres and product thereof,Natural Textiles,Natural Textiles,0.95,Synthetic Textiles,0.04
+171-837-298-605-075,Improvements in the preparation of sisal fibre,Natural Textiles,Natural Textiles,0.99,Other,0.01
+115-770-146-409-863,Nano antibacterial cotton composite textile fabric,Natural Textiles,Synthetic Textiles,0.7,Natural Textiles,0.15
+021-463-463-194-458,Uvioresistant wool textile prepared from inorganic sulfur-bearing reducer,Natural Textiles,Natural Textiles,0.95,Synthetic Textiles,0.02
+028-876-341-875-538,Ultraviolet-proof cold-resistant fabric,Natural Textiles,Metal Textiles,0.7,Natural Textiles,0.25
+129-985-380-082-471,Natural fibre laminate,Natural Textiles,Natural Textiles,0.85,Other,0.1
+061-788-768-530-076,Bamboo fiber textile fabric body armor,Natural Textiles,Natural Textiles,0.85,Synthetic Textiles,0.1
+087-077-706-231-620,Moisture-absorption oil-resistant textile fabric,Natural Textiles,Other,0.7,Natural Textiles,0.15
+152-435-618-125-361,METHOD FOR MANUFACTURING BEADS CONTAINING EXOGENOUS SOY PROTEIN,Natural Textiles,Other,0.99,Natural Textiles,0.01
+099-088-239-382-401,APPLICATION OF WASH-RESISTANT REPELLENT FOR BLOODSUCKING VERMIN TO TEXTILE PRODUCT,Natural Textiles,Other,0.9,Synthetic Textiles,0.06
+081-729-324-304-305,Special antibacterial child textile,Natural Textiles,Other,0.8,Natural Textiles,0.1
+124-547-477-415-832,PRODUCTION OF TUSSAH SILK FIBRE,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.01
+124-108-542-746-247,TEXTILE ELEMENT,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.01
+182-471-829-584-919,A TEXTILE AND A METHOD OF MAKING IT,Natural Textiles,Natural Textiles,0.99,Other,0.01
+101-881-599-388-544,"Foam, stuffing, mixed-fibre fleece or woven fabric made from vegetable protein starting material, e.g. soya protein fibres, with added kapok fibres, used e.g. in bedding, furniture, clothing, insulation and coverings",Natural Textiles,Synthetic Textiles,0.8,Natural Textiles,0.15
+184-361-810-190-405,"Improvements in the Treatment of Jute Bast, China Grass, Rhea, and like Plants for use in Textile Industries.",Natural Textiles,Natural Textiles,0.99,Other,0.01
+198-741-881-983-747,Process for producing nano titanium kapok fiber anti-electromagnetic textile yarn,Natural Textiles,Metal Textiles,0.6,Natural Textiles,0.35
+001-538-393-781-953,FIBRILLATION OF NATURAL FIBRES,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.005
+005-486-538-727-442,Improvements in and relating to the treatment of fibres or fibrous materials containing keratin,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.005
+003-701-019-551-373,Modal fiber double-layer elastic sports towel and fabrication method thereof,Natural Textiles,Synthetic Textiles,0.85,Natural Textiles,0.1
+016-716-398-182-486,Fire resistant foams,Natural Textiles,Other,0.9,Synthetic Textiles,0.04
+014-734-952-740-497,Tree shelter,Natural Textiles,Natural Textiles,0.96,Metal Textiles,0.01
+027-132-306-928-317,Procedure for forming embroidery on elastic textiles involves application of textile surface of preparation of melted cellulose acetate dissolved in propanone,Natural Textiles,Synthetic Textiles,0.95,Natural Textiles,0.02
+057-431-543-632-227,Wet-spun yarn of refined jute-keraf fibres and its processing method,Natural Textiles,Natural Textiles,0.99,Other,0.004
+054-842-478-064-32X,Ultraviolet-proof textile and preparation process thereof,Natural Textiles,Other,0.7,Natural Textiles,0.1
+014-458-617-571-034,Dyeing and finishing method for long staple cotton and Lyocell bamboo fiber blended high count yarn-dyed shirt fabric,Natural Textiles,Other,0.8,Natural Textiles,0.1
+082-686-928-358-194,Supportive insert,Natural Textiles,Natural Textiles,0.9,Synthetic Textiles,0.08
+058-113-368-416-692,Hemostatic textile,Natural Textiles,Mineral Textiles,0.85,Natural Textiles,0.05
+060-832-386-883-713,PRODUCTION OF TEXTILE PRODUCT HAVING EXCELLENT SETTABILITY,Natural Textiles,Natural Textiles,0.99,Synthetic Textiles,0.005
+077-072-681-785-153,Antibacterial comfortable high-elasticity textile material,Natural Textiles,Other,0.6,Synthetic Textiles,0.2
+061-153-899-125-522,Modal fiber pure or blended yarn,Natural Textiles,Synthetic Textiles,0.9,Natural Textiles,0.08
+066-124-244-752-276,Preparation method of sisal fibre-resin base composite material,Natural Textiles,Natural Textiles,0.97,Synthetic Textiles,0.02
+112-020-214-459-132,"Antibacterial, deodorant and mildew-proof cotton textile fabric",Natural Textiles,Natural Textiles,0.95,Synthetic Textiles,0.04
+127-317-360-471-051,Bamboo textile fabric folding honeycomb core and molding process thereof,Natural Textiles,Natural Textiles,0.98,Synthetic Textiles,0.01
+126-661-476-022-131,"MARKED CELLULOSE ACETATE FIBRES, MANUFACTURING METHODS AND PRODUCTS COMPRISING SUCH FIBRES",Natural Textiles,Synthetic Textiles,0.98,Natural Textiles,0.01
+160-036-026-374-85X,Textile fabric with good anti-pollution effect,Natural Textiles,Other,0.6,Natural Textiles,0.15
+163-652-348-363-027,High-temperature-resistant fiber fleece fabric,Natural Textiles,Mineral Textiles,0.8,Synthetic Textiles,0.1
+146-493-967-576-37X,"Polyamide fibre fibre, cotton fiber peacekeeping modal fibre mischgewebe",Natural Textiles,Synthetic Textiles,0.8,Natural Textiles,0.15
+185-800-512-035-624,High -speed elevator wire rope uses sisal hemp core,Natural Textiles,Natural Textiles,0.75,Metal Textiles,0.2
+162-390-648-129-052,Hybrid textile for reinforcing composites,Natural Textiles,Other,0.8,Mineral Textiles,0.11
+014-787-195-083-694,"A SYNTHETIC TEXTILE SUPPORT FOR BITUMINOUS SHEATHS, PARTICULARLY FOR COATING ROOFS",Synthetic Textiles,Synthetic Textiles,0.99,Mineral Textiles,0.01
+003-115-770-870-416,Ultrasound thermal bonding high-density polyethylene composite fiber bundle for wiping and producing method thereof,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+002-101-457-707-272,High-performance polyethylene multifilament yarn,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+003-512-511-774-306,MULTI-PLY KNIT FABRIC,Synthetic Textiles,Synthetic Textiles,0.99,Mineral Textiles,0.01
+036-696-163-593-125,"Method and apparatus for drafting and condensing a roving, particularly in a ring spinning frame",Synthetic Textiles,Other,0.6,Natural Textiles,0.15
+005-713-062-092-177,BRUSHED CIRCULAR KNITTED FABRIC,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.004
+006-686-772-634-810,"FIBER FOR TIRE, RUBBER/FIBER COMPLEX, AND TIRE",Synthetic Textiles,Synthetic Textiles,0.7,Metal Textiles,0.2
+003-309-941-114-400,Pneumatic tire,Synthetic Textiles,Other,0.8,Metal Textiles,0.1
+002-882-355-351-708,AIRBAG BASE FABRIC AND PRODUCTION METHOD THEREFOR,Synthetic Textiles,Synthetic Textiles,0.98,Natural Textiles,0.01
+025-984-212-106-010,METHOD OF MANUFACTURING AN INTEGRAL PROFILE MONOLITHIC WING STRUCTURE,Synthetic Textiles,Other,0.85,Synthetic Textiles,0.15
+091-926-182-172-065,"Light, thin, wear-resistant and high-strength home textile fabric",Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+068-669-044-601-716,EASY-PRINT PACKAGING SHEET AND MANUFACTURING METHOD THEREFOR,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+058-923-496-259-032,Method of manufacturing a reinforcing thread,Synthetic Textiles,Synthetic Textiles,0.95,Natural Textiles,0.02
+143-395-461-858-304,Lightweight fabrics containing carbon-containing aramid fiber blend including modacrylic fiber,Synthetic Textiles,Synthetic Textiles,0.99,Mineral Textiles,0.01
+046-163-437-946-057,"Breathable, heat-reflecting textile articles",Synthetic Textiles,Metal Textiles,0.7,Synthetic Textiles,0.25
+055-405-767-989-071,TEXTILE ELEMENTARY MONOFILAMENT CONSISTING OF A POLYESTER,Synthetic Textiles,Synthetic Textiles,0.99,Metal Textiles,0.0025
+109-319-621-483-349,Fire-proof flannelet fabric for full-vitality textile,Synthetic Textiles,Synthetic Textiles,0.95,Mineral Textiles,0.02
+098-177-932-873-661,POLYESTER FIBER AND TEXTILE PRODUCT COMPRISING THE SAME,Synthetic Textiles,Synthetic Textiles,0.99,Mineral Textiles,0.01
+148-607-545-957-397,Coated textile sleeve and method of construction thereof,Synthetic Textiles,Other,0.75,Synthetic Textiles,0.15
+172-243-711-620-147,Safety barrier including a method for erecting the same,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+154-158-918-484-796,"THERMOPLASTIC MODACRYLIC RESIN COMPOSITION, METHOD FOR MANUFACTURING SAME, MOLDED ARTICLE OF SAME, AND ACRYLIC FIBERS AND METHOD FOR MANUFACTURING SAME",Synthetic Textiles,Synthetic Textiles,0.99,Other,0.004
+175-563-452-693-852,"PROTECTIVE GLOVE FOR ELECTRIC WELDING, AND MANUFACTURING METHOD THEREFOR",Synthetic Textiles,Synthetic Textiles,0.99,Mineral Textiles,0.01
+114-205-798-534-960,Fire-resistant textile,Synthetic Textiles,Synthetic Textiles,0.99,Mineral Textiles,0.01
+185-369-352-147-671,FIRE-RESISTANT CABLED YARN AND TEXTILE,Synthetic Textiles,Synthetic Textiles,0.9,Natural Textiles,0.05
+020-346-334-782-553,Fabric-based items with stretchable bands,Synthetic Textiles,Other,0.7,Synthetic Textiles,0.25
+010-892-773-129-818,Process for producing nerves-soothing textile fabric,Synthetic Textiles,Natural Textiles,0.6,Synthetic Textiles,0.35
+040-170-319-881-552,"Polyester, Process for Producing Polyester, and Polyester Molded Article",Synthetic Textiles,Synthetic Textiles,0.98,Metal Textiles,0.005
+096-776-537-948-557,"FLAMEPROOF POLYPHENYLENE ETHER FORMED BODY, FLAMEPROOF POLYPHENYLENE ETHER FIBER FORMED BODY, CARBON FORMED BODY, ACTIVATED CARBON FORMED BODY, AND METHOD FOR MANUFACTURING SAME",Synthetic Textiles,Synthetic Textiles,0.98,Metal Textiles,0.01
+056-618-073-436-603,A POLYESTER TEXTILE,Synthetic Textiles,Synthetic Textiles,0.99,Mineral Textiles,0.005
+164-126-758-249-266,"Acrylic polymer, plastisol, and textile ink",Synthetic Textiles,Synthetic Textiles,0.95,Other,0.03
+148-515-330-047-283,High-elasticity textile yarn and production method thereof,Synthetic Textiles,Synthetic Textiles,0.6,Natural Textiles,0.4
+051-797-890-397-143,"Modacrylic, lyocell and nylon blended flame-retardant fabric",Synthetic Textiles,Synthetic Textiles,0.98,Natural Textiles,0.01
+086-805-330-236-461,Weather proof insulating textile fabric composite,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+052-096-990-465-70X,Filter screen,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+043-929-979-482-362,"Core wire for drive belt, drive belt, and method for manufacturing core wire and drive belt",Synthetic Textiles,Synthetic Textiles,0.98,Metal Textiles,0.01
+103-337-236-417-661,Buoyant Water Purification Pad,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.005
+085-947-994-834-824,FLAME RETARDANT FOR POLYESTER TEXTILE MATERIALS,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.005
+080-355-619-527-872,Antistatic natural and synthetic textile materials which have been treated with salts of orthophosphoric or polyphosphoric acid,Synthetic Textiles,Other,0.85,Natural Textiles,0.06
+111-676-498-453-765,PRODUCING METHOD OF HIGH WATER-RESISTANT POLYURETHANE COATING RESIN RECYCLED A SPANDEX AND COATING TEXTILE ADAPTED THE SAME,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+108-318-923-498-756,ACRYLIC FIBER,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+103-364-905-302-022,Quantitative determination method for fiber content of viloft fiber and acrylic fiber or spandex blended textiles,Synthetic Textiles,Other,0.75,Synthetic Textiles,0.2
+154-248-672-367-678,Polyamide and polyester textiles shrinking - and bulking,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.004
+105-814-341-800-867,Heat-insulation composite textile fabric and preparation method thereof,Synthetic Textiles,Mineral Textiles,0.9,Synthetic Textiles,0.07
+092-974-533-958-792,NOVEL ANTIBACTERIAL BREATHABLE FABRIC AND PREPARATION METHOD THEREOF,Synthetic Textiles,Synthetic Textiles,0.95,Natural Textiles,0.02
+038-543-661-608-428,FLEXIBLE BRAIDED GARDEN HOSE,Synthetic Textiles,Synthetic Textiles,0.96,Metal Textiles,0.01
+031-961-801-289-391,Elastic textile fireproof fabric,Synthetic Textiles,Synthetic Textiles,0.65,Natural Textiles,0.3
+057-680-507-021-928,Polyester/acrylic textile product,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+094-251-938-433-605,Flame-resistant and high visibility fabric and apparel formed therefrom,Synthetic Textiles,Synthetic Textiles,0.98,Metal Textiles,0.01
+065-700-765-987-149,FLAME RESISTANT SPUN STAPLE YARNS MADE FROM BLENDS OF FIBERS DERIVED FROM DIAMINO DIPHENYL SULFONE AND MODACRYLIC FIBERS AND FABRICS AND GARMENTS MADE THEREFROM AND METHODS FOR MAKING SAME,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+058-728-530-134-599,Textile fabric,Synthetic Textiles,Mineral Textiles,0.7,Synthetic Textiles,0.2
+093-082-987-835-765,Acrylic acid textile size and preparation method thereof,Synthetic Textiles,Synthetic Textiles,0.96,Metal Textiles,0.01
+118-842-305-656-036,AIRBAG PATCH CLOTH,Synthetic Textiles,Synthetic Textiles,0.95,Mineral Textiles,0.03
+005-006-632-337-226,Breathable polyester textile knapsack,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+010-483-114-436-665,"TEXTILE PRODUCT, METHOD FOR PRODUCING SAID TEXTILE PRODUCT AND USES OF SAID TEXTILE PRODUCT",Synthetic Textiles,Other,0.8,Metal Textiles,0.05
+181-679-370-712-994,FLAME-RETARDANT FABRIC AND WORK CLOTHING USING THE SAME,Synthetic Textiles,Synthetic Textiles,0.95,Natural Textiles,0.05
+069-445-493-158-389,Acrylic-covered spandex yarn,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+055-094-919-841-004,Flame-retardant polyester fiber composite textile,Synthetic Textiles,Synthetic Textiles,0.85,Metal Textiles,0.1
+091-426-604-313-390,BULKED POLYESTER TEXTILES YARNS,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+078-038-346-334-643,"METHOD OF TREATING TEXTILE PRODUCT CONTAINING HIGHLY CROSSLINKED ACRYLIC POLYMER FIBER BEFORE DYEING, METHOD OF DYEING THE TEXTILE PRODUCT, TEXTILE PRODUCT TREATED BEFORE DYEING, AND TEXTILE PRODUCT",Synthetic Textiles,Synthetic Textiles,0.99,Natural Textiles,0.004
+120-138-495-186-479,POLYESTER TEXTILE FABRIC,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+003-071-678-520-374,ANTIMICROBIAL TEXTILE PRODUCT,Synthetic Textiles,Synthetic Textiles,0.95,Natural Textiles,0.04
+051-028-826-018-544,Modacrylic textile and production method thereof,Synthetic Textiles,Synthetic Textiles,1.0,Metal Textiles,0.0
+152-570-703-953-665,Antistatic flame-retardant suede as well as preparation method and application thereof,Synthetic Textiles,Synthetic Textiles,0.99,Mineral Textiles,0.01
+189-764-147-874-939,Acrylic and wool fabric,Synthetic Textiles,Other,0.8,Natural Textiles,0.1
+023-944-577-245-903,Method for dyeing modacrylic/cellulosic blend fabrics,Synthetic Textiles,Synthetic Textiles,0.95,Natural Textiles,0.04
+054-545-363-106-947,Aerospace protective clothing fabric and processing technique thereof,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+051-918-867-245-019,Textile Fabric for Martial Arts Clothing,Synthetic Textiles,Synthetic Textiles,0.85,Natural Textiles,0.12
+073-935-981-562-758,"Hydrophilic acrylic co-polymers - protective coatings for plants, textiles masonry, shellfish",Synthetic Textiles,Other,0.85,Synthetic Textiles,0.08
+118-832-222-829-553,ACRYLIC/MODACRYLIC FIBER HAVING ANTI-ODOR EFFECT,Synthetic Textiles,Synthetic Textiles,0.99,Mineral Textiles,0.01
+122-616-758-919-205,Transmission belt.,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.004
+082-938-316-934-267,Recovery device for antibacterial polyester fiber textile cloth,Synthetic Textiles,Other,0.85,Synthetic Textiles,0.15
+028-552-954-477-144,FILTER MESH,Synthetic Textiles,Synthetic Textiles,0.99,Mineral Textiles,0.003
+190-751-495-850-389,Modacrylic fiber blended fabric and manufacturing process thereof,Synthetic Textiles,Synthetic Textiles,0.95,Natural Textiles,0.04
+079-874-082-299-425,Breathable T-shirt made of reinforced textile structure,Synthetic Textiles,Synthetic Textiles,0.98,Natural Textiles,0.01
+191-557-644-075-126,METHOD OF AGAIN PRATICAL USE IN A FILTER BAG,Synthetic Textiles,Synthetic Textiles,0.8,Mineral Textiles,0.15
+052-791-353-194-104,"Flame-resistant, high visibility, anti-static fabric and apparel formed therefrom",Synthetic Textiles,Synthetic Textiles,0.99,Metal Textiles,0.005
+009-407-613-418-410,Moisture-absorbing and breathable yarn and textile process and textile product thereof,Synthetic Textiles,Synthetic Textiles,0.95,Other,0.03
+089-950-594-330-267,SYNTHETIC TEXTILE YARN,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.004
+119-609-125-041-11X,AIRBAG BASE FABRIC AND PRODUCTION METHOD THEREFOR,Synthetic Textiles,Synthetic Textiles,0.98,Metal Textiles,0.01
+123-498-169-529-497,"A procedure to gel the fibers of a non-woven textile article containing modacrylic fibers. (Machine-translation by Google Translate, not legally binding)",Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+137-181-608-780-177,ANTIMICROBIAL SYNTHETIC TEXTILE AND A METHOD FOR MANUFACTURING THEREOF,Synthetic Textiles,Synthetic Textiles,1.0,Metal Textiles,0.0
+086-838-740-961-448,heat loss prevention jacket for food in cooking pot is fabricated from two or more textile layers incorporating man-made fibers,Synthetic Textiles,Synthetic Textiles,0.99,Mineral Textiles,0.004
+067-258-760-363-576,SKI CLOTHING WITH ANTI-CUT CHARACTERISTICS AND RELATED FABRIC,Synthetic Textiles,Synthetic Textiles,0.9,Metal Textiles,0.05
+178-298-340-470-229,Textile fabric with good elasticity,Synthetic Textiles,Synthetic Textiles,0.85,Natural Textiles,0.1
+117-949-205-144-280,FREE CUT WARP-KNITTED FABRIC AND USE THEREOF,Synthetic Textiles,Synthetic Textiles,0.95,Natural Textiles,0.02
+145-396-350-163-38X,Flameproof textile articles based on halogen-containing modacrylic polymers,Synthetic Textiles,Synthetic Textiles,0.98,Mineral Textiles,0.01
+010-046-647-627-506,Acrylic emulsion for textiles and preparation method thereof,Synthetic Textiles,Synthetic Textiles,0.95,Other,0.02
+001-045-494-297-313,TEXTILE WOVEN AND KNIT FABRICS WITH ENHANCED FLAME RETARDANCY AND COMFORT FOR BEDCLOTHING PRODUCTS,Synthetic Textiles,Synthetic Textiles,0.8,Natural Textiles,0.15
+022-222-947-569-729,Nonwoven tack cloth for wipe applications,Synthetic Textiles,Synthetic Textiles,0.98,Metal Textiles,0.005
+029-743-961-528-796,Opacified Polyester Textile Material,Synthetic Textiles,Synthetic Textiles,0.95,Mineral Textiles,0.02
+147-286-416-820-799,Textile genuine leather process,Synthetic Textiles,Natural Textiles,0.9,Metal Textiles,0.05
+087-442-058-126-541,Greenhouse screen,Synthetic Textiles,Synthetic Textiles,0.95,Mineral Textiles,0.04
+052-489-700-893-624,Composite yarn of liquid crystal polymer fibers and modified polyacrylonitrile fibers,Synthetic Textiles,Synthetic Textiles,0.98,Natural Textiles,0.01
+158-447-419-648-959,Preparation method of elasticized sea-island superfine fiber synthetic base cloth,Synthetic Textiles,Synthetic Textiles,1.0,Metal Textiles,0.0
+099-666-304-484-845,Textile woven and knit fabrics with enhanced flame retardancy and comfort for bedclothing products,Synthetic Textiles,Synthetic Textiles,0.75,Natural Textiles,0.15
+185-178-833-404-534,Flame-retardant polyester textile fabric,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+126-453-975-235-821,KNITTED GEOTEXTILE,Synthetic Textiles,Synthetic Textiles,0.95,Mineral Textiles,0.02
+186-835-649-502-197,PREPARATION METHOD OF SM NON-WOVEN FABRICS FOR ROOF ANTI-SLIP,Synthetic Textiles,Synthetic Textiles,0.99,Natural Textiles,0.005
+195-194-570-582-656,Fireproof flame-retardant textile,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+074-383-507-288-337,A METHOD TO PRODUCE AN ANTIMICROBIAL POLYESTER TEXTILE USING CUTINASE,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+083-080-035-095-366,Textile sizing,Synthetic Textiles,Other,0.95,Natural Textiles,0.02
+019-573-690-074-363,HIGH VOLTAGE TRANSMISSION LINE CABLE BASED ON TEXTILE COMPOSITE MATERIAL,Synthetic Textiles,Synthetic Textiles,0.85,Mineral Textiles,0.1
+083-790-738-283-693,POLYESTER COMPOSITIONS AND THEIR USE AS TEXTILE ASSISTANTS,Synthetic Textiles,Synthetic Textiles,0.98,Metal Textiles,0.005
+081-828-166-905-028,"Laminated textile material, especially for technical applications.",Synthetic Textiles,Other,0.5,Synthetic Textiles,0.35
+140-180-727-437-738,"Method for producing polyester fibers, polyester fibers, yarns and textiles",Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+161-748-133-345-124,Method for producing a textile product,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+121-092-569-297-119,Vehicle seat cover,Synthetic Textiles,Synthetic Textiles,0.98,Natural Textiles,0.01
+159-708-808-069-554,2-layer firefighter garment,Synthetic Textiles,Synthetic Textiles,0.99,Mineral Textiles,0.004
+023-582-604-410-80X,Protective clothing unit having preferably textile fragment protection equipment,Synthetic Textiles,Synthetic Textiles,0.88,Other,0.1
+103-276-328-290-016,FLAT-WARP-KNITTED OUTDOOR CLOTHING AND METHOD FOR MANUFACTURING THE SAME,Synthetic Textiles,Synthetic Textiles,0.95,Natural Textiles,0.04
+162-411-860-193-983,Woven footwear upper,Synthetic Textiles,Synthetic Textiles,0.95,Metal Textiles,0.02
+182-040-787-620-621,Cleanroom wiper and method for making same,Synthetic Textiles,Synthetic Textiles,0.98,Metal Textiles,0.005
+054-317-666-137-13X,High-performance water-absorbing fiber geotextile,Synthetic Textiles,Synthetic Textiles,0.99,Mineral Textiles,0.004
+174-294-671-273-963,SYNTHETIC GROUND COVER SYSTEM FOR EROSION PROTECTION,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+079-594-257-081-182,Polypropylene compositions for soft nonwoven fabrics,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.004
+185-659-742-732-257,Method for preparing tri-phosphonitrile acrylic ester,Synthetic Textiles,Other,0.7,Natural Textiles,0.25
+082-175-865-312-484,Method for preparing regenerated polyester chips by utilizing waste pure polyester textiles,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+094-035-881-732-869,POLYESTER FIBRES AND TEXTILE YARNS,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.004
+027-543-985-436-571,Fibrillated polyester textile materials,Synthetic Textiles,Synthetic Textiles,1.0,Metal Textiles,0.0
+195-000-973-752-623,Polyester textile with nylon touch,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+095-918-517-870-89X,Skin for filling with foodstuff - comprising textile fabric coated internally with acrylic resin and externally with dipped coating,Synthetic Textiles,Other,0.85,Natural Textiles,0.06
+189-079-197-731-842,Bacteriostatic textile polyester fabric,Synthetic Textiles,Synthetic Textiles,0.75,Natural Textiles,0.2
+069-493-466-748-945,Stretchable protective garments and method for making same,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+005-526-830-003-103,Upper body garment with woven tubular shoulder straps,Synthetic Textiles,Other,0.75,Synthetic Textiles,0.2
+064-155-089-799-910,"TREATMENT AGENT FOR POLYESTER SYNTHETIC FIBERS, COMPOSITION CONTAINING TREATMENT AGENT FOR POLYESTER SYNTHETIC FIBERS, AND POLYESTER SYNTHETIC FIBERS",Synthetic Textiles,Synthetic Textiles,0.99,Other,0.007
+018-089-239-404-857,Technical textile,Synthetic Textiles,Other,0.9,Synthetic Textiles,0.03
+033-280-973-679-336,Textile permanent elasticity surface fabric that hygroscopicity is good,Synthetic Textiles,Other,0.7,Natural Textiles,0.15
+101-191-857-772-197,Fireproof flame retardant anti-bacterial fabric as well as preparation method and application thereof,Synthetic Textiles,Other,0.7,Synthetic Textiles,0.25
+182-257-386-118-603,Breathable textile fabric with good elasticity,Synthetic Textiles,Synthetic Textiles,0.6,Metal Textiles,0.3
+064-592-645-283-698,"Biodegradable additive, biodegradable polyester fiber and method for producing the same, and biodegradable fabric",Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+040-190-681-193-523,METHOD FOR PRODUCING (METH)ACRYLIC COMPOUND AND (METH) ACRYLIC COMPOUND,Synthetic Textiles,Synthetic Textiles,0.9,Other,0.06
+072-815-477-078-913,Polymeric surfactant compositions and methods of manufacture and use,Synthetic Textiles,Synthetic Textiles,0.98,Metal Textiles,0.005
+015-463-905-726-718,High-elasticity textile fabric,Synthetic Textiles,Other,0.5,Natural Textiles,0.25
+047-002-005-561-574,TEXTILE/RESIN LAMINATED STRUCTURE HOUSING AND METHOD FOR PRODUCING THE SAME,Synthetic Textiles,Other,0.7,Synthetic Textiles,0.1
+057-185-361-389-94X,Knitted bag and method of manufacturing the same,Synthetic Textiles,Synthetic Textiles,0.85,Other,0.07
+165-902-120-493-097,"Acrylic fiber for artificial hair, method for producing same, and head decoration article containing same",Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+046-468-790-145-274,Textile cloth with good fireproof function,Synthetic Textiles,Synthetic Textiles,0.98,Metal Textiles,0.01
+020-151-956-399-487,NOVEL MODACRYLIC FIBER,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+198-281-870-719-962,"RECYCLABLE, ASYMMETRICAL-FACED COMPOSITE NONWOVEN TEXTILE",Synthetic Textiles,Synthetic Textiles,0.9,Natural Textiles,0.05
+104-000-308-129-080,HIGH-ELASTICITY NYLON CORD AND METHOD FOR PRODUCING SAME,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.005
+151-103-406-793-870,SHELL ELEMENT AS PART OF AN AIRCRFAFT FUSELAGE,Synthetic Textiles,Other,0.85,Synthetic Textiles,0.12
+133-376-268-559-437,HIGHLY DURABLE OUTDOOR TEXTILE FABRIC HAVING IMPROVED RESISTANCY AND REPELLENCY,Synthetic Textiles,Synthetic Textiles,0.9,Natural Textiles,0.04
+086-752-939-795-451,Viscose acrylic fiber home textile fabric and preparation method thereof,Synthetic Textiles,Synthetic Textiles,0.95,Natural Textiles,0.04
+054-610-552-688-251,Polyester heat insulation curtain textile,Synthetic Textiles,Synthetic Textiles,0.9,Natural Textiles,0.05
+078-214-922-117-488,Application of amphiprotic acrylic ester polymers to textile warp size,Synthetic Textiles,Other,0.85,Synthetic Textiles,0.1
+107-866-810-531-725,Fire protection for fire service helmets in textile fabric with strengthening of the protective helmet by a pad at the wearer face seal including a protective flap with a polyurethane coated Nomex fabric,Synthetic Textiles,Synthetic Textiles,0.98,Metal Textiles,0.01
+087-715-974-354-989,Woven fabric for work clothing parts,Synthetic Textiles,Synthetic Textiles,0.98,Metal Textiles,0.005
+086-674-063-576-551,"Textile and Spandex Fibres Having Fragrance Materials, and A Method of Treating the Textile or Spandex Fibres",Synthetic Textiles,Synthetic Textiles,0.95,Other,0.04
+111-035-798-092-535,Fire resistant textile material,Synthetic Textiles,Synthetic Textiles,0.85,Natural Textiles,0.1
+192-721-151-705-378,Polyester textile with nylon touch,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.005
+123-388-777-727-457,Spandex textile fabric,Synthetic Textiles,Synthetic Textiles,0.75,Natural Textiles,0.15
+099-447-830-743-990,Anti-deformation hot air non-woven fabric,Synthetic Textiles,Synthetic Textiles,0.85,Natural Textiles,0.1
+199-237-922-261-243,MONOFILAMENTS AND THEIR USE IN PRODUCING TECHNICAL TEXTILE ARTICLES,Synthetic Textiles,Synthetic Textiles,0.99,Mineral Textiles,0.003
+019-875-525-692-807,MODACRYLIC FIBER AND FLAME-RETARDANT FIBER ASSEMBLY INCLUDING SAME,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.004
+022-041-827-941-554,High-elasticity polyester textile fabric,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.004
+189-182-839-523-208,Mould-proofing warm-keeping textile,Synthetic Textiles,Other,0.6,Natural Textiles,0.3
+010-144-362-445-329,TREATMENT OF POLYESTER-BASED STRETCH TEXTILE,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.004
+024-878-873-465-98X,POLYTETRAFLUOROETHYLENE POROUS FIBER AND MANUFACTURING AND MODIFYING PROCESS THEREOF,Synthetic Textiles,Synthetic Textiles,0.99,Metal Textiles,0.0025
+085-540-928-029-769,Antistatic textile fabric applied to explosion-proof places,Synthetic Textiles,Synthetic Textiles,0.99,Mineral Textiles,0.01
+038-324-042-918-689,"METHOD FOR PRODUCING COPOLYMERIZED POLYESTER FIBER TEXTILE, COPOLYMERIZED POLYESTER FIBER TEXTILE AND TEXTILE PRODUCT",Synthetic Textiles,Synthetic Textiles,0.99,Other,0.005
+062-726-541-248-343,ARAMID NANOFIBER FILAMENTS AND RELATED METHODS,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+106-257-486-348-602,POROUS MEMBRANE FOR WATER TREATMENT USE,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.004
+149-912-239-146-390,Flame-retardant synthetic textile articles and methods of making the same,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+167-922-163-465-53X,Glove insert seamlessly coated with hydrophobic and breathable membrane and method for producing same,Synthetic Textiles,Synthetic Textiles,0.95,Natural Textiles,0.02
+104-170-881-533-328,Spandex textile fabric,Synthetic Textiles,Synthetic Textiles,0.8,Natural Textiles,0.1
+172-467-136-456-776,POLYETHYLENE TEREPHTHALATE-BASED HOOK-AND-LOOP FASTENER AND METHOD FOR MANUFACTURING SAME,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+118-414-190-677-847,HIGH-TEMPERATURE HOSES,Synthetic Textiles,Mineral Textiles,0.45,Metal Textiles,0.4
+118-598-518-481-856,Outer shell fabric for fire protective garments for firefighters and for workers exposed to risk of flash fire or electric arc,Synthetic Textiles,Synthetic Textiles,0.99,Mineral Textiles,0.003
+129-463-732-890-694,"POLYAMIDE 56 RESIN AND FIBER, PREPARATION METHODS THEREFOR, AND USE THEREOF",Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+030-037-680-534-871,Synthetic leather-like Composite with smoke and flame resistant properties,Synthetic Textiles,Synthetic Textiles,0.95,Mineral Textiles,0.02
+115-854-525-735-130,"RECYCLABLE, ASYMMETRICAL-FACED COMPOSITE NONWOVEN TEXTILE",Synthetic Textiles,Synthetic Textiles,0.9,Natural Textiles,0.05
+134-512-339-092-513,ENVIRONMENTAL-FRIENDLY TEXTILE FABRICS,Synthetic Textiles,Other,0.5,Natural Textiles,0.25
+120-192-167-537-572,COMPOSITE CUSHION MATERIAL WITH HIGH BREATHABILITY AND MULTISTEP SUPPORT,Synthetic Textiles,Synthetic Textiles,0.95,Other,0.04
+045-005-944-371-649,Stretchable woven fabric and fiber product,Synthetic Textiles,Synthetic Textiles,0.99,Natural Textiles,0.01
+027-731-768-444-40X,CHARGED NONWOVEN MATERIAL,Synthetic Textiles,Synthetic Textiles,0.95,Other,0.02
+060-440-255-996-782,NONWOVEN FABRICS INCLUDING RECYCLED POLYPROPYLENE,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+120-898-371-329-046,Novel polyester liner cloth,Synthetic Textiles,Other,0.4,Synthetic Textiles,0.35
+121-754-201-255-754,Textile information carrier and method for producing a textile information carrier,Synthetic Textiles,Other,0.85,Metal Textiles,0.1
+053-461-067-904-755,WOVEN STRUCTURE OF BULLETPROOF STUFF FOR BODY ARMOR,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.005
+072-622-682-516-598,DISINFECTING AND DETOXIFYING META-ARAMID PARTICLES,Synthetic Textiles,Synthetic Textiles,0.96,Metal Textiles,0.01
+107-876-220-850-725,TEXTILE MADE FROM CHAINS AND PROCESS FOR ITS MANUFACTURE,Synthetic Textiles,Metal Textiles,0.95,Synthetic Textiles,0.02
+032-680-484-129-970,GARMENT FOR MEASURING PHYSIOLOGICAL DATA,Synthetic Textiles,Synthetic Textiles,0.85,Other,0.1
+104-219-101-080-095,ACRYLIC TEXTILE FIBRES,Synthetic Textiles,Synthetic Textiles,1.0,Metal Textiles,0.0
+159-595-069-285-748,BIODEGRADABLE POLYESTER TEXTILE,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+061-788-768-530-076,Bamboo fiber textile fabric body armor,Synthetic Textiles,Other,0.5,Natural Textiles,0.2
+134-977-395-783-212,POLYESTER TEXTILE FOR SHOES,Synthetic Textiles,Synthetic Textiles,0.99,Metal Textiles,0.0025
+189-969-746-443-910,Composite fiber textile fabric,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.005
+190-867-890-879-653,Antibacterial textile material,Synthetic Textiles,Synthetic Textiles,0.95,Natural Textiles,0.05
+077-128-758-426-176,Waterproof polyester fabric for home textiles,Synthetic Textiles,Synthetic Textiles,0.98,Natural Textiles,0.01
+196-097-621-806-886,Textile leather,Synthetic Textiles,Natural Textiles,0.7,Metal Textiles,0.15
+059-155-317-330-866,Tearable Cloth,Synthetic Textiles,Synthetic Textiles,0.95,Mineral Textiles,0.02
+098-805-076-789-348,Home textile fabric with photochromic effect,Synthetic Textiles,Synthetic Textiles,0.95,Natural Textiles,0.04
+106-846-605-216-844,METHOD FOR MODIFYING OF SYNTHETIC TEXTILE MATERIALS,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.004
+150-049-328-075-281,BICOMPONENT POLYESTER TEXTILE FIBER,Synthetic Textiles,Synthetic Textiles,0.99,Other,0.01
+119-060-854-861-841,"Abrasive pad, method and system for making an abrasive pad",Synthetic Textiles,Other,0.95,Synthetic Textiles,0.02
+116-767-056-660-05X,Polyester fiber and textile product comprising the same,Synthetic Textiles,Synthetic Textiles,0.98,Metal Textiles,0.01
+063-385-773-589-482,HOUSING HAVING LAYERED TEXTILE/RESIN STRUCTURE AND MANUFACTURING METHOD THEREFOR,Synthetic Textiles,Other,0.8,Synthetic Textiles,0.1
+171-587-061-798-930,FLAMEPROOFING AGENT FOR POLYESTER TEXTILE AND FLAMEPROOFING METHOD,Synthetic Textiles,Synthetic Textiles,0.98,Metal Textiles,0.005
+169-569-580-209-260,Reinforcing yarn for stiffening fabric or technical textile applications and process for its manufacture,Synthetic Textiles,Synthetic Textiles,0.95,Mineral Textiles,0.02
+149-190-354-195-372,FLAME RETARDANT TECHNICAL TEXTILES WITH HIGH VISIBILITY FEATURES,Synthetic Textiles,Synthetic Textiles,0.85,Mineral Textiles,0.07
+010-817-511-755-19X,AIRBAG FABRIC,Synthetic Textiles,Synthetic Textiles,0.98,Metal Textiles,0.005
+171-841-019-838-776,Protective Clothing and Protective Shroud/Hood with Fan,Synthetic Textiles,Synthetic Textiles,0.85,Natural Textiles,0.05
+193-008-312-895-719,ELEVATOR CAR ISOLATION SYSTEM AND METHOD,Synthetic Textiles,Other,0.99,Metal Textiles,0.005
+073-747-569-685-950,GLASS WOOL SHAPED ARTICLE AND METHOD OF FORMATION THEREOF,Mineral Textiles,Mineral Textiles,0.98,Metal Textiles,0.01
+074-926-039-070-027,Heat-resisting textile based on carborane ceramic coating layer and preparation method thereof,Mineral Textiles,Synthetic Textiles,0.9,Mineral Textiles,0.05
+081-441-408-985-387,MINERAL WOOL INSULATION,Mineral Textiles,Mineral Textiles,0.99,Other,0.01
+060-452-270-558-412,Laminar textile fibreglass material,Mineral Textiles,Mineral Textiles,0.85,Synthetic Textiles,0.14
+052-646-681-888-809,Qualitative and quantitative detecting method of asbestos fibers in water,Mineral Textiles,Mineral Textiles,0.95,Other,0.02
+033-533-691-316-767,CARBON-COATED CERAMIC FABRIC MATERIAL,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+003-663-712-789-73X,Flexible translucent to transparent fireproof composite material,Mineral Textiles,Mineral Textiles,0.95,Synthetic Textiles,0.02
+061-925-465-884-369,Water-repellent fiber,Mineral Textiles,Other,0.7,Synthetic Textiles,0.2
+000-872-959-178-561,Basalt containing fabric,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+005-077-009-162-637,Biosoluble inorganic fiber and method for producing same,Mineral Textiles,Mineral Textiles,0.95,Metal Textiles,0.02
+093-378-690-560-791,Ceramic fiber textile cotton bagging system and method,Mineral Textiles,Mineral Textiles,0.98,Synthetic Textiles,0.01
+154-327-967-231-300,Antimicrobial textile fibreglass material,Mineral Textiles,Mineral Textiles,0.98,Metal Textiles,0.01
+005-343-361-243-507,"Modification method of basalt fiber, modified basalt fiber and application of modified basalt fiber",Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+147-018-059-397-345,Asbestos fiber rope and preparing method thereof,Mineral Textiles,Mineral Textiles,0.99,Natural Textiles,0.01
+100-894-978-871-145,GLASS TEXTILE COATED WITH PARTIALLY SOLUBLE DEXTRIN-CONTAINING COATING,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.005
+151-268-327-291-165,Weavable textile glass strand,Mineral Textiles,Mineral Textiles,0.98,Synthetic Textiles,0.01
+141-996-566-092-975,"Apparatus, system and method for preparing carbon nanomaterial fibers and textiles from carbon dioxide, and materials and materials and products thereof",Mineral Textiles,Synthetic Textiles,0.98,Metal Textiles,0.01
+168-526-837-502-723,Waterproof and fireproof basalt fiber floor,Mineral Textiles,Mineral Textiles,0.99,Other,0.01
+014-492-739-482-426,Preparation method of basalt fiber,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+182-111-752-659-273,Ceramic fibre compound textile fabrics and preparing method thereof,Mineral Textiles,Mineral Textiles,0.95,Metal Textiles,0.02
+011-310-312-713-951,Basalt fiber weaves gloves,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.004
+002-589-933-430-238,BASALT BASED KNITTED TEXTILE STRUCTURE,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.005
+002-361-029-352-285,Self-adhesive water-activable glass web,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+096-895-142-349-850,MINERAL WOOL PRODUCT,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+082-747-737-975-903,Basalt fiber supporting piece and basalt fiber support,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+108-005-765-061-702,Method for producing rotary textile fibers,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+130-660-129-270-499,Microfiber layered leather and automobile seat,Mineral Textiles,Synthetic Textiles,0.95,Mineral Textiles,0.03
+092-449-329-185-002,GLASS-FIBRE TEXTILE STRUCTURE WITH PARYLENE COATING,Mineral Textiles,Mineral Textiles,0.95,Synthetic Textiles,0.02
+044-047-170-297-017,A CERAMIC PANEL FOR BULLET-PROOF JACKET AND A MANUFACTURING METHOD THEREOF,Mineral Textiles,Other,0.7,Mineral Textiles,0.2
+143-045-654-232-279,Method for preparing basalt fiber screw,Mineral Textiles,Mineral Textiles,0.98,Metal Textiles,0.01
+145-714-807-057-28X,COMBINED WEB,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+144-793-328-180-071,Military warm-keeping and cold-proof fabric and preparation method thereof,Mineral Textiles,Mineral Textiles,0.96,Synthetic Textiles,0.02
+031-889-141-150-736,Process for colouring textile materials and foils,Mineral Textiles,Other,0.85,Synthetic Textiles,0.08
+046-656-239-793-390,Waterproof glass fiber felt for glass fiber reinforced plastics,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+037-260-529-531-80X,"Glass fiber impregnating compound composition, glass fiber impregnating compound, preparation method of glass fiber impregnating compound, glass fiber and application of glass fiber",Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+155-684-142-155-421,PROCESS OF MANUFACTURE OF MINERAL WOOL ARTICLES FROM BASALT CARRYING ROCKS AND TECHNOLOGICAL LINE FOR ITS IMPLEMENTATION,Mineral Textiles,Mineral Textiles,0.99,Metal Textiles,0.005
+033-263-053-886-186,Glass textile fabric,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.005
+103-061-140-355-481,MINERAL WOOL SUBSTRATE,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+116-142-650-183-225,Basalt fiber gridding cloth winding device,Mineral Textiles,Mineral Textiles,0.98,Metal Textiles,0.005
+100-463-257-690-083,METHOD TO LIMIT SILICON IN B4C PARTICULATE BASED CMC COMPOSITES,Mineral Textiles,Mineral Textiles,0.95,Synthetic Textiles,0.02
+136-982-854-474-312,Patterned glass fiber textile,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+176-593-074-791-909,GLASS FIBER SIZE AND GLASS FIBER,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+010-103-760-601-410,"Friction lining for brakes and clutches - comprises wear-resistant ply and base layer, incorporating resinous binder, loose asbestos fibres and heat-stabilisers",Mineral Textiles,Mineral Textiles,0.9,Other,0.05
+117-550-408-496-863,HEMOSTATIC TEXTILE,Mineral Textiles,Mineral Textiles,0.75,Synthetic Textiles,0.15
+039-960-356-295-561,Glass fiber wall covering,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+056-172-657-263-378,"GLASS FIBER SIZING AGENT, GLASS FIBER, AND GLASS FIBER NONWOVEN FABRIC",Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+023-517-125-018-826,Preparation method of basalt fiber board,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+060-450-230-005-953,Basalt fiber complex stirrup,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+191-354-346-207-071,Fire resistant textile yarn and use thereof,Mineral Textiles,Other,0.7,Synthetic Textiles,0.15
+078-877-699-399-626,Impregnation method for repairing and reinforcing using basalt textile,Mineral Textiles,Mineral Textiles,1.0,Metal Textiles,0.0
+087-313-791-775-033,"GLASS FIBER SIZING AGENT, GLASS FIBER, AND GLASS-FIBER REINFORCED THERMOPLASTIC RESIN MATERIAL",Mineral Textiles,Mineral Textiles,0.98,Synthetic Textiles,0.02
+109-429-893-356-615,"SIZING AGENT FOR GLASS FIBER, GLASS FIBER, METHOD OF MANUFACTURING GLASS FIBER AND GLASS FIBER-REINFORCED THERMOPLASTIC RESIN",Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+094-253-354-731-958,Basalt fibers applied to epoxy prepreg and production method of basalt fibers,Mineral Textiles,Mineral Textiles,0.98,Natural Textiles,0.01
+100-478-221-589-006,TREATING ASBESTOS FIBRE TEXTILE PRODUCTS WITH BENTONITE,Mineral Textiles,Mineral Textiles,0.99,Other,0.01
+172-216-470-815-176,Integral textile composite fabric,Mineral Textiles,Other,0.85,Mineral Textiles,0.1
+116-629-722-381-760,INSECT-REPELLING TEXTILE PRODUCT,Mineral Textiles,Other,0.9,Natural Textiles,0.04
+090-381-263-511-221,PROCEDURE FOR TRANSFORMING FIBREGLASS FABRIC,Mineral Textiles,Mineral Textiles,0.98,Metal Textiles,0.01
+153-752-869-241-020,Basalt fiber composite plate spring,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+017-542-855-486-514,High-density glass wool rigid panel,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+054-836-703-017-773,Electrically conducting textile and the method for realizing the same,Mineral Textiles,Mineral Textiles,0.95,Synthetic Textiles,0.03
+170-719-279-265-227,Method for manufacturing a heat insulation,Mineral Textiles,Mineral Textiles,0.75,Metal Textiles,0.1
+034-765-936-752-022,TEXTILE COMPRISING CERAMIC,Mineral Textiles,Mineral Textiles,0.8,Natural Textiles,0.1
+001-534-658-918-591,"FUNCTIONAL COATING METHOD OF BASALT FIBER AND BASALT FIBER CORE TWISTED YARN, BASALT FIBER AND BASALT FIBER CORE TWISTED YARN BY USING THE METHOD, AND PRODUCT WOVEN THEREFROM",Mineral Textiles,Mineral Textiles,0.99,Natural Textiles,0.005
+105-373-193-061-351,Molding of glass wool with wrinkle-free surface,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+151-682-261-067-884,GLASS FIBER PRODUCT CONTAINING RECYCLED GLASS FIBERS AND PROCESS FOR RECYCLING GLASS FIBER PRODUCTS,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+057-242-034-432-160,"SMOOTH TEXTILE REINFORCEMENT FOR PULTRUSION, METHOD AND DEVICE FOR PRODUCING SAME, AND USE THEREOF IN THE MANUFACTURE OF COMPONENTS USING PULTRUSION",Mineral Textiles,Mineral Textiles,0.95,Synthetic Textiles,0.05
+196-354-800-007-638,Basalt fiber composite and method of fabricating of the basalt fiber composite,Mineral Textiles,Mineral Textiles,0.98,Metal Textiles,0.01
+005-084-291-819-414,"BINDER FOR GLASS FIBER, GLASS FIBER, MANUFACTURING METHOD OF GLASS FIBER AND GLASS FIBER-REINFORCED THERMOPLASTIC RESIN MATERIAL",Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+120-745-523-788-528,Pipeline repairing hose based on basalt fibers,Mineral Textiles,Mineral Textiles,0.85,Synthetic Textiles,0.12
+001-662-933-367-015,Glass fiber and glass fiber composite material,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+025-467-947-875-157,DESIZING GLASS TEXTILE MATERIALS,Mineral Textiles,Mineral Textiles,0.95,Natural Textiles,0.02
+003-750-950-039-534,"Glass composition for glass fiber, glass fiber, method for making a glass fiber, and composite material",Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+152-249-574-601-709,IMPROVED TRAMPOLINE,Mineral Textiles,Other,0.85,Synthetic Textiles,0.1
+087-288-381-994-864,Preparation process and application of antistatic cashmere blended yarn,Mineral Textiles,Natural Textiles,0.9,Synthetic Textiles,0.07
+153-536-754-086-423,"Multidirectional ceramic fibre textures based on silicon compounds, their manufacture and composites thus reinforced.",Mineral Textiles,Mineral Textiles,0.97,Metal Textiles,0.01
+154-478-120-321-958,Method of cleaning fibreglass,Mineral Textiles,Other,0.85,Mineral Textiles,0.1
+184-990-571-213-21X,Basalt fiber skis,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+190-568-920-237-046,GLASS WOOL CUTTING DEVICE AND METHOD FOR MANUFACTURING GLASS WOOL PELLET USING THE SAME,Mineral Textiles,Mineral Textiles,0.99,Other,0.01
+020-583-891-373-639,Basalt fiber composite frame pipe,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+006-409-510-824-045,Antibacterial flame-retardant textile fabric,Mineral Textiles,Other,0.6,Synthetic Textiles,0.15
+056-014-383-208-297,"TREATMENT AGENT FOR PREVENTING ASBESTOS FIBER FROM SCATTERING, METHOD FOR PREVENTING ASBESTOS FIBER FROM SCATTERING, AND METHOD FOR REMOVING ASBESTOS FIBER",Mineral Textiles,Mineral Textiles,0.98,Metal Textiles,0.005
+043-917-546-662-52X,Textile fabric,Mineral Textiles,Mineral Textiles,0.95,Synthetic Textiles,0.02
+042-326-252-692-570,Modified basalt fiber,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+087-873-124-792-10X,Basalt fiber oxford fabric,Mineral Textiles,Mineral Textiles,0.98,Synthetic Textiles,0.02
+116-524-343-975-410,FIBREGLASS REINFORCED PLASTIC,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+048-752-027-037-668,Light transmissive fiber integrated knit textile,Mineral Textiles,Synthetic Textiles,0.8,Mineral Textiles,0.1
+099-301-127-590-855,FORMWORK PANEL,Mineral Textiles,Mineral Textiles,0.98,Synthetic Textiles,0.01
+070-881-086-931-721,Far-infrared ceramic chemical fibre,Mineral Textiles,Synthetic Textiles,0.95,Mineral Textiles,0.04
+112-834-452-956-639,ILLUMINATED FABRIC COMPRISING GLASS FIBRES,Mineral Textiles,Mineral Textiles,0.98,Synthetic Textiles,0.01
+132-412-072-605-330,FIBREGLASS PROCESSING TANK,Mineral Textiles,Mineral Textiles,0.98,Synthetic Textiles,0.01
+136-776-032-227-286,"Basalt fiber cloth dyeing method, basalt fiber color cloth and application",Mineral Textiles,Mineral Textiles,0.98,Metal Textiles,0.01
+001-118-984-202-30X,SIZED YARN INTENDED TO UNDERGO A TEXTILE OPERATION,Mineral Textiles,Mineral Textiles,0.95,Synthetic Textiles,0.02
+175-807-597-453-217,Method for activating hemostatic systems by applying a hemostatic textile,Mineral Textiles,Mineral Textiles,0.9,Other,0.04
+029-917-262-601-568,Apparatus for manufacturing a bio-ceramic additive textile and the method thereof,Mineral Textiles,Mineral Textiles,0.9,Other,0.05
+031-563-325-461-168,SELF-ADHESIVE WATER-ACTIVABLE GLASS WEB,Mineral Textiles,Mineral Textiles,0.98,Synthetic Textiles,0.01
+019-484-051-963-274,"GLASS WOOL COMPACT PRODUCTION METHOD, GLASS WOOL COMPACT, AND VACCUMED HEAT INSULATOR",Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+023-582-708-935-993,Glass formula applicable to production of glass fiber textile yarns,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.005
+099-426-750-892-328,COVER GLASS AND A MANUFACTURING METHOD THEREOF USING GLASS WOOL,Mineral Textiles,Mineral Textiles,0.98,Metal Textiles,0.005
+061-621-155-584-309,MINERAL WOOL PRODUCT AND MANUFACTURING METHOD,Mineral Textiles,Mineral Textiles,0.99,Natural Textiles,0.005
+141-610-730-777-34X,METHOD FOR RECYCLING MINERAL WOOL MATERIAL,Mineral Textiles,Mineral Textiles,0.99,Other,0.01
+169-517-901-073-452,Glass fiber and glass fiber composite material,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+046-837-197-078-032,GLASS-COATED METALLIC FILAMENT CABLES FOR USE IN ELECTRICAL HEATABLE TEXTILES,Mineral Textiles,Metal Textiles,0.9,Mineral Textiles,0.07
+123-007-962-252-99X,Inorganic textile fiber material used as a replacement for spring mats in I.C. engine exhaust gas converters is produced from high-temperature resistant high textile aluminum oxide-modified silicic acid stacked fibers,Mineral Textiles,Mineral Textiles,0.99,Metal Textiles,0.005
+047-908-806-497-323,Preparation process of basalt fiber knitted fabric,Mineral Textiles,Mineral Textiles,0.85,Natural Textiles,0.1
+136-664-624-743-034,Phosphated asbestos fibers,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+146-402-118-226-301,Glass compositions and their fibers,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+014-358-097-469-520,CARBON-COATED CERAMIC TEXTILES,Mineral Textiles,Mineral Textiles,0.95,Synthetic Textiles,0.02
+161-120-188-551-431,Environment-friendly ceramic waste made textile ceramic eyelet,Mineral Textiles,Mineral Textiles,0.95,Synthetic Textiles,0.02
+092-099-540-746-760,LAMINAR TEXTILE MATERIAL FOR A BATTERY ELECTRODE,Mineral Textiles,Mineral Textiles,0.5,Synthetic Textiles,0.4
+084-325-091-564-744,Method of printing on fibreglass,Mineral Textiles,Mineral Textiles,0.95,Natural Textiles,0.03
+002-349-397-407-33X,Basalt fiber composite bar,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.005
+090-902-805-978-143,Sized woven glass fabric,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+052-283-930-019-875,Heat-resistant textile based on carborane ceramic coating,Mineral Textiles,Synthetic Textiles,0.95,Mineral Textiles,0.02
+093-721-767-029-583,HIGHLY ALKALI-RESISTANT TEXTILE GLASS,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+176-966-715-102-659,Protective clothing fabric capable of generating air heat insulation layer,Mineral Textiles,Mineral Textiles,0.5,Synthetic Textiles,0.4
+097-272-275-736-585,Insulation product from rotary and textile inorganic fibers and thermoplastic fibers,Mineral Textiles,Mineral Textiles,0.95,Synthetic Textiles,0.04
+107-845-640-735-625,Patterned glass fiber textile,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+155-255-203-513-515,ASBESTOS FIBERS MODIFIED WITH ORGANIC DYES,Mineral Textiles,Mineral Textiles,0.98,Natural Textiles,0.01
+111-325-590-386-791,Automatic winding device for ceramic fiber textile cotton,Mineral Textiles,Mineral Textiles,0.98,Synthetic Textiles,0.01
+175-211-233-447-273,Static dissipative glass filtration fabric,Mineral Textiles,Mineral Textiles,0.98,Synthetic Textiles,0.01
+115-413-809-632-869,Laminar textile material for a battery electrode,Mineral Textiles,Mineral Textiles,0.6,Synthetic Textiles,0.35
+174-919-240-252-359,METHOD AND APPARATUS FOR PREDICTING NATURAL EMISSION OF ASBESTOS FIBER,Mineral Textiles,Mineral Textiles,0.98,Natural Textiles,0.01
+120-620-062-864-436,Ultraviolet-proof ceramic particle-exposed textile fabric,Mineral Textiles,Mineral Textiles,0.75,Natural Textiles,0.15
+008-343-848-189-134,"Al2O3-containing, high-temperature resistant glass sliver with highly textile character, and products thereof",Mineral Textiles,Mineral Textiles,0.98,Metal Textiles,0.01
+102-025-302-130-206,"GLASS WOOL, AND VACUUM HEAT INSULATION MATERIAL USING SAME",Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+159-155-231-450-176,Novel textile fabric,Mineral Textiles,Other,0.8,Natural Textiles,0.1
+021-325-182-583-89X,"FUNCTIONAL COATING METHOD OF BASALT FIBER AND BASALT FIBER CORE, BASALT FIBER AND BASALT FIBER CORE COATED BY USING THE MOTHOD AND ARTICLE WEAVED THEREFROM",Mineral Textiles,Mineral Textiles,1.0,Metal Textiles,0.0
+022-806-669-079-349,Basalt fiber anchor rod,Mineral Textiles,Mineral Textiles,0.95,Metal Textiles,0.03
+162-914-296-423-569,MINERAL WOOL PLANT SUBSTRATE,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.004
+188-975-983-257-294,GLASS FIBER FOR GLASS-FIBER REINFORCED RESIN AND GLASS- FIBER REINFORCED RESIN USING THE SAME,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+077-136-609-174-104,Basalt fiber doubling and twisting device,Mineral Textiles,Mineral Textiles,0.98,Synthetic Textiles,0.01
+159-023-297-105-311,Glass textile coated with partially soluble dextrin-containing coating,Mineral Textiles,Mineral Textiles,0.97,Synthetic Textiles,0.02
+184-285-178-701-862,Basalt fiber suspended ceiling,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+171-930-143-899-28X,Preparation method of magnetic basalt fiber and magnetic basalt fiber,Mineral Textiles,Mineral Textiles,0.98,Metal Textiles,0.01
+192-930-527-905-169,Fibreglass yarn warping-free outlet frame,Mineral Textiles,Mineral Textiles,0.98,Synthetic Textiles,0.02
+109-232-662-311-621,"GLASS FIBER MANUFACTURING APPARATUS, GLASS FIBER MANUFACTURING METHOD, AND GLASS FIBER",Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+193-958-852-796-702,A FIBREGLASS TOILET PAN,Mineral Textiles,Mineral Textiles,0.9,Synthetic Textiles,0.05
+052-107-384-542-470,Forming size for textile glass fibers,Mineral Textiles,Mineral Textiles,0.98,Natural Textiles,0.01
+026-813-735-225-836,Basalt fiber drawing device,Mineral Textiles,Mineral Textiles,0.99,Natural Textiles,0.005
+009-635-934-066-545,Glass-fiber membrane and glass-fiber vacuum bag,Mineral Textiles,Mineral Textiles,0.99,Synthetic Textiles,0.01
+038-680-993-333-564,GLASS TEXTILE COATED WITH PARTIALLY SOLUBLE DEXTRIN-CONTAINING COATING,Mineral Textiles,Mineral Textiles,0.98,Synthetic Textiles,0.01
+052-559-562-013-06X,Asbestos fiber compressor,Mineral Textiles,Mineral Textiles,0.98,Natural Textiles,0.01
+030-662-387-098-883,Water area rescue protective clothing fabric and protective clothing,Mineral Textiles,Other,0.75,Synthetic Textiles,0.15
+092-918-003-737-259,Basalt fiber geogrid,Mineral Textiles,Mineral Textiles,0.99,Other,0.01
+124-302-780-291-742,LAMINAR TEXTILE MATERIAL FOR A BATTERY ELECTRODE,Mineral Textiles,Mineral Textiles,0.6,Synthetic Textiles,0.35
+009-169-803-177-75X,Soluble ceramic fiber textile and preparation method thereof,Mineral Textiles,ERROR,0.0,ERROR,0.0
+132-411-318-522-494,Improvements in and relating to the opening of asbestos fibres for textile use,Mineral Textiles,Mineral Textiles,0.99,Natural Textiles,0.005
+110-286-169-061-701,GLASS TEXTILE COATED WITH PARTIALLY SOLUBLE DEXTRIN-CONTAINING COATING,Mineral Textiles,Mineral Textiles,0.98,Natural Textiles,0.01
+103-522-518-603-82X,Asbestos fiber or non-asbestos fiber composite sealing material,Mineral Textiles,Mineral Textiles,0.9,Synthetic Textiles,0.05
+044-690-735-177-868,MINERAL WOOL INSULATION,Mineral Textiles,ERROR,0.0,ERROR,0.0
+095-454-016-617-607,TEXTILE STRUCTURE BASED ON GLASS FIBERS FOR ACOUSTIC CEILING OR ACOUSTIC WALL PANEL,Mineral Textiles,ERROR,0.0,ERROR,0.0
+055-144-856-379-07X,A fibreglass boat hull with fibreglass reinforcing ribs,Mineral Textiles,ERROR,0.0,ERROR,0.0
+155-354-387-517-804,MINERAL WOOL BARRIERS AND THEIR CONSTRUCTION,Mineral Textiles,Mineral Textiles,0.99,Other,0.01
+104-932-211-121-760,Novel fire -resistant military uniform surface fabric,Mineral Textiles,ERROR,0.0,ERROR,0.0
+118-543-010-913-381,High-strength superfine textile yarn,Mineral Textiles,ERROR,0.0,ERROR,0.0
+109-811-925-305-298,"Mineral fiber has crystalline or amorphous mineral fiber, particularly basalt fiber or glass fiber, where endless mineral fiber is wound with textile yarn",Mineral Textiles,ERROR,0.0,ERROR,0.0
+156-517-228-136-81X,HYDROPHOBING AND FORMALDEHYDE SCAVENGING COMPOSITIONS COMPRISING WAX EMULSIONS AND RESORCINOL AND THEIR USE FOR INCREASING THE HYDROPHOBICITY OF WOOD COMPOSITE BOARDS AND FIBREGLASS OR ROCK WOOL INSULATIONS,Mineral Textiles,ERROR,0.0,ERROR,0.0
+136-336-114-871-412,"ANTIMICROBIAL GLASS FIBER, AND ANTIMICROBIAL GLASS FIBER PRODUCT",Mineral Textiles,ERROR,0.0,ERROR,0.0
+047-402-804-758-86X,Basalt fiber snowboard,Mineral Textiles,Mineral Textiles,0.98,Natural Textiles,0.01
+180-003-895-874-236,YARN CONTAINING GLASS FIBRE AND METHOD OF PREPARATION THEREOF,Mineral Textiles,Mineral Textiles,0.95,Synthetic Textiles,0.02
+191-369-310-459-420,Compound laminate for printed circuit boards,Mineral Textiles,Mineral Textiles,0.97,Metal Textiles,0.01
+183-790-580-894-341,Method for the continuous production of sheets for wall coverings with attachment backing made of non-woven fibreglass fabric and sheets produced,Mineral Textiles,ERROR,0.0,ERROR,0.0
+005-889-611-866-657,Basalt fiber treatment method,Mineral Textiles,ERROR,0.0,ERROR,0.0
+198-786-397-127-34X,"GLASS FIBER, TREATMENT OF GLASS FIBER, AND GLASS FIBER PROCESSING AGENT",Mineral Textiles,Mineral Textiles,0.98,Synthetic Textiles,0.01
+002-449-704-164-015,"Improvements in and relating to damp-, heat-, and sound-proof materials and the production thereof",Mineral Textiles,ERROR,0.0,ERROR,0.0
+009-326-807-730-053,METHOD FOR MANUFACTURING LAMINATE-TYPE CERAMIC-BASED CERAMIC-TEXTILE COMPOSITE MATERIAL,Mineral Textiles,ERROR,0.0,ERROR,0.0
+006-065-103-629-668,Novel textile process,Mineral Textiles,ERROR,0.0,ERROR,0.0
+010-178-500-564-867,SIZING AGENT OF GLASS FIBER AND GLASS FIBER THREAD,Mineral Textiles,ERROR,0.0,ERROR,0.0
+017-027-297-903-865,Multicoloured dyeing of glass textiles,Mineral Textiles,ERROR,0.0,ERROR,0.0
+017-533-557-003-591,Car window glass sheltering textile,Mineral Textiles,ERROR,0.0,ERROR,0.0
+023-343-720-403-035,Nano ceramic composite thin polypropylene multifunction fiber and preparing method,Mineral Textiles,ERROR,0.0,ERROR,0.0
+026-046-724-650-429,METHOD AND APPARATUS FOR DEOILING TEXTILE OF GLASS FIBER,Mineral Textiles,ERROR,0.0,ERROR,0.0
+036-621-538-136-566,GLASS/PTFE TEXTILE MATERIAL,Mineral Textiles,ERROR,0.0,ERROR,0.0
+038-906-331-850-852,Basalt fiber composite using impregnation,Mineral Textiles,ERROR,0.0,ERROR,0.0
+049-811-250-252-495,Basalt fiber fireproof electric welding blanket,Mineral Textiles,ERROR,0.0,ERROR,0.0
+036-058-618-929-590,Glass fiber base member with glass fiber lid,Mineral Textiles,ERROR,0.0,ERROR,0.0
+042-919-140-893-793,Basalt fiber material,Mineral Textiles,ERROR,0.0,ERROR,0.0
+054-510-166-108-134,"METHOD FOR SPLICING GLASS FIBERS, AND GLASS FIBER",Mineral Textiles,ERROR,0.0,ERROR,0.0
+118-868-981-246-564,Improved method of repairing textile belting or webbing,Mineral Textiles,ERROR,0.0,ERROR,0.0
+063-099-741-109-758,"GLASS FIBER SIZING AGENT, GLASS FIBER, AND GLASS FIBER-REINFORCED POLYAMIDE RESIN",Mineral Textiles,ERROR,0.0,ERROR,0.0
+137-751-522-401-414,PROCESS FOR ASBESTOS FIBER DISPERSIONS,Mineral Textiles,ERROR,0.0,ERROR,0.0
+167-169-537-354-264,TEXTILE ELEMENTS IN VEHICLE COMPOSITE GLASS,Mineral Textiles,ERROR,0.0,ERROR,0.0
+123-031-575-035-020,Infiltration equipment for basalt fibers,Mineral Textiles,ERROR,0.0,ERROR,0.0
+158-197-830-427-161,Method of forming and sizing glass fibers,Mineral Textiles,ERROR,0.0,ERROR,0.0
+176-903-256-427-295,Glass-ptfe textile material,Mineral Textiles,ERROR,0.0,ERROR,0.0
+175-370-737-142-252,"Method for producing glass wool molded product, glass wool molded product, and vacuum insulation material",Mineral Textiles,ERROR,0.0,ERROR,0.0
+121-890-663-247-288,COMPOSITE HYDROPHOBIC INSULATION TEXTILE,Mineral Textiles,ERROR,0.0,ERROR,0.0
+081-928-835-220-869,Basalt fiber cable,Mineral Textiles,ERROR,0.0,ERROR,0.0
+025-584-461-556-749,TEXTILE REINFORCEMENT FOR PULTRUSION AND METHOD FOR THE PRODUCTION THEREOF,Mineral Textiles,ERROR,0.0,ERROR,0.0
+167-308-941-683-200,Improvements in Mattresses or Non-conducting Covers for Locomotives.,Mineral Textiles,ERROR,0.0,ERROR,0.0
+038-725-440-191-099,GLASS FIBER PRODUCT CONTAINING RECYCLED GLASS FIBERS AND PROCESS FOR RECYCLING GLASS FIBER PRODUCTS,Mineral Textiles,ERROR,0.0,ERROR,0.0
+118-722-666-463-17X,Ceramic fiber smelting furnace leading-out device produced from textile raw materials,Mineral Textiles,ERROR,0.0,ERROR,0.0
+144-734-073-358-092,Non-oxide sintered ceramic fibers,Mineral Textiles,ERROR,0.0,ERROR,0.0
+154-470-135-099-708,"FIBREGLASS, PREPARATION METHOD THEREFOR AND FIBREGLASS COMPOSITE",Mineral Textiles,ERROR,0.0,ERROR,0.0
+071-009-958-116-48X,Basalt fiber preparation method and basalt fiber,Mineral Textiles,ERROR,0.0,ERROR,0.0
+091-586-579-425-130,Deicing method based on carbon/glass fiber hybrid textile,Mineral Textiles,ERROR,0.0,ERROR,0.0
+135-582-550-739-917,Removal of asbestos fibers from water,Mineral Textiles,ERROR,0.0,ERROR,0.0
+063-124-217-439-461,Basalt fiber geotextile,Mineral Textiles,ERROR,0.0,ERROR,0.0
+119-222-884-192-57X,Modification method of basalt fiber in basalt fiber sprayed concrete for tunnel,Mineral Textiles,ERROR,0.0,ERROR,0.0
+162-390-648-129-052,Hybrid textile for reinforcing composites,Mineral Textiles,ERROR,0.0,ERROR,0.0
+170-445-016-889-913,Sperm filter trap having compressed glass wool filter material,Mineral Textiles,ERROR,0.0,ERROR,0.0
+167-527-654-646-140,Basalt fiber felt,Mineral Textiles,ERROR,0.0,ERROR,0.0
+017-586-030-873-928,METHOD AND APPARATUS FOR SUPPORTING SECURE DATA ROUTING,Other,ERROR,0.0,ERROR,0.0
+039-963-533-367-84X,METHOD AND APPARATUS FOR SUPPORTING SECURE DATA ROUTING,Other,ERROR,0.0,ERROR,0.0
+046-449-600-954-051,DATA PROCESSING METHOD AND RELATED PRODUCTS,Other,ERROR,0.0,ERROR,0.0
+159-082-107-905-909,Dermal delivery device,Other,ERROR,0.0,ERROR,0.0
+154-077-442-181-196,METHOD AND APPARATUS FOR STREAMING VR IMAGE,Other,ERROR,0.0,ERROR,0.0
+174-634-075-285-800,"STORAGE DEVICE, DISTRIBUTED STORAGE SYSTEM, AND DATA PROCESSING METHOD",Other,ERROR,0.0,ERROR,0.0
+168-193-812-846-244,DATA PROCESSING METHOD AND RELATED PRODUCTS,Other,ERROR,0.0,ERROR,0.0
+101-394-908-934-150,"SURGICAL SUPPORT SYSTEM, DATA PROCESSING APPARATUS AND METHOD",Other,ERROR,0.0,ERROR,0.0
+187-201-515-536-350,SYSTEM AND METHOD FOR AI MODEL WATERMARKING,Other,ERROR,0.0,ERROR,0.0
+186-379-309-774-130,MODEL TEST METHOD AND APPARATUS,Other,ERROR,0.0,ERROR,0.0
+170-422-929-843-379,Parallel AI hybrid gaming system,Other,ERROR,0.0,ERROR,0.0
+156-045-508-221-645,APPARATUS AND METHOD FOR EVALUATING CORRECTNESS OF AI/ML MODEL,Other,ERROR,0.0,ERROR,0.0
+122-739-881-720-461,System and Method of Grading AI Assets,Other,ERROR,0.0,ERROR,0.0
+192-794-643-394-77X,"ACCESS REQUEST PROCESSING METHOD, APPARATUS, DEVICE, AND STORAGE MEDIUM",Other,ERROR,0.0,ERROR,0.0
+195-372-333-548-939,Methods and Systems with Additive AI Models,Other,ERROR,0.0,ERROR,0.0
+149-524-270-702-020,METHOD AND APPARATUS FOR STREAMING VR IMAGE,Other,ERROR,0.0,ERROR,0.0
+135-012-475-727-865,"ACCESS REQUEST PROCESSING METHOD AND APPARATUS, DEVICE, AND STORAGE MEDIUM",Other,ERROR,0.0,ERROR,0.0
+070-131-159-776-249,DATA PROCESSING METHOD AND APPARATUS OF AI CHIP AND COMPUTER DEVICE,Other,ERROR,0.0,ERROR,0.0
+118-269-085-959-086,Wireless access method and apparatus,Other,ERROR,0.0,ERROR,0.0
+157-749-403-215-267,PRODUCING SOLIDS AND RELATED MOTHER LIQUORS,Other,ERROR,0.0,ERROR,0.0
+022-822-761-462-973,Self-Assembling Polymer Particle Release System,Other,ERROR,0.0,ERROR,0.0
+093-301-027-929-446,METHODS AND SYSTEMS WITH ADDITIVE AI MODELS,Other,ERROR,0.0,ERROR,0.0
+194-709-650-238-138,METHOD AND DEVICE FOR PROCESSING OVERHEAT AND STORAGE MEDIUM,Other,ERROR,0.0,ERROR,0.0
+168-082-196-100-390,AI PROCESSING METHOD AND DEVICE,Other,ERROR,0.0,ERROR,0.0
+161-767-710-635-783,AI STREAMER WITH FEEDBACK TO AI STREAMER BASED ON SPECTATORS,Other,ERROR,0.0,ERROR,0.0
+033-298-765-046-898,Method and apparatus for streaming VR image,Other,ERROR,0.0,ERROR,0.0
+190-397-328-603-752,"MODEL REQUEST METHOD, MODEL REQUEST PROCESSING METHOD AND RELATED DEVICE",Other,ERROR,0.0,ERROR,0.0
+108-727-487-638-771,Method and apparatus for streaming data,Other,ERROR,0.0,ERROR,0.0
+099-968-107-065-653,AI VIDEO PROCESSING METHOD AND APPARATUS,Other,ERROR,0.0,ERROR,0.0
+037-066-783-570-004,DATA PROCESSING METHOD AND RELATED PRODUCTS,Other,ERROR,0.0,ERROR,0.0
+033-319-024-447-619,Distributed storage system and data processing method,Other,ERROR,0.0,ERROR,0.0
+042-808-206-129-404,Self-assembling polymer particle release system,Other,ERROR,0.0,ERROR,0.0
+109-981-602-999-717,METHOD AND APPARATUS FOR STREAMING DATA,Other,ERROR,0.0,ERROR,0.0
+117-463-770-437-561,"STORAGE DEVICE, DISTRIBUTED STORAGE SYSTEM, AND DATA PROCESSING METHOD",Other,ERROR,0.0,ERROR,0.0
+018-097-509-942-808,TASK SCHEDULING METHOD AND APPARATUS,Other,ERROR,0.0,ERROR,0.0
+004-241-319-470-040,Automated AI and template-based audio record mixing system and process,Other,ERROR,0.0,ERROR,0.0
+038-978-042-417-609,METHOD AND APPARATUS FOR STREAMING DATA,Other,ERROR,0.0,ERROR,0.0
+064-834-276-492-695,"SURGICAL SUPPORT SYSTEM, DATA PROCESSING APPARATUS AND METHOD",Other,ERROR,0.0,ERROR,0.0
+047-619-089-224-806,METHOD AND APPARATUS FOR STREAMING DATA,Other,ERROR,0.0,ERROR,0.0
+162-178-221-960-834,Method and system for automated text,Other,ERROR,0.0,ERROR,0.0
+101-977-161-534-347,"MODEL REQUEST METHOD, MODEL REQUEST PROCESSING METHOD, AND RELATED DEVICE",Other,ERROR,0.0,ERROR,0.0
+107-736-621-960-314,UE CAPABILITY FOR AI/ML,Other,ERROR,0.0,ERROR,0.0
+055-372-966-421-51X,AI MOTORCYCLE,Other,ERROR,0.0,ERROR,0.0
+134-448-959-916-698,METHOD AND APPARATUS FOR STREAMING DATA,Other,ERROR,0.0,ERROR,0.0
+029-907-954-792-351,Method and apparatus for streaming data,Other,ERROR,0.0,ERROR,0.0
+165-090-398-770-940,"METHOD FOR PROCESSING IMAGE, AND APPARATUS THEREFOR",Other,ERROR,0.0,ERROR,0.0
+022-458-753-489-086,UE CAPABILITY FOR AI/ML,Other,ERROR,0.0,ERROR,0.0
+152-990-972-642-188,Method and apparatus for streaming data,Other,ERROR,0.0,ERROR,0.0
+177-280-626-734-400,AI PROCESSING METHOD AND APPARATUS,Other,ERROR,0.0,ERROR,0.0
+062-117-627-669-778,"Method for processing image, and apparatus therefor",Other,ERROR,0.0,ERROR,0.0
+129-611-201-832-681,SPECTRAL X-RAY MATERIAL DECOMPOSITION METHOD,Other,ERROR,0.0,ERROR,0.0
+026-267-965-843-319,"Method, Computer Program, and Device for Operating an AI Module",Other,ERROR,0.0,ERROR,0.0
+025-767-377-186-038,METHOD AND APPARATUS FOR STREAMING DATA,Other,ERROR,0.0,ERROR,0.0
+171-908-864-230-948,AI CHIP,Other,ERROR,0.0,ERROR,0.0
+198-506-954-532-972,TASK SCHEDULING METHOD AND APPARATUS,Other,ERROR,0.0,ERROR,0.0
+160-063-549-437-059,FILTERING GROUP MESSAGES,Other,ERROR,0.0,ERROR,0.0
+012-428-144-158-265,SPECTRAL X-RAY MATERIAL DECOMPOSITION METHOD,Other,ERROR,0.0,ERROR,0.0
+078-350-038-791-283,Curation of custom workflows using multiple cameras,Other,ERROR,0.0,ERROR,0.0
+064-062-805-621-652,METHOD AND APPARATUS FOR STREAMING DATA,Other,ERROR,0.0,ERROR,0.0
+065-250-752-060-349,SYSTEM AND METHOD OF SECURING AI MODEL,Other,ERROR,0.0,ERROR,0.0
+121-864-257-286-24X,SUPPORT CHAT PROFILES USING AI,Other,ERROR,0.0,ERROR,0.0
+031-026-940-988-793,Method and apparatus for streaming data,Other,ERROR,0.0,ERROR,0.0
+100-899-125-040-692,Cellular system,Other,ERROR,0.0,ERROR,0.0
+181-608-687-712-302,Method and apparatus for streaming data,Other,ERROR,0.0,ERROR,0.0
+034-847-850-809-701,Parallel AI hybrid gaming system,Other,ERROR,0.0,ERROR,0.0
+178-131-505-707-26X,"IMAGE PROCESSING APPARATUS, IMAGING APPARATUS, IMAGE PROCESSING METHOD, AND PROGRAM",Other,ERROR,0.0,ERROR,0.0
+052-173-187-476-027,SUPPORT CHAT PROFILES USING AI,Other,ERROR,0.0,ERROR,0.0
+001-285-574-259-723,System for detecting an adapted image,Other,ERROR,0.0,ERROR,0.0
+044-811-726-397-314,"DEVICE DEPLOYMENT METHOD FOR AI MODEL, SYSTEM, AND STORAGE MEDIUM",Other,ERROR,0.0,ERROR,0.0
+081-917-832-511-659,"Device Deployment Method for AI Model, System, and Storage Medium",Other,ERROR,0.0,ERROR,0.0
+157-148-888-587-849,"DEVICE SWITCHING METHOD AND APPARATUS, AND DEVICE AND READABLE STORAGE MEDIUM",Other,ERROR,0.0,ERROR,0.0
+039-975-451-528-425,METHOD OF PREPARING COMPLEX-SHAPED CERAMIC-METAL COMPOSITE ARTICLES AND THE PRODUCTS PRODUCED THEREBY,Other,ERROR,0.0,ERROR,0.0
+121-948-521-234-51X,"METHOD, COMPUTER PROGRAM AND APPARATUS FOR PERFORMING A BOOT PROCESS FOR A SYSTEM",Other,ERROR,0.0,ERROR,0.0
+194-166-224-750-747,METHOD AND APPARATUS FOR STREAMING DATA,Other,ERROR,0.0,ERROR,0.0
+176-578-568-273-487,Study-level multi-view processing system,Other,ERROR,0.0,ERROR,0.0
+106-667-335-987-96X,Method and apparatus for streaming data,Other,ERROR,0.0,ERROR,0.0
+179-258-888-935-554,Filtering group messages,Other,ERROR,0.0,ERROR,0.0
+069-765-703-242-371,CELLULAR SYSTEM,Other,ERROR,0.0,ERROR,0.0
+144-307-257-379-22X,AI-Based Method and System for Testing Chatbots,Other,ERROR,0.0,ERROR,0.0
+018-036-280-696-549,SMART GLASS ORCHESTRATION ON CLOSE PROXIMITY ATMS,Other,ERROR,0.0,ERROR,0.0
+143-231-445-132-262,AI MOTORCYCLE,Other,ERROR,0.0,ERROR,0.0
+138-228-952-028-912,PARALLEL AI HYBRID GAMING SYSTEM,Other,ERROR,0.0,ERROR,0.0
+105-295-025-515-413,SYSTEM AND METHOD FOR AUTOMATED EVALUATION SYSTEM ROUTING,Other,ERROR,0.0,ERROR,0.0
+186-443-103-493-046,METHOD AND APPARATUS FOR UPDATING PREDICTIVE MODEL PREDICTING PRODUCT FAILURE,Other,ERROR,0.0,ERROR,0.0
+002-779-286-973-048,AI motorcycle,Other,ERROR,0.0,ERROR,0.0
+073-856-250-221-84X,METHOD AND SYSTEM FOR SELECTING EMBRYOS,Other,ERROR,0.0,ERROR,0.0
+083-703-391-933-862,Smart glass orchestration on close proximity ATMs,Other,ERROR,0.0,ERROR,0.0
+009-060-981-619-726,APPARATUS AND METHOD OF USING AI METADATA RELATED TO IMAGE QUALITY,Other,ERROR,0.0,ERROR,0.0
+123-369-571-402-274,Curation of Custom Workflows Using Multiple Cameras,Other,ERROR,0.0,ERROR,0.0
+148-566-725-861-60X,"DEVICE SWITCHING METHOD AND APPARATUS, AND DEVICE AND READABLE STORAGE MEDIUM",Other,ERROR,0.0,ERROR,0.0
+093-627-009-089-359,TASK PROCESSING METHOD AND APPARATUS,Other,ERROR,0.0,ERROR,0.0
+083-741-235-808-952,Support chat profiles using AI,Other,ERROR,0.0,ERROR,0.0
+075-645-293-083-478,THREAT MITIGATION SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+184-935-630-472-755,STUDY-LEVEL MULTI-VIEW PROCESSING SYSTEM,Other,ERROR,0.0,ERROR,0.0
+112-945-747-892-451,THREAT MITIGATION SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+034-675-645-322-365,FILTERING GROUP MESSAGES,Other,ERROR,0.0,ERROR,0.0
+110-542-302-164-620,AI PLATFORM WITH CUSTOMIZABLE VIRTUE SCORING MODELS AND METHODS FOR USE THEREWITH,Other,ERROR,0.0,ERROR,0.0
+014-532-515-597-279,SELF-CERTIFIED SECURITY FOR ASSURED CYBER-PHYSICAL SYSTEMS,Other,ERROR,0.0,ERROR,0.0
+008-040-956-436-827,"DATA CACHING METHOD, SYSTEM AND DEVICE IN AI CLUSTER, AND COMPUTER MEDIUM",Other,ERROR,0.0,ERROR,0.0
+142-130-237-878-319,Apparatus and method of using AI metadata related to image quality,Other,ERROR,0.0,ERROR,0.0
+109-892-456-598-549,AI-ASSISTED OPERATING SYSTEM,Other,ERROR,0.0,ERROR,0.0
+178-248-523-201-528,Post-Acute Care System and Method,Other,ERROR,0.0,ERROR,0.0
+139-275-737-087-256,Systems and methods for verifying a watermark of an AI model for a data processing accelerator,Other,ERROR,0.0,ERROR,0.0
+012-315-427-504-93X,Decoder.,Other,ERROR,0.0,ERROR,0.0
+013-902-608-165-407,ADAPTIVE POWER FOR AI/ML SYSTEMS AND METHODS IN A MICROGRID,Other,ERROR,0.0,ERROR,0.0
+083-747-798-556-485,Millimeter And Sub-Millimeter Wave Radar-Radiometric Imaging,Other,ERROR,0.0,ERROR,0.0
+184-304-130-010-166,AI Accelerator Virtualization,Other,ERROR,0.0,ERROR,0.0
+196-317-068-638-603,"Call processing method and apparatus, server, storage medium, and system",Other,ERROR,0.0,ERROR,0.0
+169-070-415-476-493,FIELD-PROGRAMMABLE GATE ARRAY DEVICE,Other,ERROR,0.0,ERROR,0.0
+075-647-261-647-936,AI AUTO-SCHEDULER,Other,ERROR,0.0,ERROR,0.0
+167-845-627-560-257,Method and apparatus for hashing data,Other,ERROR,0.0,ERROR,0.0
+018-963-635-819-075,Filtering group messages,Other,ERROR,0.0,ERROR,0.0
+029-276-520-437-434,Time-Shifted Multiplayer Game,Other,ERROR,0.0,ERROR,0.0
+170-284-334-741-493,Self-certified security for assured cyber-physical systems,Other,ERROR,0.0,ERROR,0.0
+182-613-940-040-208,Battery state of health estimator,Other,ERROR,0.0,ERROR,0.0
+101-925-931-973-190,Method and system for preprocessing optimization of streaming video data,Other,ERROR,0.0,ERROR,0.0
+108-524-209-309-089,TARGET-TRACKING SYSTEM,Other,ERROR,0.0,ERROR,0.0
+124-629-447-596-520,AI model optimization method and apparatus,Other,ERROR,0.0,ERROR,0.0
+084-327-428-362-523,ELECTRIC POWER SUPPLY SYSTEM,Other,ERROR,0.0,ERROR,0.0
+119-452-162-169-160,BATTERY STATE OF HEALTH ESTIMATOR,Other,ERROR,0.0,ERROR,0.0
+195-003-375-992-110,Millimeter and sub-millimeter wave radar-radiometric imaging,Other,ERROR,0.0,ERROR,0.0
+189-038-316-644-952,METHODS AND APPARATUS TO COMPILE PORTABLE CODE FOR SPECIFIC HARDWARE,Other,ERROR,0.0,ERROR,0.0
+098-530-012-123-010,AI ACCELERATOR VIRTUALIZATION,Other,ERROR,0.0,ERROR,0.0
+063-890-470-093-17X,SECURE AND SELECTIVE DATA PACKET ROUTING,Other,ERROR,0.0,ERROR,0.0
+024-247-798-401-351,FIELD-PROGRAMMABLE GATE ARRAY DEVICE,Other,ERROR,0.0,ERROR,0.0
+057-426-811-013-064,"CALL PROCESSING METHOD AND APPARATUS, SERVER, STORAGE MEDIUM, AND SYSTEM",Other,ERROR,0.0,ERROR,0.0
+072-245-353-242-011,HYBRID-PERMEABILITY LOG,Other,ERROR,0.0,ERROR,0.0
+182-452-980-963-731,AI-assisted operating system,Other,ERROR,0.0,ERROR,0.0
+068-757-480-192-859,SECURE AND SELECTIVE DATA PACKET ROUTING,Other,ERROR,0.0,ERROR,0.0
+170-064-042-801-031,5G SYSTEM,Other,ERROR,0.0,ERROR,0.0
+039-060-636-718-860,AI EXERCISE GUIDE DEVICE AND METHOD,Other,ERROR,0.0,ERROR,0.0
+166-089-693-553-824,IMAGE STABILIZATION SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+028-224-362-703-74X,SHEATH ASSEMBLY,Other,ERROR,0.0,ERROR,0.0
+144-045-714-691-378,"DATA PREFETCHING METHOD AND APPARATUS, AND STORAGE DEVICE",Other,ERROR,0.0,ERROR,0.0
+049-995-140-877-91X,"AI ACCELERATOR, CACHE MEMORY AND METHOD OF OPERATING CACHE MEMORY USING THE SAME",Other,ERROR,0.0,ERROR,0.0
+037-038-704-265-530,TIME-SHIFTED MULTIPLAYER GAME,Other,ERROR,0.0,ERROR,0.0
+069-072-748-709-287,AMORPHOUS ALLOYS ON THE BASE OF ZR AND THEIR USE,Other,ERROR,0.0,ERROR,0.0
+170-608-795-752-193,Chatbot co-pilot,Other,ERROR,0.0,ERROR,0.0
+009-827-570-705-874,AI EXERCISE GUIDE DEVICE AND METHOD,Other,ERROR,0.0,ERROR,0.0
+155-006-802-352-672,SELF-CORRECTING BOT,Other,ERROR,0.0,ERROR,0.0
+038-481-461-401-587,APPARATUS AND METHOD FOR USING AI METADATA RELATED TO IMAGE QUALITY,Other,ERROR,0.0,ERROR,0.0
+171-821-884-524-79X,AI MODEL OPTIMIZATION METHOD AND APPARATUS,Other,ERROR,0.0,ERROR,0.0
+019-623-281-791-882,BATTERY STATE OF HEALTH ESTIMATOR,Other,ERROR,0.0,ERROR,0.0
+115-588-294-029-60X,"IMAGE AI-CODING METHOD AND DEVICE, AND IMAGE AI-DECODING METHOD AND DEVICE",Other,ERROR,0.0,ERROR,0.0
+034-352-066-080-625,"IMAGE AI-CODING METHOD AND DEVICE, AND IMAGE AI-DECODING METHOD AND DEVICE",Other,ERROR,0.0,ERROR,0.0
+087-322-910-225-603,MULTI-FRAME DEPTH-BASED MULTI-CAMERA RELIGHTING OF IMAGES,Other,ERROR,0.0,ERROR,0.0
+041-756-917-540-947,Method and system for operating an at least partially automated vehicle,Other,ERROR,0.0,ERROR,0.0
+037-222-185-441-685,SYSTEMS AND METHODS FOR VERIFYING A WATERMARK OF AN AI MODEL FOR A DATA PROCESSING ACCELERATOR,Other,ERROR,0.0,ERROR,0.0
+011-408-111-780-264,MULTIPLE ACCESS FOR PARALLEL TURBO DECODER,Other,ERROR,0.0,ERROR,0.0
+004-316-379-186-635,"AI COMPUTING PLATFORM, AI COMPUTING METHOD, AND AI CLOUD COMPUTING SYSTEM",Other,ERROR,0.0,ERROR,0.0
+054-422-052-027-758,Virtual photorealistic digital actor system for remote service of customers,Other,ERROR,0.0,ERROR,0.0
+132-258-602-313-114,Decoder,Other,ERROR,0.0,ERROR,0.0
+148-246-527-248-035,AI MODEL OPTIMIZATION THROUGH USER FEEDBACK,Other,ERROR,0.0,ERROR,0.0
+140-636-281-877-634,Dermal delivery device,Other,ERROR,0.0,ERROR,0.0
+122-789-375-778-033,MODULAR CAMERA,Other,ERROR,0.0,ERROR,0.0
+029-241-398-628-578,VOICE SERVICE PROCESSING METHOD AND APPARATUS,Other,ERROR,0.0,ERROR,0.0
+177-138-151-235-087,"Method, computer program and apparatus for performing a boot process for a system",Other,ERROR,0.0,ERROR,0.0
+071-271-833-767-338,Image display apparatus with AI-based image processing,Other,ERROR,0.0,ERROR,0.0
+030-171-766-250-64X,MEDICAL SYSTEM AND METHOD OF OPERATING THE SAME,Other,ERROR,0.0,ERROR,0.0
+005-593-176-307-363,DETECTING HEART RATES USING EYE-TRACKING CAMERAS,Other,ERROR,0.0,ERROR,0.0
+131-717-405-691-937,IMAGE-GUIDED SURGERY SYSTEM,Other,ERROR,0.0,ERROR,0.0
+117-218-244-244-859,"Data prefetching method and apparatus, and storage device",Other,ERROR,0.0,ERROR,0.0
+143-314-392-779-735,DATA PROCESSING SYSTEM AND DATA PROCESSING METHOD,Other,ERROR,0.0,ERROR,0.0
+089-362-324-995-495,Multi-frame depth-based multi-camera relighting of images,Other,ERROR,0.0,ERROR,0.0
+018-960-341-245-201,METHOD OF IMPROVING HEALTH AND ROOTING OF HARDWOOD TREES,Other,ERROR,0.0,ERROR,0.0
+140-440-948-401-438,IMAGE DISPLAY APPARATUS,Other,ERROR,0.0,ERROR,0.0
+015-593-909-426-304,MICROMIRROR DEVICE,Other,ERROR,0.0,ERROR,0.0
+072-533-144-256-472,Automatic post-editing systems and methods,Other,ERROR,0.0,ERROR,0.0
+004-794-066-842-95X,TASK PROCESSING METHOD AND APPARATUS,Other,ERROR,0.0,ERROR,0.0
+173-828-291-648-345,MILLIMETER AND SUB-MILLIMETER WAVE RADAR-RADIOMETRIC IMAGING,Other,ERROR,0.0,ERROR,0.0
+191-586-155-041-016,"AI/ML MODEL MOBILITY SUPPORT METHOD, SYSTEM, AND DEVICE",Other,ERROR,0.0,ERROR,0.0
+094-413-612-537-593,THREAT MITIGATION SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+034-204-799-909-053,STORING VIDEO IN MEMORY,Other,ERROR,0.0,ERROR,0.0
+164-492-467-936-082,VEHICLE BRAKING ASSEMBLY,Other,ERROR,0.0,ERROR,0.0
+050-523-044-375-899,HARDWARE ACCELERATOR AND METHOD OF OPERATING A HARDWARE ACCELERATOR,Other,ERROR,0.0,ERROR,0.0
+190-730-754-995-556,Reliability Optimization by AI-based Fault Mitigation in 5G/6G,Other,ERROR,0.0,ERROR,0.0
+042-894-008-474-278,AI MODULE,Other,ERROR,0.0,ERROR,0.0
+186-056-428-942-532,Time-shifted multiplayer game,Other,ERROR,0.0,ERROR,0.0
+011-779-086-075-418,Oil pump rotor,Other,ERROR,0.0,ERROR,0.0
+020-451-731-291-701,EXERCISE REHABILITATION SYSTEM USING SMART MIRROR,Other,ERROR,0.0,ERROR,0.0
+148-084-960-145-88X,THREAT MITIGATION SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+044-836-512-703-348,SYSTEM AND METHOD FOR ESTIMATING WORKLOAD PER EMAIL,Other,ERROR,0.0,ERROR,0.0
+075-064-125-279-935,METHOD OF IMPROVING HEALTH AND ROOTING OF HARDWOOD TREES,Other,ERROR,0.0,ERROR,0.0
+050-365-771-280-924,"AI ACCELERATOR, CACHE MEMORY AND METHOD OF OPERATING CACHE MEMORY USING THE SAME",Other,ERROR,0.0,ERROR,0.0
+147-981-465-897-893,REMOTE SECURITY SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+102-817-916-385-129,METHOD AND DEVICE FOR DATA VALIDATION USING PREDICTIVE MODELING,Other,ERROR,0.0,ERROR,0.0
+149-007-132-440-135,HEAT RESISTING STEEL,Other,ERROR,0.0,ERROR,0.0
+061-835-424-316-286,THREAT MITIGATION SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+142-809-985-399-373,IMAGE PROCESSING DEVICE AND IMAGE PROCESSING METHOD,Other,ERROR,0.0,ERROR,0.0
+027-715-128-377-923,THREAT MITIGATION SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+174-511-857-314-741,THREAT MITIGATION SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+036-242-410-588-889,POROUS BODY FOR ELECTROLYTIC CAPACITOR HAVING A LEAD WIRE AND METHOD OF PRODUCING THE SAME,Other,ERROR,0.0,ERROR,0.0
+041-614-493-399-818,THREAT MITIGATION SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+066-434-018-948-063,THREAT MITIGATION SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+176-751-168-181-870,METHOD OF IMPROVING HEALTH AND ROOTING OF HARDWOOD TREES,Other,ERROR,0.0,ERROR,0.0
+017-257-601-706-713,METHOD AND SYSTEM FOR OPERATING AN AT LEAST PARTIALLY AUTOMATED VEHICLE,Other,ERROR,0.0,ERROR,0.0
+029-721-287-783-252,DISPLAY DEVICE,Other,ERROR,0.0,ERROR,0.0
+019-068-884-944-913,"Method, Computer Program, Storage Medium, Device for Tracking an Object",Other,ERROR,0.0,ERROR,0.0
+188-876-200-895-959,THREAT MITIGATION SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+104-043-638-733-141,METHOD FOR CELL LAYOUT,Other,ERROR,0.0,ERROR,0.0
+118-358-150-619-059,SECURE COMPUTING DEVICE,Other,ERROR,0.0,ERROR,0.0
+098-106-901-788-511,POLICY BASED ACTIVATION OF CAPABILITIES,Other,ERROR,0.0,ERROR,0.0
+094-603-584-400-692,THREAT MITIGATION SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+189-930-066-848-174,Multilayer metal-coated steel sheet.,Other,ERROR,0.0,ERROR,0.0
+069-167-936-784-905,APPARATUS AND METHOD FOR PERFORMING AI/ML JOB,Other,ERROR,0.0,ERROR,0.0
+147-047-264-402-345,THREAT MITIGATION SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+071-206-154-817-769,THREAT MITIGATION SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+160-829-262-239-203,METHOD FOR CELL LAYOUT,Other,ERROR,0.0,ERROR,0.0
+164-666-556-074-602,Method and device for data validation using predictive modeling,Other,ERROR,0.0,ERROR,0.0
+106-604-121-929-811,SYSTEM AND METHOD FOR IMPROVING SLEEP QUALITY,Other,ERROR,0.0,ERROR,0.0
+089-759-172-094-254,SVG IMAGE CUSTOMIZATION EDITOR AND METHOD,Other,ERROR,0.0,ERROR,0.0
+149-630-398-884-387,MULTI-CHIP SYSTOLIC ARRAYS,Other,ERROR,0.0,ERROR,0.0
+039-617-258-647-924,COATED STEEL PRODUCT,Other,ERROR,0.0,ERROR,0.0
+142-798-855-728-086,Robotic medical system,Other,ERROR,0.0,ERROR,0.0
+163-816-788-518-369,DATASET SHARING FOR AI/ML,Other,ERROR,0.0,ERROR,0.0
+029-352-895-213-05X,"OPERATING METHOD FOR A MEDICAL SYSTEM, AND MEDICAL SYSTEM FOR PERFORMING A SURGICAL PROCEDURE",Other,ERROR,0.0,ERROR,0.0
+060-203-158-031-461,Self-correcting bot,Other,ERROR,0.0,ERROR,0.0
+126-187-469-396-99X,A FUEL CELL AND A SUPPORT LAYER THEREFORE,Other,ERROR,0.0,ERROR,0.0
+091-897-537-742-056,SYSTEM AND METHOD FOR PERFORMING HOT WATER SEAL ON ELECTROSTATIC CHUCK,Other,ERROR,0.0,ERROR,0.0
+112-318-137-924-927,THREAT MITIGATION SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+149-650-160-073-929,THREAT MITIGATION SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+114-737-132-570-401,SYSTEM AND METHOD FOR AUTOMATED EVALUATION SYSTEM ROUTING,Other,ERROR,0.0,ERROR,0.0
+086-315-299-804-018,Post-processing air quality forecasts,Other,ERROR,0.0,ERROR,0.0
+155-420-535-049-751,THREAT MITIGATION SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+030-796-641-037-95X,"OPTICAL SYSTEM, AND IMAGING APPARATUS",Other,ERROR,0.0,ERROR,0.0
+089-978-359-291-602,THREAT MITIGATION SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+112-056-866-769-800,THREAT MITIGATION SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+142-133-633-874-743,MEDICAL IRRADIATION DEVICE,Other,ERROR,0.0,ERROR,0.0
+167-096-351-328-178,COMMERCE BOT,Other,ERROR,0.0,ERROR,0.0
+142-920-274-054-593,Arithmetic circuit,Other,ERROR,0.0,ERROR,0.0
+044-315-053-772-649,HARDWARE ACCELERATOR AND METHOD OF OPERATING A HARDWARE ACCELERATOR,Other,ERROR,0.0,ERROR,0.0
+106-897-473-860-389,DATA PROCESSING METHOD AND DATA PROCESSING APPARATUS,Other,ERROR,0.0,ERROR,0.0
+101-112-773-312-312,THROW TOY,Other,ERROR,0.0,ERROR,0.0
+124-908-424-054-747,THREAT MITIGATION SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+003-420-532-965-488,POST-PROCESSING AIR QUALITY FORECASTS,Other,ERROR,0.0,ERROR,0.0
+019-083-280-376-375,Process to prepare an electrode for an electrochemical storage device,Other,ERROR,0.0,ERROR,0.0
+028-839-984-861-030,REMOVABLE PROTECTIVE SHELTER FOR AN ACTIVITY OR LEISURE AREA,Other,ERROR,0.0,ERROR,0.0
+188-022-458-443-432,DIGITAL PLATFORM FOR HEALTH USERS,Other,ERROR,0.0,ERROR,0.0
+051-264-096-926-341,PLATFORM FOR A BALL GAME,Other,ERROR,0.0,ERROR,0.0
+157-794-278-406-066,System and method for automated evaluation system routing,Other,ERROR,0.0,ERROR,0.0
+032-840-259-352-439,A COIL FORMING LAYING HEAD SYSTEM,Other,ERROR,0.0,ERROR,0.0
+000-219-798-386-762,Surface acoustic wave filter,Other,ERROR,0.0,ERROR,0.0
+115-530-962-065-71X,METHOD AND APPARATUS FOR FILTERING VIDEO,Other,ERROR,0.0,ERROR,0.0
+126-277-710-956-615,Automated Referee System,Other,ERROR,0.0,ERROR,0.0
+092-841-205-103-198,VALIDATION OF AI-BASED RESULT DATA,Other,ERROR,0.0,ERROR,0.0
+041-020-366-368-850,SHARED AI SPEAKER,Other,ERROR,0.0,ERROR,0.0
+036-714-119-800-082,PROCESS TO PREPARE AN ELECTRODE FOR AN ELECTROCHEMICAL STORAGE DEVICE,Other,ERROR,0.0,ERROR,0.0
+083-540-035-567-516,DATA PROCESSING METHOD AND DATA PROCESSING APPARATUS,Other,ERROR,0.0,ERROR,0.0
+053-931-595-107-454,Method for displaying data,Other,ERROR,0.0,ERROR,0.0
+017-444-767-043-079,METHOD AND APPARATUS FOR ALERTING THREATS TO USERS,Other,ERROR,0.0,ERROR,0.0
+122-577-615-184-96X,Systems and methods for storing compressed images,Other,ERROR,0.0,ERROR,0.0
+122-383-350-645-402,PROCESS TO PREPARE AN ELECTRODE FOR AN ELECTROCHEMICAL STORAGE DEVICE,Other,ERROR,0.0,ERROR,0.0
+189-863-794-290-992,KillerPolitics,Other,ERROR,0.0,ERROR,0.0
+144-944-035-926-525,Large-scale data processing cloud computing system,Other,ERROR,0.0,ERROR,0.0
+178-557-935-768-298,PLASMA HEADER GASKET AND SYSTEM,Other,ERROR,0.0,ERROR,0.0
+133-972-119-931-478,"IMAGE PROCESSING DEVICE, SYSTEM, AND METHOD",Other,ERROR,0.0,ERROR,0.0
+062-372-924-192-281,POST-PROCESSING AIR QUALITY FORECASTS,Other,ERROR,0.0,ERROR,0.0
+164-985-314-068-259,CHILLED AIR RESPIRATOR AND RELATED METHOD FOR TREATING AIR,Other,ERROR,0.0,ERROR,0.0
+158-840-944-531-32X,HOSE,Other,ERROR,0.0,ERROR,0.0
+094-613-970-832-361,Laser surveying system,Other,ERROR,0.0,ERROR,0.0
+170-926-769-755-087,Process for charging a battery and battery charger to achieve the process,Other,ERROR,0.0,ERROR,0.0
+122-732-461-590-478,Coagulation process of PTFE latex,Other,ERROR,0.0,ERROR,0.0
+124-424-310-204-603,DATA PROCESSING METHOD AND RELATED APPARATUS,Other,ERROR,0.0,ERROR,0.0
+165-886-320-205-945,MEDICAL DATA STORAGE AND RETRIEVAL SYSTEM AND METHOD THEREOF,Other,ERROR,0.0,ERROR,0.0
+134-726-625-352-068,SYSTEMS AND METHODS FOR STORING COMPRESSED IMAGES,Other,ERROR,0.0,ERROR,0.0
+101-633-811-759-670,"AI/ML MODEL MOBILITY SUPPORT METHOD, SYSTEM, AND DEVICE",Other,ERROR,0.0,ERROR,0.0
+156-924-166-344-389,MEDICAL IMAGE DEVICE AND OPERATING METHOD,Other,ERROR,0.0,ERROR,0.0
+024-215-766-998-652,Coagulation process of PTFE latex,Other,ERROR,0.0,ERROR,0.0
+176-177-006-524-830,METHODS AND SYSTEMS FOR DEPLOYING AN ARTIFICIAL WORKFORCE,Other,ERROR,0.0,ERROR,0.0
+045-006-198-149-687,ELECTROPHOTOGRAPHIC PLATE AND PROCESS FOR PRODUCING THE SAME,Other,ERROR,0.0,ERROR,0.0
+005-961-577-460-728,SYSTEM AND METHOD FOR ROAAS USING AI/ML MODEL TO SET AUTO BRAKE VALVE,Other,ERROR,0.0,ERROR,0.0
+188-473-159-899-66X,Radio head device and method of operating a radio head device,Other,ERROR,0.0,ERROR,0.0
+085-582-489-944-88X,Secret sharing method and system,Other,ERROR,0.0,ERROR,0.0
+150-850-764-769-048,METHOD AND APPARATUS FOR PROCESSING AN IMAGE,Other,ERROR,0.0,ERROR,0.0
+025-584-185-698-74X,AI-based map for drive-assist system availability,Other,ERROR,0.0,ERROR,0.0
+143-971-710-560-094,AUTOMATIC FOCUS ADJUSTMENT APPARATUS,Other,ERROR,0.0,ERROR,0.0
+094-645-862-680-352,COMPUTER SYSTEM,Other,ERROR,0.0,ERROR,0.0
+099-262-930-192-259,CROSSTALK EMULATOR FOR XDSL CABLE,Other,ERROR,0.0,ERROR,0.0
+108-045-186-400-526,CAMERA DEVICE,Other,ERROR,0.0,ERROR,0.0
+067-613-911-578-026,Methods and systems for processing log data,Other,ERROR,0.0,ERROR,0.0
+104-764-865-442-133,AI-Based Map For Drive-Assist System Availability,Other,ERROR,0.0,ERROR,0.0
+041-067-685-535-618,Post-processing air quality forecasts,Other,ERROR,0.0,ERROR,0.0
+091-402-740-757-483,Method and apparatus for filtering video,Other,ERROR,0.0,ERROR,0.0
+157-132-906-805-381,Data shuffling apparatus,Other,ERROR,0.0,ERROR,0.0
+002-518-578-654-481,SLIDING MEMBER AND USE THEREOF,Other,ERROR,0.0,ERROR,0.0
+053-412-471-003-384,Method and apparatus for removing flicker in a video,Other,ERROR,0.0,ERROR,0.0
+162-927-873-819-591,TYRE,Other,ERROR,0.0,ERROR,0.0
+066-113-337-889-833,SYSTEMS AND METHODS FOR VEHICLE SCHEDULING AND ROUTING,Other,ERROR,0.0,ERROR,0.0
+037-936-908-450-046,LOAD CARRIER,Other,ERROR,0.0,ERROR,0.0
+062-028-456-283-218,PROCESS FOR PREPARING SMALL SIZE LAYERED DOUBLE HYDROXIDE PARTICLES,Other,ERROR,0.0,ERROR,0.0
+069-620-982-539-225,AUTOMATED ASSEMBLY METHOD AND AUTOMATED ASSEMBLY APPARATUS,Other,ERROR,0.0,ERROR,0.0
+009-549-270-730-405,"SYSTEM AND METHOD FOR PERFORMING COMPUTER-BASED, ROBOT-ASSISTED THERAPY",Other,ERROR,0.0,ERROR,0.0
+130-309-021-196-479,SHAPE MEMORY ALLOY (SMA) TUBULAR STRUCTURE,Other,ERROR,0.0,ERROR,0.0
+056-774-353-458-14X,KEY WITH SELECTIVE SYMBOL DISPLAY,Other,ERROR,0.0,ERROR,0.0
+143-514-298-396-304,Method and apparatus for merge mode in video coding,Other,ERROR,0.0,ERROR,0.0
+028-066-291-702-529,METHOD AND APPARATUS FOR REMOVING FLICKER IN A VIDEO,Other,ERROR,0.0,ERROR,0.0
+183-064-373-921-822,LOAD CARRIER,Other,ERROR,0.0,ERROR,0.0
+152-227-670-485-86X,SYSTEM AND METHOD FOR ADAPTIVE ORCHESTRATED PROCESS PARALLELIZATION,Other,ERROR,0.0,ERROR,0.0
+131-524-208-129-426,Operating mode register,Other,ERROR,0.0,ERROR,0.0
+133-344-328-196-900,PROCESS TO PREPARE AN ELECTRODE FOR AN ELECTROCHEMICAL STORAGE DEVICE,Other,ERROR,0.0,ERROR,0.0
+081-014-906-280-754,Acoustic structure of porous material,Other,ERROR,0.0,ERROR,0.0
+049-769-186-808-527,SELF-REPLICATING MATERIALS,Other,ERROR,0.0,ERROR,0.0
+033-616-236-963-261,Large-scale data processing cloud computing system,Other,ERROR,0.0,ERROR,0.0
+000-600-497-071-532,FACIALLY AMPHIPHILIC POLYMERS AND OLIGOMERS AND USES THEREOF,Other,ERROR,0.0,ERROR,0.0
+110-726-725-593-589,Radio head device and method of operating a radio head device,Other,ERROR,0.0,ERROR,0.0
+123-233-079-031-691,TFE-based thermoprocessable copolymers,Other,ERROR,0.0,ERROR,0.0
+126-574-025-599-649,DETECTING HEART RATES USING EYE-TRACKING CAMERAS,Other,ERROR,0.0,ERROR,0.0
+070-896-214-043-465,Polymer mixture from ABS or ABS +PC and a copolyether ester block copolymer; articles formed therefrom,Other,ERROR,0.0,ERROR,0.0
+053-453-231-835-764,Service Processing Method and Related Apparatus,Other,ERROR,0.0,ERROR,0.0
+157-369-879-202-731,Switching system for ATM dual switch system,Other,ERROR,0.0,ERROR,0.0
+096-751-968-571-666,Process for producing porous materials,Other,ERROR,0.0,ERROR,0.0
+062-674-392-015-957,Perfluoroelastomer gels,Other,ERROR,0.0,ERROR,0.0
+060-398-101-223-334,GRAVITY GRADIOMETER,Other,ERROR,0.0,ERROR,0.0
+132-567-828-657-680,STRUCTURAL COLOR MULTILAYER STRUCTURES HAVING BARRIER LAYERS,Other,ERROR,0.0,ERROR,0.0
+098-048-624-561-593,Automated programmable dehumidifier,Other,ERROR,0.0,ERROR,0.0
+011-585-400-746-326,"IMAGE PROCESSING APPARATUS, IMAGING APPARATUS, IMAGE PROCESSING METHOD, AND PROGRAM",Other,ERROR,0.0,ERROR,0.0
+024-129-067-777-024,Oil pump rotor assembly,Other,ERROR,0.0,ERROR,0.0
+119-120-615-831-743,THREAT MITIGATION SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+046-104-839-162-212,Method and device for image processing,Other,ERROR,0.0,ERROR,0.0
+100-267-721-462-095,TFE-based thermoprocessable copolymers,Other,ERROR,0.0,ERROR,0.0
+170-578-281-375-699,TIRE,Other,ERROR,0.0,ERROR,0.0
+056-862-952-642-141,Email validation,Other,ERROR,0.0,ERROR,0.0
+127-048-306-273-553,Method and system for automatically detecting and blocking robocalls,Other,ERROR,0.0,ERROR,0.0
+167-740-658-685-238,"IMAGE PROCESSING DEVICE, SYSTEM, AND METHOD",Other,ERROR,0.0,ERROR,0.0
+178-879-847-715-876,AERIAL VEHICLE,Other,ERROR,0.0,ERROR,0.0
+141-214-104-993-024,PROCESS TO PREPARE AN ELECTRODE FOR AN ELECTROCHEMICAL STORAGE DEVICE,Other,ERROR,0.0,ERROR,0.0
+124-905-776-100-221,WEARABLE CARDIOVERTER DEFIBRILLATOR WITH AI-BASED FEATURES,Other,ERROR,0.0,ERROR,0.0
+127-544-737-206-144,METHODS AND SYSTEMS FOR PROCESSING LOG DATA,Other,ERROR,0.0,ERROR,0.0
+095-957-381-281-632,Oil Pump Rotor Assembly,Other,ERROR,0.0,ERROR,0.0
+106-426-529-236-075,TFE-based thermoprocessable copolymers,Other,ERROR,0.0,ERROR,0.0
+057-689-428-844-409,APO-AI/AII PEPTIDE DERIVATIVES,Other,ERROR,0.0,ERROR,0.0
+146-769-534-047-039,Automated Programmable Dehumidifier,Other,ERROR,0.0,ERROR,0.0
+138-834-797-787-432,AUTOMATED PROGRAMMABLE DEHUMIDIFIER,Other,ERROR,0.0,ERROR,0.0
+021-023-731-770-257,"Polymer, process and use",Other,ERROR,0.0,ERROR,0.0
+179-988-051-617-604,OPERATING MODE REGISTER,Other,ERROR,0.0,ERROR,0.0
+050-518-601-710-084,MEDICAL IMAGE DEVICE AND OPERATING METHOD,Other,ERROR,0.0,ERROR,0.0
+130-303-811-054-670,THREAT MITIGATION SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+089-389-864-394-658,FIELD SERVICES PLATFORM,Other,ERROR,0.0,ERROR,0.0
+140-554-714-612-238,COMPOSITE FILTER AIDS AND METHODS OF USING COMPOSITE FILTER AIDS,Other,ERROR,0.0,ERROR,0.0
+055-217-005-669-639,SYSTEMS AND METHODS FOR CLASSIFYING WAVEFORM DATA USING AN AI MODEL,Other,ERROR,0.0,ERROR,0.0
+028-141-395-144-338,Method and apparatus for hashing data,Other,ERROR,0.0,ERROR,0.0
+148-894-688-608-156,MEDICAL IMAGE DEVICE AND OPERATING METHOD,Other,ERROR,0.0,ERROR,0.0
+175-180-438-204-284,SYSTEMS AND METHODS FOR CLASSIFYING WAVEFORM DATA USING AN AI MODEL,Other,ERROR,0.0,ERROR,0.0
+048-802-022-810-60X,Apo-AI/AII peptide derivatives,Other,ERROR,0.0,ERROR,0.0
+107-101-869-865-004,SYSTEM AND METHOD FOR ESTIMATING MODEL METRICS WITHOUT LABELS,Other,ERROR,0.0,ERROR,0.0
+166-844-424-478-72X,DATA PROCESSING SYSTEM AND DATA PROCESSING METHOD,Other,ERROR,0.0,ERROR,0.0
+179-915-892-047-565,VOICE SERVICE PROCESSING METHOD AND APPARATUS,Other,ERROR,0.0,ERROR,0.0
+107-773-906-740-692,IMAGE PROCESSING METHOD AND RELATED DEVICE,Other,ERROR,0.0,ERROR,0.0
+193-658-578-099-343,PERFLUOROELASTOMER GELS,Other,ERROR,0.0,ERROR,0.0
+090-817-215-446-028,A PROCESS FOR PREPARING SODIUM SILICATE FROM RICE HUSK ASH,Other,ERROR,0.0,ERROR,0.0
+083-864-700-489-273,Method and system for automatically blocking robocalls,Other,ERROR,0.0,ERROR,0.0
+009-099-666-823-303,OPERATING MODE REGISTER,Other,ERROR,0.0,ERROR,0.0
+175-538-133-837-447,"METHODS AND DEVICES FOR PATHOLOGICALLY LABELING MEDICAL IMAGES, METHODS AND DEVICES FOR ISSUING REPORTS BASED ON MEDICAL IMAGES, AND COMPUTER-READABLE STORAGE MEDIA",Other,ERROR,0.0,ERROR,0.0
+014-988-324-528-276,SCALABLE EDGE COMPUTING,Other,ERROR,0.0,ERROR,0.0
+017-623-609-852-026,Method and system for automatically blocking recorded robocalls,Other,ERROR,0.0,ERROR,0.0
+160-559-644-124-797,Optimization of comparator architecture,Other,ERROR,0.0,ERROR,0.0
+126-406-311-811-636,DATA PROCESSING METHOD AND RELATED APPARATUS,Other,ERROR,0.0,ERROR,0.0
+066-840-049-356-312,METHODS AND APPARATUSES FOR RESOURCE MULTIPLEXING,Other,ERROR,0.0,ERROR,0.0
+120-177-396-391-292,OPERATING MODE REGISTER,Other,ERROR,0.0,ERROR,0.0
+159-640-796-616-929,"Methods and devices for pathologically labeling medical images, methods and devices for issuing reports based on medical images, and computer-readable storage media",Other,ERROR,0.0,ERROR,0.0
+177-623-718-747-77X,Display device,Other,ERROR,0.0,ERROR,0.0
+160-646-767-465-888,METHOD AND SYSTEM FOR A VEHICLE,Other,ERROR,0.0,ERROR,0.0
+027-943-285-024-181,APO-AI/AII PEPTIDE DERIVATIVES,Other,ERROR,0.0,ERROR,0.0
+179-795-599-285-894,SURFACE MODIFIED LAYERED DOUBLE HYDROXIDE,Other,ERROR,0.0,ERROR,0.0
+158-511-591-341-40X,CALIBRATING THE OUTPUT OF A LIGHT-EMITTING DIODE,Other,ERROR,0.0,ERROR,0.0
+172-967-198-398-701,SYSTEM AND METHOD FOR ROAAS USING AI/ML MODEL TO SET AUTO BRAKE VALVE,Other,ERROR,0.0,ERROR,0.0
+043-678-006-014-331,SYSTEMS AND METHODS FOR AUTOMATED PAPERWORK,Other,ERROR,0.0,ERROR,0.0
+079-541-592-449-74X,SYSTEM AND METHOD FOR CLASSIFYING MICROSCOPIC PARTICLES,Other,ERROR,0.0,ERROR,0.0
+086-679-057-164-932,PRESS AND PROCESS FOR OPERATING SAME,Other,ERROR,0.0,ERROR,0.0
+058-175-839-356-010,SYSTEM AND METHOD FOR CLASSIFYING MICROSCOPIC PARTICLES,Other,ERROR,0.0,ERROR,0.0
+142-853-233-912-603,Method and System for Replicating and Educating a Game Player,Other,ERROR,0.0,ERROR,0.0
+035-128-809-132-343,Artificial device and method of collecting image of the same,Other,ERROR,0.0,ERROR,0.0
+162-486-961-392-267,"Bit stream separating and merging system, apparatus, method and computer program product",Other,ERROR,0.0,ERROR,0.0
+061-888-857-947-832,METHOD AND APPARATUS FOR REMOVING FLICKER IN A VIDEO,Other,ERROR,0.0,ERROR,0.0
+062-898-269-411-922,BEAM REPORT WITH AI CAPABILITY,Other,ERROR,0.0,ERROR,0.0
+186-354-732-380-779,COMPRESSOR WHEEL OF THE COMPRESSOR OF AN EXHAUST-GAS TURBOCHARGER,Other,ERROR,0.0,ERROR,0.0
+164-573-055-142-774,PHOSPHATE AND BORATE GLASSES WITH HIGH ELASTIC MODULI,Other,ERROR,0.0,ERROR,0.0
+182-388-428-448-046,SYSTEM AND METHOD FOR OPTIMIZED SCHEDULING OF DATA BACKUP/RESTORE,Other,ERROR,0.0,ERROR,0.0
+090-398-828-475-848,CROSSTALK EMULATOR FOR XDSL CABLE,Other,ERROR,0.0,ERROR,0.0
+193-214-842-562-716,PROCESS FOR PRODUCING A ZEOLITE POSSESSING A FERRIRITE STRUCTURE PROPERTY,Other,ERROR,0.0,ERROR,0.0
+155-430-341-032-037,Exposure Apparatus,Other,ERROR,0.0,ERROR,0.0
+080-181-913-579-641,ARTIFICIAL DEVICE AND METHOD OF COLLECTING IMAGE OF THE SAME,Other,ERROR,0.0,ERROR,0.0
+101-472-076-167-446,Method for preparing a mixture of alcohols,Other,ERROR,0.0,ERROR,0.0
+178-783-822-981-880,Voice service processing method and apparatus,Other,ERROR,0.0,ERROR,0.0
+184-095-142-672-978,Method for preparing a mixture of alcohols,Other,ERROR,0.0,ERROR,0.0
+056-523-976-371-079,Apo-AI/AII peptide derivatives,Other,ERROR,0.0,ERROR,0.0
+086-635-176-891-185,CYBER ATTACK ADVERSARY SIMULATOR,Other,ERROR,0.0,ERROR,0.0
+028-183-764-648-108,MODELING OF GRAPHIC IMAGES FROM TEXT,Other,ERROR,0.0,ERROR,0.0
+117-184-385-509-31X,A deflecting device for a cathode ray tube.,Other,ERROR,0.0,ERROR,0.0
+103-541-134-997-616,ADAPTIVE BEAMFORMING USING SMART REPEATERS,Other,ERROR,0.0,ERROR,0.0
+107-538-110-059-383,"Automated, computerized image processing",Other,ERROR,0.0,ERROR,0.0
+090-825-546-726-972,SERVER DEVICE,Other,ERROR,0.0,ERROR,0.0
+065-749-101-748-273,LED DEVICE,Other,ERROR,0.0,ERROR,0.0
+057-728-122-469-334,IMAGE PROCESSING METHOD AND RELATED DEVICE,Other,ERROR,0.0,ERROR,0.0
+072-498-750-779-141,Video object data storage and processing system,Other,ERROR,0.0,ERROR,0.0
+153-352-452-036-117,"DATA PROCESSING METHOD, DATA PROCESSING DEVICE, AND STORAGE MEDIUM",Other,ERROR,0.0,ERROR,0.0
+125-024-825-189-717,Wearable cardioverter defibrillator with AI-based features,Other,ERROR,0.0,ERROR,0.0
+132-684-620-559-507,THERMAL BATTERY,Other,ERROR,0.0,ERROR,0.0
+067-398-368-537-548,LASER RADAR DEVICE,Other,ERROR,0.0,ERROR,0.0
+018-179-446-424-841,Video processing apparatus and method,Other,ERROR,0.0,ERROR,0.0
+045-612-243-028-340,ALPHA SCOUT STAR SYSTEM AND METHOD,Other,ERROR,0.0,ERROR,0.0
+183-956-166-694-595,Polymer mixture from ABS or ABS + PC and a copolyether ester block copolymer; articles formed therefrom.,Other,ERROR,0.0,ERROR,0.0
+105-143-173-417-900,Apparatus and method for detecting twist in articles,Other,ERROR,0.0,ERROR,0.0
+071-524-563-024-683,POLLUCITE-BASED CERAMIC WITH LOW CTE,Other,ERROR,0.0,ERROR,0.0
+084-798-693-020-058,METHOD FOR GRAFTING POLYMERS ON METALLIC SUBSTRATES,Other,ERROR,0.0,ERROR,0.0
+095-536-096-939-540,DEVICE FOR PRODUCING A GAS-LIQUID MIXTURE FOR FIREFIGHTING PURPOSES,Other,ERROR,0.0,ERROR,0.0
+192-523-529-044-78X,Crosstalk emulator for xDSL cable,Other,ERROR,0.0,ERROR,0.0
+061-338-281-493-017,VASCULAR GRAFT SYSTEM AND A METHOD OF PROCESSING AN ARTERIAL PRESSURE PULSE TRACE,Other,ERROR,0.0,ERROR,0.0
+052-042-399-403-508,Process for preparing a mixture of alcohols,Other,ERROR,0.0,ERROR,0.0
+094-939-212-163-824,GLASS ARTICLES AND METHODS FOR IMPROVING THE RELIABILITY OF GLASS ARTICLES,Other,ERROR,0.0,ERROR,0.0
+195-439-915-621-423,RADIOMETRIC IMAGING,Other,ERROR,0.0,ERROR,0.0
+168-786-415-347-605,Crosstalk emulator for xDSL cable,Other,ERROR,0.0,ERROR,0.0
+098-237-620-396-482,CERAMIC OR GLASS-CERAMIC ARTICLE AND METHODS FOR PRODUCING SUCH ARTICLE,Other,ERROR,0.0,ERROR,0.0
+066-207-837-923-994,POROUS COMPOSITE METAL-CERAMIC MATERIALS,Other,ERROR,0.0,ERROR,0.0
+194-551-920-851-657,SYSTEM AND METHOD FOR ISOLATING ATTITUDE FAILURES IN AIRCRAFT,Other,ERROR,0.0,ERROR,0.0
+107-136-804-068-645,Polymer mixture from ABS or ABS + PC and a copolyether ester block copolymer; articles formed therefrom.,Other,ERROR,0.0,ERROR,0.0
+063-662-830-988-715,SERVICE PROCESSING METHOD AND RELATED APPARATUS,Other,ERROR,0.0,ERROR,0.0
+094-263-585-101-215,Press and process for operating same,Other,ERROR,0.0,ERROR,0.0
+045-419-897-447-03X,APPARATUS AND METHOD FOR SPLIT PROCESSING OF MODEL,Other,ERROR,0.0,ERROR,0.0
+131-243-656-432-348,METHOD FOR PROCESSING PLASTIC PARTICLES AND A PLASTICIZING SCREW FOR A METHOD OF THIS TYPE,Other,ERROR,0.0,ERROR,0.0
+153-682-805-158-93X,System and method for isolating attitude failures in aircraft,Other,ERROR,0.0,ERROR,0.0
+044-505-914-334-702,DISPLAY DEVICE,Other,ERROR,0.0,ERROR,0.0
+168-308-907-752-352,A SYSTEM AND A METHOD FOR PREDICTING TIME OF OVULATION,Other,ERROR,0.0,ERROR,0.0
+184-557-161-070-802,Method of Structuring a Database of Objects,Other,ERROR,0.0,ERROR,0.0
+042-784-727-136-26X,"Systems, apparatus and methods for using biofeedback for altering speech",Other,ERROR,0.0,ERROR,0.0
+193-936-892-389-004,Overlap mark set and method for selecting recipe of measuring overlap error,Other,ERROR,0.0,ERROR,0.0
+094-953-229-361-553,VOICE SERVICE PROCESSING METHOD AND APPARATUS,Other,ERROR,0.0,ERROR,0.0
+131-896-571-446-183,Fluoroelastomers,Other,ERROR,0.0,ERROR,0.0
+023-112-018-586-013,POLYMER FOR CABLE JACKET,Other,ERROR,0.0,ERROR,0.0
+097-711-264-274-583,METHOD AND APPARATUS FOR FILTERING VIDEO,Other,ERROR,0.0,ERROR,0.0
+116-723-679-351-54X,"POLYMER, PROCESS AND USE",Other,ERROR,0.0,ERROR,0.0
+002-609-569-384-372,Digital filter,Other,ERROR,0.0,ERROR,0.0
+081-510-454-923-685,SURFACE MODIFIED LAYERED DOUBLE HYDROXIDE,Other,ERROR,0.0,ERROR,0.0
+192-601-978-560-334,VIDEO OBJECT DATA STORAGE AND PROCESSING SYSTEM,Other,ERROR,0.0,ERROR,0.0
+021-932-168-896-827,METHOD FOR FABRICATING SPUTTERING TARGETS,Other,ERROR,0.0,ERROR,0.0
+156-700-073-012-868,Apparatus and method for detecting twist in articles,Other,ERROR,0.0,ERROR,0.0
+046-831-621-565-650,BICYCLE FRAME HAVING A TRI-OVAL FRAME MEMBER,Other,ERROR,0.0,ERROR,0.0
+023-474-145-348-884,Adaptive life advisor system,Other,ERROR,0.0,ERROR,0.0
+103-086-166-046-32X,THE BLOCKWORLD PROJECT,Other,ERROR,0.0,ERROR,0.0
+132-559-010-812-402,Compact passive repeater,Other,ERROR,0.0,ERROR,0.0
+025-806-443-285-958,CATALYSTS,Other,ERROR,0.0,ERROR,0.0
+168-185-448-038-469,A GAS DIFFUSER DEVICE FOR CAR SAFETY,Other,ERROR,0.0,ERROR,0.0
+192-136-079-677-167,HIGH-K HETEROSTRUCTURE,Other,ERROR,0.0,ERROR,0.0
+079-239-764-329-027,WEARABLE CARDIOVERTER DEFIBRILLATOR WITH AI-BASED FEATURES,Other,ERROR,0.0,ERROR,0.0
+061-701-379-369-157,"POLYMER, PROCESS AND USE",Other,ERROR,0.0,ERROR,0.0
+000-884-466-353-921,METHOD FOR TRACKING PRODUCT HISTORY,Other,ERROR,0.0,ERROR,0.0
+169-209-109-396-595,MODEL PROCESSING METHOD AND RELATED DEVICE,Other,ERROR,0.0,ERROR,0.0
+057-656-291-727-859,IMMERSIVE ECOSYSTEM,Other,ERROR,0.0,ERROR,0.0
+002-906-756-085-504,A METHOD AND A DEVICE FOR IMAGING A VISCO-ELASTIC MEDIUM,Other,ERROR,0.0,ERROR,0.0
+159-560-699-768-197,SHIP EVACUATION SYSTEM,Other,ERROR,0.0,ERROR,0.0
+037-905-637-574-466,Liquid sampling valve.,Other,ERROR,0.0,ERROR,0.0
+090-705-312-463-544,Data shuffling apparatus possessing reduced memory,Other,ERROR,0.0,ERROR,0.0
+102-432-231-407-148,Systems and methods for facilitating secure dual custody activities,Other,ERROR,0.0,ERROR,0.0
+084-310-655-453-133,LABELING DEVICE,Other,ERROR,0.0,ERROR,0.0
+065-605-427-029-583,UE RADIO DATA COLLECTING,Other,ERROR,0.0,ERROR,0.0
+014-972-480-542-524,Method for Scheduling Hardware Accelerator and Task Scheduler,Other,ERROR,0.0,ERROR,0.0
+165-541-548-928-193,Spare decoder circuit,Other,ERROR,0.0,ERROR,0.0
+148-929-322-892-41X,BOTTLE LIFTING DEVICE,Other,ERROR,0.0,ERROR,0.0
+172-151-695-089-801,VALIDATING VALUE CARRIERS,Other,ERROR,0.0,ERROR,0.0
+019-262-711-514-703,Glass articles and methods for improving the reliability of glass articles,Other,ERROR,0.0,ERROR,0.0
+178-943-849-270-034,METHOD AND SYSTEM OF DEVELOPING AND EXECUTING TEST PROGRAM FOR VERIFYING DUT,Other,ERROR,0.0,ERROR,0.0
+157-940-640-626-065,"GAS-TIGHT, HEAT-PERMEABLE MULTILAYER CERAMIC COMPOSITE TUBE",Other,ERROR,0.0,ERROR,0.0
+039-896-264-556-572,"POLYMER, PROCESS AND USE",Other,ERROR,0.0,ERROR,0.0
+171-886-296-994-32X,Method and system for performing real-time data validation,Other,ERROR,0.0,ERROR,0.0
+178-403-594-599-884,OPTICAL COMPUTING DEVICE AND OPTICAL COMPUTING METHOD,Other,ERROR,0.0,ERROR,0.0
+039-566-903-797-582,MODEL PROCESSING METHOD AND RELATED APPARATUS,Other,ERROR,0.0,ERROR,0.0
+052-414-099-473-453,METHOD AND SYSTEM FOR REPLICATING AND EDUCATING A GAME PLAYER,Other,ERROR,0.0,ERROR,0.0
+074-378-765-787-132,DECODER,Other,ERROR,0.0,ERROR,0.0
+089-555-318-742-353,METHOD AND SYSTEM FOR AUTOMATICALLY BLOCKING ROBOCALLS,Other,ERROR,0.0,ERROR,0.0
+114-057-665-711-618,IMAGE PROCESSING METHOD AND APPARATUS,Other,ERROR,0.0,ERROR,0.0
+079-463-331-675-49X,ELECTROPHOTOGRAPHIC PLATE AND PROCESS FOR PRODUCING THE SAME,Other,ERROR,0.0,ERROR,0.0
+037-544-486-194-51X,DO-NO-HARM IOT DEVICE(S),Other,ERROR,0.0,ERROR,0.0
+030-100-550-340-672,FALLBACK TO R99 PRACH,Other,ERROR,0.0,ERROR,0.0
+142-289-299-651-19X,PROCESS FOR PRODUCING POROUS MATERIALS,Other,ERROR,0.0,ERROR,0.0
+199-608-380-800-707,PROCESS FOR PRODUCING POROUS MATERIALS,Other,ERROR,0.0,ERROR,0.0
+035-981-867-039-575,ITERATIVE SEARCH SYSTEM,Other,ERROR,0.0,ERROR,0.0
+139-523-332-242-529,Low-cost attritable aircraft modified with adaptive suites,Other,ERROR,0.0,ERROR,0.0
+092-626-757-429-071,IMPROVED SPACE FOCUS TIME OF FLIGHT MASS SPECTROMETER,Other,ERROR,0.0,ERROR,0.0
+058-551-159-615-767,METHOD AND SYSTEM FOR PERFORMING REAL-TIME DATA VALIDATION,Other,ERROR,0.0,ERROR,0.0
+000-161-034-929-617,Object mesh based on a depth image,Other,ERROR,0.0,ERROR,0.0
+022-363-374-756-285,EVALUATION FACILITATING CIRCUIT DEVICE,Other,ERROR,0.0,ERROR,0.0
+148-240-133-300-606,Virtual Radar Apparatus and Method,Other,ERROR,0.0,ERROR,0.0
+099-526-983-780-675,SURGICAL ARMREST,Other,ERROR,0.0,ERROR,0.0
+122-325-487-459-410,TILE GLAZE,Other,ERROR,0.0,ERROR,0.0
+116-421-714-471-739,REFLECTIVE STRUCTURE FOR SURFACE ACOUSTIC WAVE DEVICES (SAW),Other,ERROR,0.0,ERROR,0.0
+191-428-140-564-611,Process for preparing a mixture of alcohols,Other,ERROR,0.0,ERROR,0.0
+196-222-036-679-118,Image forming apparatus,Other,ERROR,0.0,ERROR,0.0
+019-627-721-617-991,SIZE-REVERSING MATERIALS FOR REFORMING IN CYCLIC FLOW REACTORS,Other,ERROR,0.0,ERROR,0.0
+089-852-064-160-150,Image processing system and method,Other,ERROR,0.0,ERROR,0.0
+028-933-902-702-011,SYSTEM AND METHOD FOR ISOLATING ATTITUDE FAILURES IN AIRCRAFT,Other,ERROR,0.0,ERROR,0.0
+048-150-200-363-355,SchooliT,Other,ERROR,0.0,ERROR,0.0
+199-371-479-903-201,"COLD-ROLLED FLAT STEELPRODUCT AND USE, AND METHOD FOR PRODUCING SUCH A FLAT STEEL PRODUCT",Other,ERROR,0.0,ERROR,0.0
+080-911-483-427-18X,Perfluoroelastomer gels,Other,ERROR,0.0,ERROR,0.0
+149-421-962-875-879,METHODS AND SYSTEMS FOR RE-ESTIMATING STOCK,Other,ERROR,0.0,ERROR,0.0
+112-437-780-049-051,OPHTHALMIC APPARATUS,Other,ERROR,0.0,ERROR,0.0
+163-890-817-101-868,Erasure recovery in a distributed storage system,Other,ERROR,0.0,ERROR,0.0
+014-678-007-495-075,A DEVICE FOR EMITTING LIGHT AND A METHOD FOR PRODUCING A LIGHT-EMITTING DEVICE,Other,ERROR,0.0,ERROR,0.0
+186-444-465-464-941,Image processing method and apparatus,Other,ERROR,0.0,ERROR,0.0
+097-216-470-225-389,VIRTUAL PHOTOREALISTIC DIGITAL ACTOR SYSTEM FOR REMOTE SERVICE OF CUSTOMERS,Other,ERROR,0.0,ERROR,0.0
+171-271-527-640-561,Virtual Photorealistic Digital Actor System for Remote Service of Customers,Other,ERROR,0.0,ERROR,0.0
+073-560-783-817-969,METHODS AND SYSTEMS FOR RE-ESTIMATING STOCK,Other,ERROR,0.0,ERROR,0.0
+177-817-335-246-498,Fluoroelastomer gels,Other,ERROR,0.0,ERROR,0.0
+056-701-719-186-349,METHOD AND APPARATUS FOR COMPRESSING DATA,Other,ERROR,0.0,ERROR,0.0
+012-617-163-923-885,BREATH DETECTING SYSTEM AND BREATH DETECTING MAT THEREOF,Other,ERROR,0.0,ERROR,0.0
+023-981-678-125-655,ERASURE RECOVERY IN A DISTRIBUTED STORAGE SYSTEM,Other,ERROR,0.0,ERROR,0.0
+133-603-206-595-659,ELECTRO-OPTIC MODULATOR,Other,ERROR,0.0,ERROR,0.0
+071-820-742-622-087,STEELMAKING PROCESS USING CALCIUM CARBIDE AS FUEL,Other,ERROR,0.0,ERROR,0.0
+027-977-100-924-737,DECODING METHOD AND DEVICE,Other,ERROR,0.0,ERROR,0.0
+013-167-153-841-799,Golf Ball,Other,ERROR,0.0,ERROR,0.0
+158-416-403-883-32X,CHARGING METHOD FOR SERIES BATTERY CELLS,Other,ERROR,0.0,ERROR,0.0
+045-137-289-392-404,MICROPORATOR FOR CREATING A PERMEATION SURFACE,Other,ERROR,0.0,ERROR,0.0
+021-455-223-186-467,Golf ball,Other,ERROR,0.0,ERROR,0.0
+090-985-826-358-556,METHOD FOR PRODUCING A SPUTTERING TARGET,Other,ERROR,0.0,ERROR,0.0
+046-440-858-468-156,Perfluoroelastomer gels,Other,ERROR,0.0,ERROR,0.0
+126-416-549-899-198,Liquid sampling valve,Other,ERROR,0.0,ERROR,0.0
+188-496-227-411-438,Method and system for processing data related to mail items to be shipped,Other,ERROR,0.0,ERROR,0.0
+055-676-019-086-891,RECEPTACLE HOLDER AND RECEPTACLE RACK,Other,ERROR,0.0,ERROR,0.0
+181-235-910-974-876,Al-Cu-Mg-Si ALLOY AND METHOD FOR PRODUCING THE SAME,Other,ERROR,0.0,ERROR,0.0
+163-309-860-639-389,POLYMER FOR CABLE JACKET,Other,ERROR,0.0,ERROR,0.0
+153-739-383-342-343,PROCESS FOR IMPROVED HALIDE MATERIALS,Other,ERROR,0.0,ERROR,0.0
+001-343-734-425-480,METAL OXIDE VARISTOR,Other,ERROR,0.0,ERROR,0.0
+011-761-157-850-384,PROCESS FOR PREPARING ACRYLATE COPOLYMERS,Other,ERROR,0.0,ERROR,0.0
+111-315-163-583-193,Golf Ball,Other,ERROR,0.0,ERROR,0.0
+165-581-682-769-310,METHODS AND APPARATUSES FOR RESOURCE MULTIPLEXING,Other,ERROR,0.0,ERROR,0.0
+112-871-859-913-131,RETROFIT LED ADAPTER,Other,ERROR,0.0,ERROR,0.0
+128-620-053-612-844,SHIELDED METAL ARC WELDING ELECTRODE FOR CR-MO LOW ALLOY STEELS,Other,ERROR,0.0,ERROR,0.0
