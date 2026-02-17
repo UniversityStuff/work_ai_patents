@@ -14,7 +14,7 @@ INPUT_DIR = BASE_DIR / "../Data/CSVBaseData"
 OUTPUT_DIR = BASE_DIR / "Results"
 
 # Embedder type: "gemini" or "bert"
-EMBEDDER_TYPE = "bert"
+EMBEDDER_TYPE = "gemini"
 
 MODEL_PATH = OUTPUT_DIR / f"svm_classifier_{EMBEDDER_TYPE}.pkl"
 
@@ -26,7 +26,11 @@ RANDOM_STATE = 42
 BALANCE_SAMPLE_SIZE = None
 
 # Hyperparameter tuning (slower but may improve results)
+# Hyperparameter tuning (slower but may improve results)
 TUNE_HYPERPARAMETERS = False
+
+# Force use of cached embeddings (skip generation even if data changed)
+FORCE_USE_CACHE = True
 
 # Classification Categories
 CATEGORIES = [
@@ -161,8 +165,8 @@ def main():
     
     # Generate embeddings
     print("\n5. Generating embeddings...")
-    X_train = embedder.get_embeddings_batch(X_texts_train, labels=y_train, ids=ids_train, cache_name="train_embeddings")
-    X_test = embedder.get_embeddings_batch(X_texts_test, labels=y_test, ids=ids_test, cache_name="test_embeddings")
+    X_train = embedder.get_embeddings_batch(X_texts_train, labels=y_train, ids=ids_train, cache_name="train_embeddings", force_use_cache=FORCE_USE_CACHE)
+    X_test = embedder.get_embeddings_batch(X_texts_test, labels=y_test, ids=ids_test, cache_name="test_embeddings", force_use_cache=FORCE_USE_CACHE)
     
     # Train classifier
     print("\n6. Training classifier...")
@@ -185,45 +189,48 @@ def main():
     cm = confusion_matrix(y_test, predictions, labels=CATEGORIES)
     print(pd.DataFrame(cm, index=CATEGORIES, columns=CATEGORIES))
     
+
     # Cross-validation on FULL dataset for more robust estimate
-    print("\n7b. Running 5-fold cross-validation for robust estimate...")
-    X_all = embedder.get_embeddings_batch(texts, labels=labels, ids=lens_ids, cache_name="all_embeddings")
+    # Just leave it here for reference, but TLDR: seems robust enough
+
+    # print("\n7b. Running 5-fold cross-validation for robust estimate...")
+    # X_all = embedder.get_embeddings_batch(texts, labels=labels, ids=lens_ids, cache_name="all_embeddings")
     
-    cv_pipeline = classifier.create_svm_classifier()
-    cv = StratifiedKFold(n_splits=5, shuffle=True, random_state=RANDOM_STATE)
-    cv_scores = cross_val_score(cv_pipeline, X_all, labels, cv=cv, scoring='accuracy')
+    # cv_pipeline = classifier.create_svm_classifier()
+    # cv = StratifiedKFold(n_splits=5, shuffle=True, random_state=RANDOM_STATE)
+    # cv_scores = cross_val_score(cv_pipeline, X_all, labels, cv=cv, scoring='accuracy')
     
-    print(f"\nCross-validation results (5-fold):")
-    print(f"  Scores: {cv_scores}")
-    print(f"  Mean accuracy: {cv_scores.mean():.4f} (+/- {cv_scores.std() * 2:.4f})")
+    # print(f"\nCross-validation results (5-fold):")
+    # print(f"  Scores: {cv_scores}")
+    # print(f"  Mean accuracy: {cv_scores.mean():.4f} (+/- {cv_scores.std() * 2:.4f})")
     
-    # Get top-2 predictions for test set
-    print("\n8. Generating detailed results...")
-    top_two_results = classifier.get_top_two_predictions(clf, X_test)
+    # # Get top-2 predictions for test set
+    # print("\n8. Generating detailed results...")
+    # top_two_results = classifier.get_top_two_predictions(clf, X_test)
     
-    # Save detailed results
-    results_file = OUTPUT_DIR / "aggregated_results.csv"
-    with open(results_file, 'w', newline='', encoding='utf-8') as f:
-        writer = csv.DictWriter(f, fieldnames=[
-            'LensID', 'Title', 'true_category', 
-            'predicted_one', 'confidence_one', 
-            'predicted_two', 'confidence_two'
-        ])
-        writer.writeheader()
+    # # Save detailed results
+    # results_file = OUTPUT_DIR / "aggregated_results.csv"
+    # with open(results_file, 'w', newline='', encoding='utf-8') as f:
+    #     writer = csv.DictWriter(f, fieldnames=[
+    #         'LensID', 'Title', 'true_category', 
+    #         'predicted_one', 'confidence_one', 
+    #         'predicted_two', 'confidence_two'
+    #     ])
+    #     writer.writeheader()
         
-        for i, result in enumerate(top_two_results):
-            writer.writerow({
-                'LensID': ids_test[i],
-                'Title': titles_test[i],
-                'true_category': y_test[i],
-                'predicted_one': result['predicted_one'],
-                'confidence_one': result['confidence_one'],
-                'predicted_two': result['predicted_two'],
-                'confidence_two': result['confidence_two']
-            })
+    #     for i, result in enumerate(top_two_results):
+    #         writer.writerow({
+    #             'LensID': ids_test[i],
+    #             'Title': titles_test[i],
+    #             'true_category': y_test[i],
+    #             'predicted_one': result['predicted_one'],
+    #             'confidence_one': result['confidence_one'],
+    #             'predicted_two': result['predicted_two'],
+    #             'confidence_two': result['confidence_two']
+    #         })
     
-    print(f"\nResults saved to: {results_file}")
-    print("\nDone!")
+    # print(f"\nResults saved to: {results_file}")
+    # print("\nDone!")
 
 
 if __name__ == "__main__":

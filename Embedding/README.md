@@ -23,7 +23,7 @@ python main.py
 
 1. **Data Loading**: Reads patent CSVs from `Data/CSVBaseData/`
 2. **Class Balancing**: Undersamples "Other" category to match textile category sizes
-3. **Embeddings**: Uses Gemini `text-embedding-004` model (cached in `cache/`)
+3. **Embeddings**: Uses Gemini `text-embedding-004` model (cached in `cache/`) or bart for patents
 4. **Training**: SVM with RBF kernel and balanced class weights
 5. **Evaluation**: Train/test split (80/20), outputs accuracy, F1, and confusion matrix
 
@@ -33,9 +33,11 @@ Edit `main.py` to adjust:
 - `TEST_SIZE`: Train/test split ratio (default: 0.2)
 - `BALANCE_SAMPLE_SIZE`: Override automatic balancing size
 - `TUNE_HYPERPARAMETERS`: Enable grid search (slower)
+- `EMBEDDER_TYPE`: "gemini" or "bert"
+- `FORCE_USE_CACHE`: "True" or "False"
 
 ## Output
 
 Results are saved to `Results/`:
-- `aggregated_results.csv`: Predictions with confidence scores
+- see in console output
 - `svm_classifier.pkl`: Trained model

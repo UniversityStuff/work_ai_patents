@@ -106,7 +106,7 @@ def get_embedding(text: str) -> list[float]:
         return get_gemini_embedding(text)
 
 
-def get_embeddings_batch(texts: list[str], labels: list = None, ids: list = None, cache_name: str = None) -> np.ndarray:
+def get_embeddings_batch(texts: list[str], labels: list = None, ids: list = None, cache_name: str = None, force_use_cache: bool = False) -> np.ndarray:
     """
     Get embeddings for a batch of texts.
     Optionally caches results to avoid re-computation.
@@ -116,6 +116,7 @@ def get_embeddings_batch(texts: list[str], labels: list = None, ids: list = None
         labels: Optional list of labels/categories corresponding to texts
         ids: Optional list of IDs corresponding to texts
         cache_name: Optional name for cache file
+        force_use_cache: If True, use cached embeddings even if hash mismatches (use with caution)
         
     Returns:
         numpy array of embeddings with shape (len(texts), embedding_dim)
@@ -145,6 +146,12 @@ def get_embeddings_batch(texts: list[str], labels: list = None, ids: list = None
                 # Check if we need to invalidate because we want to save labels/ids but they aren't there
                 cache_has_metadata = isinstance(cached_data, dict) and 'labels' in cached_data and 'ids' in cached_data
                 need_metadata = labels is not None or ids is not None
+                
+                if force_use_cache:
+                    print(f"  FORCE_USE_CACHE is True. Using cached embeddings without strict validation.")
+                    if len(cached_embeddings) != len(texts):
+                        print(f"  WARNING: Cached embeddings count ({len(cached_embeddings)}) does not match input text count ({len(texts)}). This might cause issues.")
+                    return np.array(cached_embeddings)
                 
                 if cached_hash == unique_id and len(cached_embeddings) == len(texts):
                     if not need_metadata or cache_has_metadata:
